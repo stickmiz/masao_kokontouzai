@@ -1,0 +1,323 @@
+var list = [];
+
+$.ajax({
+  type: "GET",
+  url: "list.json",
+  dataType: "json",
+  async: false,
+  cache: false,
+  success: function(json) {
+    list = json;
+  }
+});
+
+function creatTable(mode, order, kind_masao, feature) {
+  var count = 0;
+  var isModeDisplay;
+  var isOrderDisplay;
+  var isKindMasaoDisplay;
+  var isFeatureDisplay;
+  
+  for (var i = 0; i < list.length; i++) {
+    switch (mode) {
+      case "now":
+        if (list[i].archive == 0 || list[i].archive == 3) {
+          isModeDisplay = true;
+        } else {
+          isModeDisplay = false;
+        }
+        break;
+      case "canvas":
+        if (list[i].archive == 3) {
+          isModeDisplay = true;
+        } else {
+          isModeDisplay = false;
+        }
+        break;
+      case "archive":
+        if (list[i].archive == 4) {
+          isModeDisplay = true;
+        } else {
+          isModeDisplay = false;
+        }
+        break;
+      default:
+        isModeDisplay = true;
+        break;
+    }
+    
+    switch (order) {
+      case "a":
+        if (list[i].site.yomi.charAt(0) >= "あ" && list[i].site.yomi.charAt(0) <= "お") {
+          isOrderDisplay = true;
+        } else {
+          isOrderDisplay = false;
+        }
+        break;
+      case "k":
+        if (list[i].site.yomi.charAt(0) >= "か" && list[i].site.yomi.charAt(0) <= "こ") {
+          isOrderDisplay = true;
+        } else {
+          isOrderDisplay = false;
+        }
+        break;
+      case "s":
+        if (list[i].site.yomi.charAt(0) >= "さ" && list[i].site.yomi.charAt(0) <= "そ") {
+          isOrderDisplay = true;
+        } else {
+          isOrderDisplay = false;
+        }
+        break;
+      case "t":
+        if (list[i].site.yomi.charAt(0) >= "た" && list[i].site.yomi.charAt(0) <= "と") {
+          isOrderDisplay = true;
+        } else {
+          isOrderDisplay = false;
+        }
+        break;
+      case "n":
+        if (list[i].site.yomi.charAt(0) >= "な" && list[i].site.yomi.charAt(0) <= "の") {
+          isOrderDisplay = true;
+        } else {
+          isOrderDisplay = false;
+        }
+        break;
+      case "h":
+        if (list[i].site.yomi.charAt(0) >= "は" && list[i].site.yomi.charAt(0) <= "ほ") {
+          isOrderDisplay = true;
+        } else {
+          isOrderDisplay = false;
+        }
+        break;
+      case "m":
+        if (list[i].site.yomi.charAt(0) >= "ま" && list[i].site.yomi.charAt(0) <= "も") {
+          isOrderDisplay = true;
+        } else {
+          isOrderDisplay = false;
+        }
+        break;
+      case "y":
+        if (list[i].site.yomi.charAt(0) >= "や" && list[i].site.yomi.charAt(0) <= "よ") {
+          isOrderDisplay = true;
+        } else {
+          isOrderDisplay = false;
+        }
+        break;
+      case "r":
+        if (list[i].site.yomi.charAt(0) >= "ら" && list[i].site.yomi.charAt(0) <= "ろ") {
+          isOrderDisplay = true;
+        } else {
+          isOrderDisplay = false;
+        }
+        break;
+      case "w":
+        if (list[i].site.yomi.charAt(0) >= "わ" && list[i].site.yomi.charAt(0) <= "ん") {
+          isOrderDisplay = true;
+        } else {
+          isOrderDisplay = false;
+        }
+        break;
+      default:
+        isOrderDisplay = true;
+        break;
+    }
+
+    if (kind_masao == "all" || kind_masao == 0) {
+      isKindMasaoDisplay = true;
+    } else {
+      if (list[i].kind_masao instanceof Array) {
+        for (var j = 0; j < list[i].kind_masao.length; j++) {
+          if (kind_masao == list[i].kind_masao[j]) {
+            isKindMasaoDisplay = true;
+            break;
+          } else {
+            isKindMasaoDisplay = false;
+          }
+        }
+      } else {
+        if (kind_masao == list[i].kind_masao) {
+          isKindMasaoDisplay = true;
+        } else {
+          isKindMasaoDisplay = false;
+        }
+      }
+    }
+
+    if (feature == "all" || feature == 0) {
+      isFeatureDisplay = true;
+    } else {
+      if (list[i].feature instanceof Array) {
+        for (var j = 0; j < list[i].feature.length; j++) {
+          if (feature == list[i].feature[j]) {
+            isFeatureDisplay = true;
+            break;
+          } else {
+            isFeatureDisplay = false;
+          }
+        }
+      } else {
+        if (feature == list[i].feature) {
+          isFeatureDisplay = true;
+        } else {
+          isFeatureDisplay = false;
+        }
+      }
+    }
+
+    if (isModeDisplay == true && isOrderDisplay == true && isKindMasaoDisplay == true && isFeatureDisplay == true) {
+      count += 1;
+      masao(list[i].site.name, list[i].oldname, list[i].webmaster, list[i].banner, list[i].url, list[i].year, list[i].work, list[i].archive, list[i].wayback_time);
+    } 
+  }
+  
+  $("#display_site_num").append("<p>現在、表示している正男サイトの数は<strong>" + count + "</strong>です。</p>");
+  $("img").lazyload({
+      effect : 'fadeIn',
+      effectspeed : 500
+  });
+  
+}
+
+function masao(name, subname, man, banner, http, year, work, wayback, wayback_time) {
+  var tr = document.createElement('tr');
+  var td = document.createElement('td');
+
+  if (wayback == 0) {
+    td.className = 'now';
+  } else if (wayback == 1) {
+    td.className = 'closed';
+  } else if (wayback == 2) {
+    td.className = 'vanished';
+  } else if (wayback == 3) {
+    td.className = 'canvas';
+  } else if (wayback == 4) {
+    td.className = 'archived';
+  }
+  if (wayback != 2) {
+    var a = document.createElement('a');
+    var clickname = "古今東西正男/" + name;
+    a.onclick = function(){
+      ga('send', 'event', 'banner', 'click', clickname);
+    };
+    if (wayback == 1 || wayback == 4) {
+      if (wayback_time === undefined) {
+        a.href = "https://web.archive.org/web/" + http;
+      } else {
+        a.href = "https://web.archive.org/web/" + wayback_time + "/" + http;
+      }
+    } else {
+      a.href = http;
+    }
+    a.target = '_blank';
+    a.className = 'image';
+  }
+  var img = document.createElement('img');
+  if (banner === undefined) {
+    img.setAttribute("dataoriginal", "nobanner.png");
+    img.src = "unload.png";
+  } else {
+    if (banner.size.x > 200) {
+      var hi = banner.size.x / 200;
+      var h = banner.size.y / hi;
+      img.setAttribute("width", 200);
+      img.setAttribute("height", h);
+    } else {
+      img.setAttribute("width", banner.size.x);
+      img.setAttribute("height", banner.size.y);
+    }
+    img.setAttribute("dataoriginal", banner.image);
+    img.setAttribute("src", "unload.png");
+  }
+  img.alt = name;
+  if (wayback == 2) {
+    td.appendChild(img);
+  } else {
+    a.appendChild(img);
+    td.appendChild(a);
+  }
+  tr.appendChild(td);
+  
+  var td = document.createElement('td');
+  var div = document.createElement('div');
+  var em = document.createElement('em');
+  var text = document.createTextNode(name);
+  em.appendChild(text);
+  div.appendChild(em);
+
+  if (subname !== undefined) {
+    var span = document.createElement('span');
+    span.className = 'old';
+    if (subname instanceof Array) {
+      for (var i = 0; i < subname.length; i++) {
+        var br = document.createElement('br');
+        span.appendChild(br);
+        var text = document.createTextNode(subname[i]);
+        span.appendChild(text);
+      }
+    } else {
+      var br = document.createElement('br');
+      span.appendChild(br);
+      var text = document.createTextNode(subname);
+      span.appendChild(text);
+    }
+    div.appendChild(span);
+  }
+  
+  td.appendChild(div);
+  tr.appendChild(td);
+  
+  var td = document.createElement('td');
+  
+  if (man !== undefined) {
+    var text = document.createTextNode(man);
+  } else {
+    var text = document.createTextNode("？");
+  }
+  td.appendChild(text);
+  tr.appendChild(td);
+  
+  var td = document.createElement('td');
+  if (year.from == -1) {
+    year.from = "？";
+  } else if (year.from < 0) {
+    year.from = -year.from + "？";
+  }
+  if (year.to == -1) {
+    year.to = "？";
+  } else if (year.to < 0) {
+    year.to = -year.to + "？";
+  }
+  if (year.to === 0) {
+    var text = document.createTextNode(year.from + "～");
+    td.appendChild(text);
+  } else if (year.from == year.to) {
+    var text = document.createTextNode(year.from);
+    td.appendChild(text);
+  } else {
+    var text = document.createTextNode(year.from + "～" + year.to);
+    td.appendChild(text);
+  }
+  tr.appendChild(td);
+  
+  kokon_nakami.appendChild(tr);
+}
+
+function resetTable() {
+  while (kokon_nakami.rows[0]) kokon_nakami.deleteRow(0);
+  while (display_site_num.firstChild) display_site_num.removeChild(display_site_num.firstChild);
+}
+
+function reCreateTable(mode, order, kind_masao, feature) {
+  resetTable();
+  creatTable(mode, order, kind_masao, feature);
+}
+
+function clickRadio() {
+  reCreateTable(form_mode.radio_mode.value, form_order.radio_order.value, form_kind_masao.radio_kind_masao.value, form_feature.radio_feature.value);
+}
+    
+$(function () {
+  $("#all_site_num").append("<p>現在の正男サイトの総数は<strong>" + list.length + "</strong>です。</p>");
+  var kokon_nakami = document.getElementById('kokon_nakami');
+  creatTable(0, 0, 0, 0);   
+});
