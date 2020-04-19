@@ -3950,6 +3950,19 @@
   },
   {
     "site": {
+      "name": "かさまるホームページ",
+      "yomi": "かさまるほおむへえし"
+    },
+    "webmaster": "かさまる",
+    "url": "http://kasamaru.web.fc2.com/",
+    "year": {
+      "from": 2007,
+      "to": 2007
+    },
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "ガジの庭",
       "yomi": "かしのにわ"
     },
@@ -5878,6 +5891,26 @@
       "ストーリー",
       "カービィ系"
     ],
+    "archive": 0
+  },
+  {
+    "site": {
+      "name": "Chrono's log",
+      "yomi": "くろのすろく"
+    },
+    "webmaster": "Chrono",
+    "banner": {
+      "image": "chrono.jpg",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://ketsui.web.fc2.com/crn/",
+    "year": {
+      "from": 2009,
+      "to": -1
+    },
     "archive": 0
   },
   {
@@ -9152,7 +9185,7 @@
     },
     "webmaster": "GEM",
     "banner": {
-      "image": "gland.png",
+      "image": "gland.gif",
       "size": {
         "x": 160,
         "y": 60
@@ -11029,6 +11062,18 @@
     "feature": "素材配布",
     "wayback_time": 20100408140104,
     "archive": 1
+  },
+  {
+    "site": {
+      "name": "スーパー正男の館！！",
+      "yomi": "すうはあまさおのやかた"
+    },
+    "url": "http://mukai67.web.fc2.com/",
+    "year": {
+      "from": 2012,
+      "to": 2014
+    },
+    "archive": 0
   },
   {
     "site": {
@@ -20603,6 +20648,7 @@
       "name": "正男月光伝",
       "yomi": "まさおけつこうてん"
     },
+    "oldname": "スーパー正男・アイランド",
     "webmaster": "ボルティモ",
     "banner": {
       "image": "gekko.png",
@@ -23476,6 +23522,18 @@
   },
   {
     "site": {
+      "name": "正男連盟",
+      "yomi": "まさおれんめい"
+    },
+    "url": "http://masaorenmei.web.fc2.com/",
+    "year": {
+      "from": -1,
+      "to": -1
+    },
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "正男ロード",
       "yomi": "まさおろおと"
     },
@@ -25431,6 +25489,26 @@
   },
   {
     "site": {
+      "name": "遊戯王デッキ収納館",
+      "yomi": "ゆうきおうてつきしゆうのうかん"
+    },
+    "webmaster": "影人",
+    "banner": {
+      "image": "yugiohdeck.gif",
+      "size": {
+        "x": 88,
+        "y": 31
+      }
+    },
+    "url": "http://kagebito4.web.fc2.com/",
+    "year": {
+      "from": -1,
+      "to": 2010
+    },
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "ゆうきなページ",
       "yomi": "ゆうきなへえし"
     },
@@ -25655,6 +25733,26 @@
     },
     "wayback_time": 20190326163110,
     "archive": 4
+  },
+  {
+    "site": {
+      "name": "夢物語",
+      "yomi": "ゆめものかたり"
+    },
+    "webmaster": "昴",
+    "banner": {
+      "image": "yumemonogatari.png",
+      "size": {
+        "x": 88,
+        "y": 31
+      }
+    },
+    "url": "http://dreamstoryex.web.fc2.com/",
+    "year": {
+      "from": 2007,
+      "to": 2007
+    },
+    "archive": 0
   },
   {
     "site": {
