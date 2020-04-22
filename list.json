@@ -3241,7 +3241,7 @@
     "oldurl": "http://www.geocities.jp/osakatetyan/newpage1.html",
     "year": {
       "from": 2008,
-      "to": 0
+      "to": 2019
     },
     "archive": 0
   },
@@ -4969,13 +4969,14 @@
     "url": "http://sh.wktk.so/",
     "year": {
       "from": -2007,
-      "to": 0
+      "to": 2020
     },
     "kind_masao": [
       "一画面",
       "JS拡張"
     ],
-    "archive": 3
+    "wayback_time": 20200310003408,
+    "archive": 4
   },
   {
     "site": {
@@ -7106,7 +7107,7 @@
     ],
     "year": {
       "from": 2002,
-      "to": 0
+      "to": 2012
     },
     "kind_masao": "ストーリー",
     "feature": "正男100個以上",
@@ -8880,7 +8881,7 @@
     "oldurl": "http://www.geocities.jp/mosolkingdom/",
     "year": {
       "from": 2007,
-      "to": 0
+      "to": 2019
     },
     "kind_masao": "ストーリー",
     "feature": "WWA",
@@ -10920,7 +10921,7 @@
     "oldurl": "http://gms.symphonic-net.com/",
     "year": {
       "from": 2009,
-      "to": 0
+      "to": 2017
     },
     "kind_masao": [
       "自動",
@@ -12392,7 +12393,7 @@
     "suburl": "http://keitaroumasao.web.fc2.com/",
     "year": {
       "from": 2010,
-      "to": 0
+      "to": 2018
     },
     "kind_masao": [
       "ストーリー",
@@ -13574,7 +13575,7 @@
     "url": "http://taruru773.web.fc2.com/",
     "year": {
       "from": 2012,
-      "to": 0
+      "to": -1
     },
     "kind_masao": "ストーリー",
     "feature": "素材配布",
@@ -13625,7 +13626,7 @@
     "url": "http://corrugated.web.fc2.com/",
     "year": {
       "from": 2010,
-      "to": 0
+      "to": -1
     },
     "feature": "まさお3",
     "archive": 0
@@ -16167,7 +16168,7 @@
     ],
     "year": {
       "from": 2002,
-      "to": 0
+      "to": 2019
     },
     "kind_masao": "自動",
     "feature": "WWA",
@@ -16666,7 +16667,7 @@
     "feature": "WWA",
     "year": {
       "from": 2005,
-      "to": 0
+      "to": 2017
     },
     "archive": 3
   },
@@ -17891,7 +17892,7 @@
     "suburl": "http://fukuda.ec-net.jp/naoto/",
     "year": {
       "from": -1,
-      "to": 0
+      "to": 2016
     },
     "kind_masao": "JS拡張",
     "feature": [
@@ -18777,9 +18778,10 @@
     "url": "https://ag5jm.web.fc2.com/",
     "year": {
       "from": 2019,
-      "to": 0
+      "to": 2020
     },
-    "archive": 3
+    "wayback_time": 20191001143742,
+    "archive": 4
   },
   {
     "site": {
@@ -23940,7 +23942,7 @@
         "y": 40
       }
     },
-    "url": "http://popokabi77.tobiiro.jp/home1/game2.html",
+    "url": "http://popokabi77.tobiiro.jp/",
     "oldurl": [
       "http://sky.geocities.jp/popokabi25/Enter.html",
       "http://petat.com/users/popokabi/enter.html",
@@ -23952,7 +23954,8 @@
     },
     "kind_masao": "カービィ系",
     "work": "カビィの冒険記",
-    "archive": 0
+    "wayback_time": 20150504123749,
+    "archive": 4
   },
   {
     "site": {
@@ -24810,7 +24813,7 @@
     "url": "http://retrogarden.konjiki.jp/",
     "year": {
       "from": 2018,
-      "to": 0
+      "to": 2018
     },
     "kind_masao": "ストーリー",
     "archive": 3
@@ -25319,7 +25322,7 @@
     "oldurl": "http://www.iris.dti.ne.jp/~tmrmkt/",
     "year": {
       "from": 2004,
-      "to": 0
+      "to": 2018
     },
     "kind_masao": "ストーリー",
     "archive": 3
@@ -26835,7 +26838,7 @@
     "oldurl": "http://www.geocities.jp/free_masaoworld/top.html",
     "year": {
       "from": 2005,
-      "to": 2015
+      "to": 0
     },
     "kind_masao": "一画面",
     "archive": 3
@@ -27028,11 +27031,12 @@
     "oldurl": "http://www.geocities.jp/renlen12/",
     "year": {
       "from": 2002,
-      "to": 0
+      "to": 2020
     },
     "kind_masao": "ストーリー",
     "work": "ねずみの大冒険",
-    "archive": 0
+    "wayback_time": 20190927090123,
+    "archive": 4
   },
   {
     "site": {
@@ -27348,7 +27352,7 @@
     "oldurl": "http://homepage3.nifty.com/WFHP/",
     "year": {
       "from": -1,
-      "to": 2016
+      "to": 0
     },
     "archive": 3
   },
