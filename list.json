@@ -2097,6 +2097,27 @@
   },
   {
     "site": {
+      "name": "海辺の村",
+      "yomi": "うみへのむら"
+    },
+    "webmaster": "ハレルヤ",
+    "banner": {
+      "image": "umibenomura.gif",
+      "size": {
+        "x": 198,
+        "y": 38
+      }
+    },
+    "url": "http://www.geocities.jp:80/godcomjp/index.html",
+    "year": {
+      "from": -1,
+      "to": -1
+    },
+    "wayback_time": 20050116125321,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "ULTRAMAN",
       "yomi": "うるとらまん"
     },
@@ -2156,7 +2177,7 @@
       "WWA"
     ],
     "work": "ロクショウの旅Ⅱ（Zexed Medarot）",
-    "archive": 0
+    "archive": 3
   },
   {
     "site": {
@@ -2319,6 +2340,19 @@
     "feature": "まさお3",
     "wayback_time": 20131211211011,
     "archive": 1
+  },
+  {
+    "site": {
+      "name": "A-COM",
+      "yomi": "ええこむ"
+    },
+    "webmaster": "いお",
+    "url": "http://hp.vector.co.jp/authors/VA041165/",
+    "year": {
+      "from": 2005,
+      "to": 2005
+    },
+    "archive": 0
   },
   {
     "site": {
@@ -3183,6 +3217,28 @@
   },
   {
     "site": {
+      "name": "大海原の孤島",
+      "yomi": "おおうなはらのことう"
+    },
+    "webmaster": "スラピー",
+    "banner": {
+      "image": "oounabaranokotou.gif",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://f58.aaa.livedoor.jp/~kotou/",
+    "year": {
+      "from": 2004,
+      "to": 2005
+    },
+    "feature": "WWA",
+    "wayback_time": 20050313093933,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "おおかみの森",
       "yomi": "おおかみのもり"
     },
@@ -3321,7 +3377,7 @@
     "url": "http://sakata.nobody.jp/",
     "year": {
       "from": -1,
-      "to": 2014
+      "to": 0
     },
     "archive": 0
   },
@@ -3469,7 +3525,7 @@
     "url": "http://2ndomotyoboko.konjiki.jp/enter.html",
     "year": {
       "from": 2008,
-      "to": 2016
+      "to": 0
     },
     "feature": "WWA",
     "archive": 0
@@ -3709,7 +3765,6 @@
       }
     },
     "url": "http://ddddd96.web.fc2.com/",
-    "oldurl": "http://dddd96.web.fc2.com/",
     "year": {
       "from": -1,
       "to": -1
@@ -6379,6 +6434,27 @@
   },
   {
     "site": {
+      "name": "ゲーム地雷原",
+      "yomi": "けえむしらいはら"
+    },
+    "webmaster": "ペコペン",
+    "banner": {
+      "image": "gamejirai.jpg",
+      "size": {
+        "x": 126,
+        "y": 35
+      }
+    },
+    "url": "http://www.geocities.jp/yagisitaseigo/",
+    "year": {
+      "from": -1,
+      "to": -1
+    },
+    "wayback_time": 20040606123439,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "Game star",
       "yomi": "けえむすたあ"
     },
@@ -7142,6 +7218,25 @@
     "feature": "素材配布",
     "wayback_time": 20150516131653,
     "archive": 1
+  },
+  {
+    "site": {
+      "name": "月火水木金土日",
+      "yomi": "けつかすいもくきんとにち"
+    },
+    "banner": {
+      "image": "getsukasuimokukindonichi.gif",
+      "size": {
+        "x": 307,
+        "y": 47
+      }
+    },
+    "url": "http://www.valley.ne.jp/~mi/index.htm",
+    "year": {
+      "from": -1,
+      "to": -1
+    },
+    "archive": 0
   },
   {
     "site": {
@@ -9724,6 +9819,18 @@
   },
   {
     "site": {
+      "name": "ジャンプマンゲーム",
+      "yomi": "しやんふまんけえむ"
+    },
+    "url": "http://rcp123.k-server.org/",
+    "year": {
+      "from": -1,
+      "to": -1
+    },
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "十字路の猫",
       "yomi": "しゆうしろのねこ"
     },
@@ -9907,6 +10014,27 @@
     },
     "wayback_time": 20070827152217,
     "archive": 1
+  },
+  {
+    "site": {
+      "name": "JunP's HomePage",
+      "yomi": "しゆんひいすほおむへえし"
+    },
+    "webmaster": "JunP",
+    "banner": {
+      "image": "junps.jpg",
+      "size": {
+        "x": 144,
+        "y": 73
+      }
+    },
+    "url": "http://homepage3.nifty.com/junphome/index2.html",
+    "year": {
+      "from": 2002,
+      "to": -2006
+    },
+    "wayback_time": 20060208032240,
+    "archive": 4
   },
   {
     "site": {
@@ -14274,6 +14402,29 @@
   },
   {
     "site": {
+      "name": "TBタウン",
+      "yomi": "ていいひいたうん"
+    },
+    "webmaster": "TB",
+    "banner": {
+      "image": "tbtown.bmp",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://members.aol.com/hironobuba/tbtwun/index.html",
+    "year": {
+      "from": 2004,
+      "to": 2006
+    },
+    "kind_masao": "ストーリー",
+    "feature": "WWA",
+    "wayback_time": 20050827081450,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "ていおー秘密基地",
       "yomi": "ていおおひみつきち"
     },
@@ -15817,6 +15968,19 @@
   },
   {
     "site": {
+      "name": "NEWスーパー正男",
+      "yomi": "にゆうすうはあまさお"
+    },
+    "url": "http://www.geocities.jp/beta1090/newmasao.htm",
+    "year": {
+      "from": -1,
+      "to": -1
+    },
+    "wayback_time": 20181118105905,
+    "archive": 4
+  },
+  {
+    "site": {
       "name": "NEW WORLD ～果てしない大地～",
       "yomi": "にゆうわあるとはてしないせかい"
     },
@@ -16051,6 +16215,27 @@
     "kind_masao": "ストーリー",
     "wayback_time": 20060224185056,
     "archive": 1
+  },
+  {
+    "site": {
+      "name": "ぬるぽ海軍",
+      "yomi": "ぬるほかいくん"
+    },
+    "webmaster": "ひーちゃん",
+    "banner": {
+      "image": "nurupokaigun.gif",
+      "size": {
+        "x": 150,
+        "y": 50
+      }
+    },
+    "url": "http://f59.aaa.livedoor.jp/~nullpoga/",
+    "year": {
+      "from": 2004,
+      "to": -1
+    },
+    "wayback_time": 20060827210625,
+    "archive": 4
   },
   {
     "site": {
@@ -18313,6 +18498,21 @@
   },
   {
     "site": {
+      "name": "Playful Cafe",
+      "yomi": "ふれいふるかふえ"
+    },
+    "webmaster": "ボンバー",
+    "url": "http://playfulcafe.client.jp/",
+    "year": {
+      "from": -1,
+      "to": -1
+    },
+    "feature": "WWA",
+    "wayback_time": 20050408204536,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "PLEASURE",
       "yomi": "ふれしやあ"
     },
@@ -18330,6 +18530,20 @@
       "to": -1
     },
     "wayback_time": 20050306081409,
+    "archive": 1
+  },
+  {
+    "site": {
+      "name": "FLOATBLUE",
+      "yomi": "ふろおとふるう"
+    },
+    "webmaster": "駒",
+    "url": "http://www13.plala.or.jp/Koma-wwa/",
+    "year": {
+      "from": 2004,
+      "to": -1
+    },
+    "wayback_time": 20050411195109,
     "archive": 1
   },
   {
@@ -19309,6 +19523,29 @@
   },
   {
     "site": {
+      "name": "HOHOA-PARK",
+      "yomi": "ほほあはあく"
+    },
+    "webmaster": "HOHOA",
+    "banner": {
+      "image": "hohoa.gif",
+      "size": {
+        "x": 120,
+        "y": 60
+      }
+    },
+    "url": "http://f33.aaacafe.ne.jp/~hohoa/",
+    "year": {
+      "from": 2004,
+      "to": 2004
+    },
+    "kind_masao": "ストーリー",
+    "feature": "WWA",
+    "wayback_time": 20040930165146,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "ボボカビ亭",
       "yomi": "ほほかひてい"
     },
@@ -19676,7 +19913,10 @@
       "ストーリー",
       "JS拡張"
     ],
-    "feature": "正男100個以上",
+    "feature": [
+      "正男100個以上",
+      "WWA"
+    ],
     "archive": 3
   },
   {
@@ -22544,6 +22784,7 @@
       "from": -1,
       "to": -1
     },
+    "wayback_time": 20071215132028,
     "archive": 4
   },
   {
@@ -25990,6 +26231,27 @@
   },
   {
     "site": {
+      "name": "よろず研究室",
+      "yomi": "よろすけんきゆうしつ"
+    },
+    "webmaster": "おぎ",
+    "banner": {
+      "image": "yorozukenkyu.gif",
+      "size": {
+        "x": 88,
+        "y": 31
+      }
+    },
+    "url": "http://ogi.nm.land.to/",
+    "year": {
+      "from": -1,
+      "to": -1
+    },
+    "wayback_time": 20051212031952,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "(=ﾟωﾟ)ﾉよろず屋",
       "yomi": "よろすや"
     },
@@ -26043,6 +26305,19 @@
     },
     "wayback_time": 20090528030112,
     "archive": 4
+  },
+  {
+    "site": {
+      "name": "Likely Act official site ～道草～",
+      "yomi": "らいくりいあくとおふいしやるさいとみちくさ"
+    },
+    "webmaster": "らいくりぃ",
+    "url": "http://likely.michikusa.jp/",
+    "year": {
+      "from": 2007,
+      "to": 2009
+    },
+    "archive": 0
   },
   {
     "site": {
@@ -26739,6 +27014,26 @@
   },
   {
     "site": {
+      "name": "レイルロード ～追憶の彼方に～",
+      "yomi": "れいるろおとついおくのかなたに"
+    },
+    "webmaster": "てつやん",
+    "banner": {
+      "image": "railroad.jpg",
+      "size": {
+        "x": 200,
+        "y": 50
+      }
+    },
+    "url": "http://tetsuyan1.nobody.jp/",
+    "year": {
+      "from": 2006,
+      "to": 2007
+    },
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "RAINBOW WIND",
       "yomi": "れいんほおういんと"
     },
@@ -27377,6 +27672,27 @@
     "kind_masao": "SASUKE系",
     "wayback_time": 20190331001847,
     "archive": 4
+  },
+  {
+    "site": {
+      "name": "笑王の美術館",
+      "yomi": "わらいおうのひしゆつかん"
+    },
+    "webmaster": "平原",
+    "banner": {
+      "image": "waraiou.gif",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://www.geocities.jp/imorizu0717/",
+    "year": {
+      "from": -1,
+      "to": -1
+    },
+    "wayback_time": 20070916010214,
+    "archive": 1
   },
   {
     "site": {
