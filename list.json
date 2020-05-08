@@ -367,6 +367,22 @@
   },
   {
     "site": {
+      "name": "AquaRevolution2007",
+      "yomi": "あくあれほりゆうしよんにせんなな"
+    },
+    "oldname": "EGYPT KING",
+    "webmaster": "",
+    "url": "http://www.rak2.jp/town/user/postmaster/",
+    "oldurl": "http://robocode20002000.hp.infoseek.co.jp/",
+    "year": {
+      "from": 2006,
+      "to": 2007
+    },
+    "wayback_time": 20200508103556,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "アクションゲームkkkk.room.xx5",
       "yomi": "あくしよんけえむけえけえけえけえるうむえつくすえつくすこ"
     },
@@ -6566,6 +6582,21 @@
   },
   {
     "site": {
+      "name": "Game,s Terminal",
+      "yomi": "けえむすたあみなる"
+    },
+    "webmaster": "ゼロス",
+    "url": "http://www.games-terminal.com/",
+    "oldurl": "http://www2.hyo-ka.net/~zeros/",
+    "year": {
+      "from": -2002,
+      "to": 2003
+    },
+    "wayback_time": 20030608181947,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "ゲーム大学 岡山支部",
       "yomi": "けえむたいかくおかやましふ"
     },
@@ -8077,6 +8108,7 @@
       "ストーリー"
     ],
     "feature": "正男100個以上",
+    "wayback_time": 20190117221447,
     "archive": 4
   },
   {
@@ -10086,6 +10118,19 @@
   },
   {
     "site": {
+      "name": "SYOUGOの部屋",
+      "yomi": "しようこのへや"
+    },
+    "webmaster": "S・T",
+    "url": "http://www16.plala.or.jp/s00138/",
+    "year": {
+      "from": -1,
+      "to": -1
+    },
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "Sho's Room",
       "yomi": "しよおするうむ"
     },
@@ -10324,6 +10369,7 @@
       "name": "新チャゲのHP",
       "yomi": "しんちやけのほおむへえし"
     },
+    "oldname": "チャゲのHP",
     "webmaster": "チャゲ",
     "banner": {
       "image": "tyage.gif",
@@ -10333,7 +10379,10 @@
       }
     },
     "url": "http://tyage2.web.fc2.com/",
-    "oldurl": "http://tyage.a.orn.jp/",
+    "oldurl": [
+      "http://tyage.a.orn.jp/",
+      "http://www.rak2.jp/tyage/"
+    ],
     "year": {
       "from": 2006,
       "to": -1
@@ -15603,10 +15652,13 @@
     "webmaster": "志知六",
     "url": "http://www.eonet.ne.jp/~kazu-kun/",
     "year": {
-      "from": -1,
-      "to": -1
+      "from": 2005,
+      "to": 2010
     },
-    "kind_masao": "一画面",
+    "kind_masao": [
+      "一画面",
+      "ストーリー"
+    ],
     "feature": "正男100個以上",
     "archive": 0
   },
@@ -16776,6 +16828,7 @@
     },
     "url": "http://pakuriman.pv.land.to/",
     "suburl": "http://masao.yh.land.to/",
+    "oldurl": "http://pakuriman.hp.infoseek.co.jp/",
     "year": {
       "from": 2003,
       "to": 2010
@@ -24191,12 +24244,11 @@
     ],
     "year": {
       "from": 2004,
-      "to": 2015
+      "to": 0
     },
     "kind_masao": "カービィ系",
     "work": "カビィの冒険記",
-    "wayback_time": 20150504123749,
-    "archive": 4
+    "archive": 0
   },
   {
     "site": {
@@ -25942,6 +25994,28 @@
     },
     "wayback_time": 20050126011509,
     "archive": 4
+  },
+  {
+    "site": {
+      "name": "夢の王国 カービィランド",
+      "yomi": "ゆめのおうこくかあひいらんと"
+    },
+    "webmaster": "かびっち",
+    "banner": {
+      "image": "yumeno.bmp",
+      "size": {
+        "x": 117,
+        "y": 43
+      }
+    },
+    "url": "http://kairby.hp.infoseek.co.jp/top.html",
+    "year": {
+      "from": -1,
+      "to": -1
+    },
+    "kind_masao": "カービィ系",
+    "wayback_time": 20080131142129,
+    "archive": 1
   },
   {
     "site": {
