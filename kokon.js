@@ -166,7 +166,7 @@ function creatTable(mode, order, kind_masao, feature) {
 
     if (isModeDisplay == true && isOrderDisplay == true && isKindMasaoDisplay == true && isFeatureDisplay == true) {
       count += 1;
-      masao(list[i].site.name, list[i].oldname, list[i].webmaster, list[i].banner, list[i].url, list[i].year, list[i].work, list[i].archive, list[i].wayback_time);
+      masao(list[i].site.name, list[i].oldname, list[i].webmaster, list[i].banner, list[i].url, list[i].year, list[i].work, list[i].archive, list[i].wayback_time, list[i].nobanner);
     } 
   }
   
@@ -178,7 +178,7 @@ function creatTable(mode, order, kind_masao, feature) {
   
 }
 
-function masao(name, subname, man, banner, http, year, work, wayback, wayback_time) {
+function masao(name, subname, man, banner, http, year, work, wayback, wayback_time, nobanner) {
   var tr = document.createElement('tr');
   var td = document.createElement('td');
 
@@ -209,31 +209,69 @@ function masao(name, subname, man, banner, http, year, work, wayback, wayback_ti
       a.href = http;
     }
     a.target = '_blank';
-    a.className = 'image';
-  }
-  var img = document.createElement('img');
-  if (banner === undefined) {
-    img.setAttribute("dataoriginal", "nobanner.png");
-    img.src = "unload.png";
-  } else {
-    if (banner.size.x > 200) {
-      var hi = banner.size.x / 200;
-      var h = banner.size.y / hi;
-      img.setAttribute("width", 200);
-      img.setAttribute("height", h);
+    if (banner === undefined) {
+      a.className = 'noimage';
     } else {
-      img.setAttribute("width", banner.size.x);
-      img.setAttribute("height", banner.size.y);
+      if (banner.image === undefined) {
+        a.className = 'noimage';
+      } else {
+        a.className = 'image';
+      }
     }
-    img.setAttribute("dataoriginal", banner.image);
-    img.setAttribute("src", "unload.png");
   }
-  img.alt = name;
-  if (wayback == 2) {
-    td.appendChild(img);
+  
+  if (banner === undefined) {
+    var div = document.createElement('div');
+    div.style.color = "#000000";
+    div.style.backgroundColor = "#808080";
+    if (wayback == 2) {
+      div.className = 'noimage';
+      td.appendChild(div);
+    } else {
+      a.appendChild(div);
+      td.appendChild(a);
+    }
   } else {
-    a.appendChild(img);
-    td.appendChild(a);
+    if (banner.image === undefined) {
+      var div = document.createElement('div');
+      if (banner.color === undefined) {
+        div.style.color = "#000000";
+      } else {
+        div.style.color = banner.color;
+      }
+      if (banner.background_color === undefined) {
+        div.style.backgroundColor = "#808080";
+      } else {
+        div.style.backgroundColor = banner.background_color;
+      }
+      if (wayback == 2) {
+        div.className = 'noimage';
+        td.appendChild(div);
+      } else {
+        a.appendChild(div);
+        td.appendChild(a);
+      }
+    } else {
+      var img = document.createElement('img');
+      if (banner.size.x > 200) {
+        var hi = banner.size.x / 200;
+        var h = banner.size.y / hi;
+        img.setAttribute("width", 200);
+        img.setAttribute("height", h);
+      } else {
+        img.setAttribute("width", banner.size.x);
+        img.setAttribute("height", banner.size.y);
+      }
+      img.setAttribute("dataoriginal", "banner/" + banner.image);
+      img.setAttribute("src", "banner/unload.png");
+      img.alt = name;
+      if (wayback == 2) {
+        td.appendChild(img);
+      } else {
+        a.appendChild(img);
+        td.appendChild(a);
+      }
+    }
   }
   tr.appendChild(td);
   
@@ -277,24 +315,45 @@ function masao(name, subname, man, banner, http, year, work, wayback, wayback_ti
   tr.appendChild(td);
   
   var td = document.createElement('td');
-  if (year.from == -1) {
-    year.from = "？";
-  } else if (year.from < 0) {
-    year.from = -year.from + "？";
+  var tempFrom;
+  var tempTo;
+  
+  if (year === undefined) {
+    tempFrom = "？";
+    tempTo = "？";
+  } else {
+    if (year.from === undefined) {
+      tempFrom = "？";
+    } else { 
+      if (year.from == -1) {
+        tempFrom = "？";
+      } else if (year.from < 0) {
+        tempFrom = -year.from + "？";
+      } else {
+        tempFrom = year.from;
+      }
+    }
+    if (year.to === undefined) {
+      tempTo = "？";
+    } else { 
+      if (year.to == -1) {
+        tempTo = "？";
+      } else if (year.to < 0) {
+        tempTo = -year.to + "？";
+      } else {
+        tempTo = year.to;
+      }
+    }
   }
-  if (year.to == -1) {
-    year.to = "？";
-  } else if (year.to < 0) {
-    year.to = -year.to + "？";
-  }
-  if (year.to === 0) {
-    var text = document.createTextNode(year.from + "～");
+  
+  if (tempTo === 0) {
+    var text = document.createTextNode(tempFrom + "～");
     td.appendChild(text);
-  } else if (year.from == year.to) {
-    var text = document.createTextNode(year.from);
+  } else if (tempFrom == tempTo) {
+    var text = document.createTextNode(tempFrom);
     td.appendChild(text);
   } else {
-    var text = document.createTextNode(year.from + "～" + year.to);
+    var text = document.createTextNode(tempFrom + "～" + tempTo);
     td.appendChild(text);
   }
   tr.appendChild(td);
