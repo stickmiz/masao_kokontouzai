@@ -13,10 +13,6 @@
       }
     },
     "url": "http://page.freett.com/aki009/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040429002704,
     "archive": 1
   },
@@ -36,10 +32,6 @@
     },
     "url": "http://ora-site.ddo.jp/niorojp/",
     "oldurl": "http://niorojp.nce.buttobi.net/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050405123040,
     "archive": 1
   },
@@ -49,6 +41,10 @@
       "yomi": "ああるえふけん"
     },
     "webmaster": "RYO",
+    "banner": {
+      "color": "#3030FC",
+      "background_color": "#E8E8FF"
+    },
     "url": "http://rflabo.web.fc2.com/",
     "year": {
       "from": 2015,
@@ -64,7 +60,7 @@
     },
     "webmaster": "アーる",
     "banner": {
-      "image": "aaru.gif",
+      "image": "a-ru.gif",
       "size": {
         "x": 192,
         "y": 60
@@ -109,11 +105,11 @@
       "yomi": "あいえのれすとるうむ"
     },
     "webmaster": "相絵世良",
-    "url": "http://aie.ikaduchi.com/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#FFFFFF",
+      "background_color": "#1E90FF"
     },
+    "url": "http://aie.ikaduchi.com/",
     "kind_masao": "ストーリー",
     "archive": 0
   },
@@ -139,28 +135,6 @@
     },
     "feature": "素材配布",
     "wayback_time": 20170114125253,
-    "archive": 1
-  },
-  {
-    "site": {
-      "name": "AIRONの館",
-      "yomi": "あいろんのやかた"
-    },
-    "webmaster": "AIRON",
-    "banner": {
-      "image": "airon.gif",
-      "size": {
-        "x": 200,
-        "y": 40
-      }
-    },
-    "url": "http://boiba.hp.infoseek.co.jp/",
-    "year": {
-      "from": 2004,
-      "to": 2004
-    },
-    "kind_masao": "ストーリー",
-    "wayback_time": 20040609234032,
     "archive": 1
   },
   {
@@ -220,8 +194,34 @@
   },
   {
     "site": {
+      "name": "AIRONの館",
+      "yomi": "あいろんのやかた"
+    },
+    "webmaster": "AIRON",
+    "banner": {
+      "image": "airon.gif",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://boiba.hp.infoseek.co.jp/",
+    "year": {
+      "from": 2004,
+      "to": 2004
+    },
+    "kind_masao": "ストーリー",
+    "wayback_time": 20040609234032,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "蒼いJAVA庭園",
       "yomi": "あおいしあうあていえん"
+    },
+    "banner": {
+      "color": "#FFFFFF",
+      "background_color": "#000000"
     },
     "url": "http://www.geocities.jp/budoudaisukijp/",
     "oldurl": "http://aoijava.fc2web.com/",
@@ -243,10 +243,6 @@
     },
     "webmaster": "デラくす君",
     "url": "http://derakusu.harisen.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "ストーリー",
       "カービィ系"
@@ -359,6 +355,10 @@
       "yomi": "あきおのへや"
     },
     "webmaster": "あきお",
+    "banner": {
+      "color": "#0000FF",
+      "background_color": "#CCFFFF"
+    },
     "url": "http://akiocigogo.hp.infoseek.co.jp/",
     "year": {
       "from": -1,
@@ -415,6 +415,10 @@
     },
     "oldname": "暇つぶしの部屋",
     "webmaster": "あきら",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#D3D3D3"
+    },
     "url": "http://www.geocities.jp/tamarukenn/",
     "oldurl": "http://yamadaakira12.hp.infoseek.co.jp/index.html",
     "year": {
@@ -520,10 +524,6 @@
       }
     },
     "url": "http://lime.onushi.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060911040322,
     "archive": 1
   },
@@ -631,10 +631,6 @@
     },
     "webmaster": "ヴェイク",
     "url": "http://ykusuda.s87.xrea.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050408111628,
     "archive": 1
   },
@@ -690,10 +686,6 @@
     ],
     "feature": "WWA",
     "wayback_time": 20041016203125,
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 1
   },
   {
@@ -781,10 +773,6 @@
       "http://sofo.bufsiz.jp/",
       "http://yuus.ukime.org/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20080114043849,
     "archive": 1
   },
@@ -802,10 +790,6 @@
       }
     },
     "url": "http://sports.geocities.jp/keizi424/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -821,10 +805,6 @@
       }
     },
     "url": "http://orepezi.tuzikaze.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -884,10 +864,6 @@
       }
     },
     "url": "http://page.freett.com/adoribuj/adoribuloom.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20040629003359,
     "archive": 4
@@ -898,11 +874,11 @@
       "yomi": "あなさあわあると"
     },
     "webmaster": "ニャン",
-    "url": "http://animemax.nce.buttobi.net/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#CCCCFF",
+      "background_color": "#000000"
     },
+    "url": "http://animemax.nce.buttobi.net/",
     "archive": 0
   },
   {
@@ -929,10 +905,6 @@
       "http://www2.aqweb.net/netsuki/",
       "http://www66.tok2.com/home2/netsuki/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "素材配布",
     "wayback_time": 20041104053206,
     "archive": 4
@@ -945,7 +917,7 @@
     "oldname": "アノールの城",
     "webmaster": "アノール",
     "banner": {
-      "image": "ano-ru.gif",
+      "image": "ano-ru.jpg",
       "size": {
         "x": 140,
         "y": 80
@@ -995,10 +967,6 @@
       }
     },
     "url": "http://isidou1.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -1145,10 +1113,6 @@
       }
     },
     "url": "http://j-ynv.net/~araara10jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060522171811,
     "archive": 1
   },
@@ -1197,20 +1161,6 @@
   },
   {
     "site": {
-      "name": "アレク石井の玄関",
-      "yomi": "あれくいしいのけんかん"
-    },
-    "webmaster": "アレクサンダー石井",
-    "url": "http://hulirunanndo.run.buttobi.net/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "kind_masao": "カービィ系",
-    "archive": 0
-  },
-  {
-    "site": {
       "name": "亜流斗のページ",
       "yomi": "あるとのへえし"
     },
@@ -1230,6 +1180,20 @@
     "kind_masao": "ストーリー",
     "wayback_time": 20190331142332,
     "archive": 4
+  },
+  {
+    "site": {
+      "name": "アレク石井の玄関",
+      "yomi": "あれくいしいのけんかん"
+    },
+    "webmaster": "アレクサンダー石井",
+    "banner": {
+      "color": "#FF0000",
+      "background_color": "#99FFCC"
+    },
+    "url": "http://hulirunanndo.run.buttobi.net/",
+    "kind_masao": "カービィ系",
+    "archive": 0
   },
   {
     "site": {
@@ -1334,7 +1298,7 @@
   {
     "site": {
       "name": "安直すぎるHP",
-      "yomi": "あんちよくすきるほーむへえし"
+      "yomi": "あんちよくすきるほおむへえし"
     },
     "webmaster": "tutu",
     "banner": {
@@ -1360,10 +1324,6 @@
     },
     "webmaster": "andR",
     "url": "http://wscity.com/~andR/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20040813062000,
     "archive": 1
@@ -1390,10 +1350,6 @@
     "oldname": "何処かの何か",
     "webmaster": "ILLU",
     "url": "http://gensoukikisi.fc2web.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20190222032515,
     "archive": 4
   },
@@ -1528,10 +1484,6 @@
       }
     },
     "url": "http://www.geocities.jp/am52804991/top.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -1548,10 +1500,6 @@
       }
     },
     "url": "http://www.mc.megafit.net/~yamadaer/%83C%83J%83C%83J%83Q%81%5B%83%80%93X.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -1562,10 +1510,6 @@
     "webmaster": "のほほん",
     "url": "http://wierosk.hp.infoseek.co.jp/",
     "oldurl": "http://popup3.tok2.com/home2/heiwa/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040323083322,
     "archive": 4
   },
@@ -1620,10 +1564,6 @@
     },
     "url": "http://f22.aaa.livedoor.jp/~ikoitown/index.html",
     "oldurl": "http://www.geocities.co.jp/Playtown-Toys/7537/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20050312034035,
     "archive": 1
@@ -1642,10 +1582,6 @@
       }
     },
     "url": "http://pawayoshi.gozaru.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -1677,10 +1613,6 @@
     "webmaster": "ハウス巨峰",
     "url": "http://www.geocities.jp/ijiura/",
     "oldurl": "http://www.geocities.jp/ura576/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070816024952,
     "archive": 1
   },
@@ -1698,10 +1630,6 @@
       }
     },
     "url": "http://ishinazaka.homeip.net",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040730112904,
     "archive": 1
   },
@@ -1720,10 +1648,6 @@
     },
     "url": "http://www.geocities.jp/finalgreeting/masaoin.html",
     "oldurl": "http://harikenxp.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "wayback_time": 20070219043027,
     "archive": 1
@@ -1757,10 +1681,6 @@
       }
     },
     "url": "http://to1.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20100316153647,
     "archive": 4
@@ -1772,10 +1692,6 @@
     },
     "webmaster": "ZEX",
     "url": "http://www.geocities.jp/yuna12236122000/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041116055738,
     "archive": 1
   },
@@ -1793,10 +1709,6 @@
       }
     },
     "url": "http://takamasaide.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -1850,7 +1762,7 @@
     },
     "webmaster": "センダイ",
     "banner": {
-      "image": "imihumei.gif",
+      "image": "imifumei.bmp",
       "size": {
         "x": 217,
         "y": 50
@@ -1877,10 +1789,6 @@
     },
     "webmaster": "いりお",
     "url": "http://www.geocities.jp/a_irio/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040805065214,
     "archive": 1
   },
@@ -1890,6 +1798,10 @@
       "yomi": "いろいろおもしろそうなことをするへえし"
     },
     "webmaster": "ケフィア",
+    "banner": {
+      "color": "#FFFFFF",
+      "background_color": "#666666"
+    },
     "url": "http://iroomo.kane-tsugu.com/",
     "year": {
       "from": 2010,
@@ -1910,10 +1822,6 @@
       }
     },
     "url": "http://iromasa-sta.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060117062726,
     "archive": 1
   },
@@ -2012,10 +1920,6 @@
       "http://levit.client.jp/",
       "http://levit.concon.jp/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20130620071219,
     "archive": 4
@@ -2057,10 +1961,6 @@
       }
     },
     "url": "http://wickedeyes.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -2111,14 +2011,15 @@
         "y": 40
       }
     },
-    "url": "http://wingzero.udap.jp/",
+    "url": "http://wing-zero.cun.jp/",
+    "oldurl": "http://wingzero.udap.jp/",
     "year": {
       "from": 2004,
       "to": -1
     },
     "kind_masao": "自動",
     "feature": "素材配布",
-    "wayback_time": 20051212153906,
+    "wayback_time": 20051218095832,
     "archive": 1
   },
   {
@@ -2154,10 +2055,6 @@
     },
     "webmaster": "ヘルズ",
     "url": "http://www.geocities.jp/sato31049240/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -2174,10 +2071,6 @@
       }
     },
     "url": "http://sky.geocities.jp/wind_higurasimaturi/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -2195,10 +2088,6 @@
     },
     "url": "http://www.geocities.co.jp/Playtown-Part/1345/",
     "oldurl": "http://www.geocities.co.jp/Technopolis-Jupiter/1190/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040218013553,
     "archive": 1
   },
@@ -2264,10 +2153,6 @@
     "webmaster": "Strawberry Fields",
     "url": "http://aug.usj.to/warrior/",
     "oldurl": "http://www.geocities.jp/takuro_minamoto/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060711194230,
     "archive": 4
   },
@@ -2298,10 +2183,6 @@
       "yomi": "うけさまのへえし"
     },
     "url": "http://www.geocities.jp/kochiuke/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041028073416,
     "archive": 1
   },
@@ -2315,12 +2196,12 @@
       "そらのかなた"
     ],
     "webmaster": "SHiROUSAGi",
+    "banner": {
+      "color": "#222222",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://w3.oroti.net/~kinako4/",
     "suburl": "http://lonelyrabbit.michikusa.jp/index2.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -2343,6 +2224,10 @@
       "yomi": "うひよひよねつと"
     },
     "webmaster": "うひょ",
+    "banner": {
+      "color": "#4A4A4A",
+      "background_color": "#FFFFFF"
+    },
     "url": "https://uhyohyo.net/",
     "year": {
       "from": -1,
@@ -2392,10 +2277,6 @@
     },
     "webmaster": "のむけん",
     "url": "http://www1.tst.ne.jp/ultraman/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051108072922,
     "archive": 1
   },
@@ -2466,7 +2347,8 @@
     "url": "https://urotaichi.com/",
     "oldurl": [
       "http://urotaichi.web.fc2.com/",
-      "http://www.geocities.jp/urotaichicorporation/"
+      "http://www.geocities.jp/urotaichicorporation/",
+      "http://urotaichicorporation.rakurakuhp.net/"
     ],
     "year": {
       "from": 2007,
@@ -2514,7 +2396,7 @@
     },
     "webmaster": "hr",
     "banner": {
-      "image": "hr.gif",
+      "image": "hr.bmp",
       "size": {
         "x": 88,
         "y": 31
@@ -2543,10 +2425,6 @@
     },
     "url": "http://2style.biz/~herosp/",
     "oldurl": "http://www.2style.zapto.org/~herosp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "カービィ系"
@@ -2564,6 +2442,10 @@
       "yomi": "えいゆめのへえし"
     },
     "webmaster": "えい・ゆめ",
+    "banner": {
+      "color": "#DE3250",
+      "background_color": "#CCFFFF"
+    },
     "url": "http://www.nct9.ne.jp/toyama/",
     "year": {
       "from": 2006,
@@ -2584,10 +2466,6 @@
     "webmaster": "ASD",
     "url": "http://qoo648.hp.infoseek.co.jp/",
     "oldurl": "http://www.geocities.co.jp/Playtown/5225/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -2604,10 +2482,6 @@
       }
     },
     "url": "http://www.symphonic-net.com/amskorz/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "まさお3",
     "wayback_time": 20131211211011,
     "archive": 1
@@ -2618,6 +2492,13 @@
       "yomi": "ええこむ"
     },
     "webmaster": "いお",
+    "banner": {
+      "image": "a-com.png",
+      "size": {
+        "x": 290,
+        "y": 60
+      }
+    },
     "url": "http://hp.vector.co.jp/authors/VA041165/",
     "year": {
       "from": 2005,
@@ -2631,6 +2512,10 @@
       "yomi": "ええしいえむえいちほおむへえし"
     },
     "webmaster": "AGodModeHack",
+    "banner": {
+      "color": "#FFFFFF",
+      "background_color": "#69C4C8"
+    },
     "url": "http://agmhs.web.fc2.com/",
     "year": {
       "from": 2011,
@@ -2699,10 +2584,6 @@
     "oldname": "大空の片隅",
     "webmaster": "エカカカ",
     "url": "http://www.geocities.co.jp/Playtown-Yoyo/8439/top.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20190216041642,
     "archive": 1
   },
@@ -2713,10 +2594,6 @@
     },
     "webmaster": "獲紅守死",
     "url": "http://www.geocities.co.jp/Playtown-Denei/4790/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040807064215,
     "archive": 1
   },
@@ -2727,10 +2604,6 @@
     },
     "webmaster": "kaza",
     "url": "http://kouzimasao.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050908005432,
     "archive": 1
   },
@@ -2792,10 +2665,6 @@
       }
     },
     "url": "http://www.geocities.jp/pasonaruakatyappi/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": [
       "正男100個以上",
       "素材配布"
@@ -2817,10 +2686,6 @@
       }
     },
     "url": "http://xwisp.hp.infoseek.co.jp/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20040806021957,
     "archive": 4
@@ -2897,10 +2762,6 @@
     },
     "webmaster": "てーきとー",
     "url": "http://nsmenjoy.ifdef.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070718092227,
     "archive": 4
   },
@@ -2932,6 +2793,10 @@
       "yomi": "えぬていいせつとのさんはいりようさんしよ"
     },
     "webmaster": "NTZ",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://throwawaytime.web.fc2.com/",
     "year": {
       "from": 2011,
@@ -2992,10 +2857,6 @@
     },
     "webmaster": "F",
     "url": "http://www4.pf-x.net/~fgenei/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060712055332,
     "archive": 1
   },
@@ -3032,10 +2893,6 @@
     },
     "webmaster": "007",
     "url": "http://karugamo.dip.jp/007/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20050311182847,
     "archive": 1
@@ -3068,11 +2925,11 @@
       "name": "えむえむ",
       "yomi": "えむえむ"
     },
-    "url": "http://masaomm.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#0000FF",
+      "background_color": "#FFFFFF"
     },
+    "url": "http://masaomm.web.fc2.com/",
     "archive": 0
   },
   {
@@ -3274,10 +3131,6 @@
       }
     },
     "url": "http://mpe.x-rex.net/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "エディタ",
     "wayback_time": 20130831074601,
     "archive": 1
@@ -3297,10 +3150,6 @@
       }
     },
     "url": "http://mbjtheyakata.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -3368,10 +3217,6 @@
       }
     },
     "url": "http://kagero1115.web.fc2.com/areax/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20181024225721,
     "archive": 1
   },
@@ -3389,10 +3234,6 @@
       }
     },
     "url": "http://www.geocities.jp/metarou21/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060208065043,
     "archive": 4
   },
@@ -3416,10 +3257,6 @@
     },
     "webmaster": "天使",
     "url": "http://kdkpka.hp.infoseek.co.jp/htmitosiya.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040811144047,
     "archive": 1
   },
@@ -3586,10 +3423,6 @@
     },
     "webmaster": "葬龍",
     "url": "http://okk-z.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050127224627,
     "archive": 1
   },
@@ -3628,10 +3461,6 @@
       }
     },
     "url": "http://1st.geocities.jp/oodeyudai/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -3668,6 +3497,28 @@
   },
   {
     "site": {
+      "name": "OverDrive",
+      "yomi": "おおはあとらいふ"
+    },
+    "oldname": "シグマ－幻影旅団－",
+    "webmaster": "松",
+    "banner": {
+      "image": "sigmagenei.jpg",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://houka5.com/iwa326/",
+    "year": {
+      "from": -1,
+      "to": 2005
+    },
+    "wayback_time": 20050413114416,
+    "archive": 4
+  },
+  {
+    "site": {
       "name": "大原部長の部屋",
       "yomi": "おおはらふちようのへや"
     },
@@ -3680,10 +3531,6 @@
       }
     },
     "url": "http://www.h3.dion.ne.jp/~bucyou/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070204082957,
     "archive": 1
   },
@@ -3693,6 +3540,10 @@
       "yomi": "おおむすくろんかあせつと"
     },
     "webmaster": "sakata",
+    "banner": {
+      "color": "#AA0000",
+      "background_color": "#333333"
+    },
     "url": "http://sakata.nobody.jp/",
     "year": {
       "from": -1,
@@ -3736,10 +3587,6 @@
     },
     "url": "http://masaobeya.gozaru.jp/",
     "oldurl": "http://www.geocities.jp/frxky171/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041128112906,
     "archive": 1
   },
@@ -3757,10 +3604,6 @@
       }
     },
     "url": "http://www12.atpages.jp/yaoitakun/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20100308000319,
     "archive": 1
   },
@@ -3791,11 +3634,11 @@
       "yomi": "おとうとさんとすうはあまさおのほおむへえし"
     },
     "webmaster": "おとうとさん",
-    "url": "http://isikawamasao.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFCC66"
     },
+    "url": "http://isikawamasao.web.fc2.com/",
     "archive": 0
   },
   {
@@ -3851,36 +3694,11 @@
   },
   {
     "site": {
-      "name": "おもちょばこ",
-      "yomi": "おもちよはこ"
-    },
-    "webmaster": "メムーロトノ",
-    "banner": {
-      "image": "omotyobako.gif",
-      "size": {
-        "x": 125,
-        "y": 40
-      }
-    },
-    "url": "http://2ndomotyoboko.konjiki.jp/enter.html",
-    "year": {
-      "from": 2008,
-      "to": 0
-    },
-    "feature": "WWA",
-    "archive": 0
-  },
-  {
-    "site": {
       "name": "おもしろくないとおもわれるレストラン",
       "yomi": "おもしろくないとおもわれるれすとらん"
     },
     "webmaster": "焼魚焼太",
     "url": "http://f30.aaacafe.ne.jp/~kojikaba/home.html.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20041011125704,
     "archive": 1
@@ -3908,44 +3726,33 @@
   },
   {
     "site": {
+      "name": "おもちょばこ",
+      "yomi": "おもちよはこ"
+    },
+    "webmaster": "メムーロトノ",
+    "banner": {
+      "image": "omotyobako.gif",
+      "size": {
+        "x": 125,
+        "y": 40
+      }
+    },
+    "url": "http://2ndomotyoboko.konjiki.jp/enter.html",
+    "year": {
+      "from": 2008,
+      "to": 0
+    },
+    "feature": "WWA",
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "オラのサイト",
       "yomi": "おらのさいと"
     },
     "webmaster": "オラ",
     "url": "http://ora-site.ddo.jp/ora_site/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040605170743,
-    "archive": 1
-  },
-  {
-    "site": {
-      "name": "俺他メモランダム",
-      "yomi": "おれほかめもらんたむ"
-    },
-    "oldname": "プロジェクタンDX",
-    "url": "http://www.isonly.net/~tynwle/",
-    "oldurl": "http://www.geocities.co.jp/Playtown/1729/",
-    "year": {
-      "from": 2003,
-      "to": 0
-    },
-    "archive": 0
-  },
-  {
-    "site": {
-      "name": "俺の屍を越えて逝け",
-      "yomi": "おれのしかはねをこえていけ"
-    },
-    "webmaster": "どりーまー",
-    "url": "http://dorii.fc2web.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "wayback_time": 20040730214842,
     "archive": 1
   },
   {
@@ -3963,6 +3770,16 @@
     "feature": "WWA",
     "wayback_time": 20181105024008,
     "archive": 4
+  },
+  {
+    "site": {
+      "name": "俺の屍を越えて逝け",
+      "yomi": "おれのしかはねをこえていけ"
+    },
+    "webmaster": "どりーまー",
+    "url": "http://dorii.fc2web.com/",
+    "wayback_time": 20040730214842,
+    "archive": 1
   },
   {
     "site": {
@@ -3993,13 +3810,35 @@
   },
   {
     "site": {
+      "name": "俺他メモランダム",
+      "yomi": "おれほかめもらんたむ"
+    },
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFCC66"
+    },
+    "banner": {
+      "color": "#00A7A4",
+      "background_color": "#FFFFFF"
+    },
+    "oldname": "プロジェクタンDX",
+    "url": "http://www.isonly.net/~tynwle/",
+    "oldurl": "http://www.geocities.co.jp/Playtown/1729/",
+    "year": {
+      "from": 2003,
+      "to": 0
+    },
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "owata web",
       "yomi": "おわたうえふ"
     },
     "oldname": "キノコ・オブ・ザ・マサオ",
     "webmaster": "やつら",
     "banner": {
-      "image": "owataweb.gif",
+      "image": "owataweb.bmp",
       "size": {
         "x": 128,
         "y": 35
@@ -4033,11 +3872,11 @@
       "name": "カービィアドベンチャー",
       "yomi": "かあひいあとへんちやあ"
     },
-    "url": "http://19910720.bufsiz.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#FF0033",
+      "background_color": "#FFCC99"
     },
+    "url": "http://19910720.bufsiz.jp/",
     "kind_masao": "カービィ系",
     "archive": 0
   },
@@ -4141,10 +3980,6 @@
       }
     },
     "url": "http://ddddd96.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "wayback_time": 20181105024218,
     "archive": 1
@@ -4156,10 +3991,6 @@
     },
     "webmaster": "soppi",
     "url": "http://box.elsia.net/~soppis/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "wayback_time": 20040930185818,
     "archive": 1
@@ -4218,10 +4049,6 @@
     },
     "url": "http://neptriton.konohashigure.com/",
     "oldurl": "http://neptriton.client.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "archive": 0
   },
@@ -4246,10 +4073,6 @@
     },
     "url": "http://kinoko.otoshiana.com/",
     "oldurl": "http://www5.pf-x.net/~kaizomasao/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20140808092610,
     "archive": 1
   },
@@ -4333,10 +4156,6 @@
     },
     "webmaster": "周一色",
     "url": "http://kerofu.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040708025240,
     "archive": 1
   },
@@ -4406,10 +4225,6 @@
     "oldname": "BLUEWING",
     "webmaster": "白髪乃剣士",
     "url": "http://www.ztv.ne.jp/huminori/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040107051155,
     "archive": 1
   },
@@ -4419,6 +4234,10 @@
       "yomi": "かさまるほおむへえし"
     },
     "webmaster": "かさまる",
+    "banner": {
+      "color": "#006400",
+      "background_color": "#CCFFCC"
+    },
     "url": "http://kasamaru.web.fc2.com/",
     "year": {
       "from": 2007,
@@ -4434,10 +4253,6 @@
     "webmaster": "ガジ",
     "url": "http://takenokosannmyaku.hp.infoseek.co.jp/",
     "oldurl": "http://popup12.tok2.com/home2/vapor1192/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20031223012114,
     "archive": 1
   },
@@ -4448,10 +4263,6 @@
     },
     "webmaster": "kaji",
     "url": "http://homepage3.nifty.com/kajittihome/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040902164802,
     "archive": 1
   },
@@ -4462,7 +4273,7 @@
     },
     "webmaster": "kazuki",
     "banner": {
-      "image": "kazukinoho-mupe-zi.jpg",
+      "image": "kazuki.jpg",
       "size": {
         "x": 142,
         "y": 85
@@ -4585,10 +4396,6 @@
     },
     "webmaster": "蛍火rinku",
     "url": "http://www.geocities.jp/hotarubirinku/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20080102052814,
     "archive": 1
   },
@@ -4640,10 +4447,6 @@
       "http://go2.katsumi.nobody.jp/",
       "http://www.geocities.jp/katsumi_game/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "正男100個以上",
     "wayback_time": 20041102025309,
     "archive": 4
@@ -4689,10 +4492,6 @@
       }
     },
     "url": "http://osaka.cool.ne.jp/kanasu/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20031212080420,
     "archive": 1
   },
@@ -4864,10 +4663,6 @@
     },
     "webmaster": "カメさま",
     "url": "http://www.hpmix.com/home/yappy/kouta/index.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041129044520,
     "archive": 1
   },
@@ -4927,10 +4722,6 @@
       }
     },
     "url": "http://www.hpmix.com/home/kamoburi/index.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041211024939,
     "archive": 1
   },
@@ -4989,10 +4780,6 @@
       }
     },
     "url": "http://sasurai.gaiax.com/home/karimeroakane",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041123162549,
     "archive": 1
   },
@@ -5003,7 +4790,7 @@
     },
     "webmaster": "羅刹",
     "banner": {
-      "image": "garyuu.png",
+      "image": "garyu.png",
       "size": {
         "x": 100,
         "y": 40
@@ -5042,17 +4829,13 @@
     },
     "webmaster": "竜騎士ガルザーク",
     "banner": {
-      "image": "garuzaaku.gif",
+      "image": "garuza-ku.gif",
       "size": {
         "x": 88,
         "y": 31
       }
     },
     "url": "http://garu2000.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060920143916,
     "archive": 1
   },
@@ -5063,10 +4846,6 @@
     },
     "webmaster": "kankun",
     "url": "http://kansato.web.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040404192613,
     "archive": 1
   },
@@ -5086,10 +4865,6 @@
     "url": "http://ganda.web.fc2.com/",
     "suburl": "http://www3.tok2.com/home/sdsss/",
     "oldurl": "http://gentyan.fc2web.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "archive": 0
   },
@@ -5100,17 +4875,13 @@
     },
     "webmaster": "がんだるふ",
     "banner": {
-      "image": "gandarufu.png",
+      "image": "gandarufu.bmp",
       "size": {
         "x": 200,
         "y": 50
       }
     },
     "url": "http://ganndaruhu.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -5127,10 +4898,6 @@
       }
     },
     "url": "http://home.owari.ne.jp/~yosh/777/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050413225848,
     "archive": 1
   },
@@ -5155,11 +4922,11 @@
       "yomi": "かんりにんふみのすうはあまさおのへえし"
     },
     "webmaster": "FUMI",
-    "url": "http://kikkubeesu.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#66FFCC"
     },
+    "url": "http://kikkubeesu.web.fc2.com/",
     "kind_masao": "自動",
     "archive": 0
   },
@@ -5261,10 +5028,6 @@
       "yomi": "きたきた"
     },
     "url": "http://sezannu.fc2web.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20030717065122,
     "archive": 1
   },
@@ -5274,6 +5037,13 @@
       "yomi": "きてきいつせいももいろしようむしつ"
     },
     "webmaster": "桃色",
+    "banner": {
+      "image": "kitekiisseimomoiro.png",
+      "size": {
+        "x": 200,
+        "y": 80
+      }
+    },
     "url": "https://kitekiisseimomoiro.web.fc2.com/",
     "suburl": "https://kitekiisseimomoirogameyakata.web.fc2.com/",
     "year": {
@@ -5302,10 +5072,6 @@
       "yomi": "きにとのへえし"
     },
     "url": "http://www.geocities.jp/kktoping/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -5350,10 +5116,6 @@
     "url": "http://kjunkshop.hp.infoseek.co.jp/index.html",
     "oldurl": "http://coco-sun.hp.infoseek.co.jp/k-page.html",
     "wayback_time": 20050817114436,
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 1
   },
   {
@@ -5370,10 +5132,6 @@
     },
     "url": "http://www.geocities.jp/enbonbonshio/",
     "wayback_time": 20181105023520,
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 4
   },
   {
@@ -5396,6 +5154,10 @@
       "yomi": "きまくれ"
     },
     "webmaster": "いりえ.",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://superbanana.run.buttobi.net/",
     "year": {
       "from": 2006,
@@ -5496,6 +5258,13 @@
     },
     "oldname": "キャノンホームページ",
     "webmaster": "キャノン",
+    "banner": {
+      "image": "kyanon.jpg",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
     "url": "http://kyanon.bnnm.net/",
     "oldurl": "http://inbinsiburu.hp.infoseek.co.jp/",
     "year": {
@@ -5550,10 +5319,6 @@
       }
     },
     "url": "http://www010.upp.so-net.ne.jp/tomirimi/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050415084840,
     "archive": 4
@@ -5616,10 +5381,6 @@
       }
     },
     "url": "http://kyubudx.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050206184432,
     "archive": 1
   },
@@ -5640,10 +5401,6 @@
     "url": "http://cucumber.bake-neko.net/",
     "suburl": "http://nya.aikotoba.jp/",
     "oldurl": "http://masaononya.ojaru.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "archive": 0
   },
@@ -5661,10 +5418,6 @@
       }
     },
     "url": "http://park21.wakwak.com/~kyu/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "feature": "WWA",
     "wayback_time": 20181030115914,
@@ -5846,42 +5599,8 @@
     },
     "webmaster": "裂空龍",
     "url": "http://www.geocities.jp/sfrqq767/menu15.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041223040712,
     "archive": 1
-  },
-  {
-    "site": {
-      "name": "クエの足",
-      "yomi": "くえのあし"
-    },
-    "url": "http://members.jcom.home.ne.jp/kuekue/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "feature": "WWA",
-    "archive": 2
-  },
-  {
-    "site": {
-      "name": "ググマール",
-      "yomi": "くくまある"
-    },
-    "webmaster": "丸友",
-    "url": "http://w5.oroti.net/~mal/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "kind_masao": [
-      "自動",
-      "ストーリー"
-    ],
-    "archive": 0
   },
   {
     "site": {
@@ -5896,6 +5615,32 @@
     },
     "wayback_time": 20181105023431,
     "archive": 4
+  },
+  {
+    "site": {
+      "name": "クエの足",
+      "yomi": "くえのあし"
+    },
+    "url": "http://members.jcom.home.ne.jp/kuekue/",
+    "feature": "WWA",
+    "archive": 2
+  },
+  {
+    "site": {
+      "name": "ググマール",
+      "yomi": "くくまある"
+    },
+    "webmaster": "丸友",
+    "banner": {
+      "color": "#FFFF00",
+      "background_color": "#000000"
+    },
+    "url": "http://w5.oroti.net/~mal/",
+    "kind_masao": [
+      "自動",
+      "ストーリー"
+    ],
+    "archive": 0
   },
   {
     "site": {
@@ -5978,10 +5723,6 @@
     },
     "webmaster": "Χ",
     "url": "http://www.geocities.jp/kusopage/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050119050042,
     "archive": 1
   },
@@ -5992,6 +5733,13 @@
     },
     "oldname": "Ryosukeのホームページ",
     "webmaster": "CertaiN",
+    "banner": {
+      "image": "gdgd.gif",
+      "size": {
+        "x": 435,
+        "y": 117
+      }
+    },
     "url": "http://ishisuke007.yh.land.to/",
     "year": {
       "from": -1,
@@ -6029,10 +5777,6 @@
       }
     },
     "url": "http://kunugi.michikusa.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -6064,10 +5808,6 @@
       }
     },
     "url": "http://bunimo095.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20080409103507,
     "archive": 1
   },
@@ -6118,26 +5858,6 @@
   },
   {
     "site": {
-      "name": "クラッシュ・バンディクー愛好会",
-      "yomi": "くらつしゆはんていくうあいこうかい"
-    },
-    "webmaster": "ウォンバット",
-    "banner": {
-      "image": "crashaikoukai.gif",
-      "size": {
-        "x": 200,
-        "y": 40
-      }
-    },
-    "url": "http://www.crashaikou.net/",
-    "year": {
-      "from": 2003,
-      "to": 2018
-    },
-    "archive": 0
-  },
-  {
-    "site": {
       "name": "クラッシュの小屋",
       "yomi": "くらつしゆのこや"
     },
@@ -6150,10 +5870,6 @@
       }
     },
     "url": "http://kuragoro.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -6180,6 +5896,26 @@
   },
   {
     "site": {
+      "name": "クラッシュ・バンディクー愛好会",
+      "yomi": "くらつしゆはんていくうあいこうかい"
+    },
+    "webmaster": "ウォンバット",
+    "banner": {
+      "image": "crashaikoukai.gif",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://www.crashaikou.net/",
+    "year": {
+      "from": 2003,
+      "to": 2018
+    },
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "CLAP DROP",
       "yomi": "くらつふとろつふ"
     },
@@ -6192,10 +5928,6 @@
       }
     },
     "url": "http://www.geocities.jp/pikurusufighters/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050307223009,
     "archive": 1
   },
@@ -6268,21 +6000,6 @@
   },
   {
     "site": {
-      "name": "くりすたる～む",
-      "yomi": "くりすたるうむ"
-    },
-    "webmaster": "TOKI",
-    "url": "http://www.geocities.jp/suey010587/kurisutaru-mu.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "kind_masao": "ストーリー",
-    "wayback_time": 20060424120105,
-    "archive": 4
-  },
-  {
-    "site": {
       "name": "栗魂の隠れ家",
       "yomi": "くりたましいのかくれか"
     },
@@ -6306,6 +6023,10 @@
     "site": {
       "name": "久里隣親分のゲームページ",
       "yomi": "くりとなりおやふんのけえむへえし"
+    },
+    "banner": {
+      "color": "#FF0000",
+      "background_color": "#000000"
     },
     "url": "http://sumoufighter.sensyuuraku.com/",
     "year": {
@@ -6378,10 +6099,6 @@
       }
     },
     "url": "http://www.geocities.jp/rgjts964/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040418220820,
     "archive": 1
   },
@@ -6400,10 +6117,6 @@
       }
     },
     "url": "http://prinonly.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20080405091755,
     "archive": 1
   },
@@ -6469,10 +6182,6 @@
     "url": "http://kuroiturugi.web.fc2.com/",
     "kind_masao": "ストーリー",
     "feature": "正男100個以上",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -6481,6 +6190,10 @@
       "yomi": "くろいへや"
     },
     "webmaster": "タドココロ",
+    "banner": {
+      "color": "#008040",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://komainu.kakurezato.com/",
     "feature": "正男100個以上",
     "year": {
@@ -6495,6 +6208,10 @@
       "yomi": "くろうのかくれか"
     },
     "webmaster": "クロウ",
+    "banner": {
+      "color": "#C0C0C0",
+      "background_color": "#111111"
+    },
     "url": "http://kurou345689.web.fc2.com/",
     "year": {
       "from": 2006,
@@ -6509,10 +6226,6 @@
     },
     "webmaster": "クロス",
     "url": "http://crossgameroom.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20051214220606,
     "archive": 1
@@ -6577,10 +6290,6 @@
     "webmaster": "Kuroma",
     "url": "http://www.57kuroma.dyndns.org/",
     "oldurl": "http://kuroma.mys-web.net/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060505035344,
     "archive": 1
   },
@@ -6616,10 +6325,6 @@
       "http://www4.pf-x.net/~keisei/",
       "http://imclub.gaiax.com/home/keisei/main"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050213162649,
     "archive": 1
   },
@@ -6771,10 +6476,6 @@
     },
     "webmaster": "K太",
     "url": "http://www.geocities.jp/tumetaihono/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20040407114208,
     "archive": 4
@@ -6810,10 +6511,6 @@
     },
     "webmaster": "nakajy",
     "url": "http://nakajy.gozaru.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "feature": "WWA",
     "wayback_time": 20050313011533,
@@ -6833,10 +6530,6 @@
       }
     },
     "url": "http://geemu.aikotoba.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -6853,10 +6546,6 @@
       }
     },
     "url": "http://www.usamimi.info/~kou124/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -6888,10 +6577,6 @@
     },
     "webmaster": "クタースポット",
     "url": "http://www.geocities.jp/kutarspot/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20041226144452,
     "archive": 1
@@ -6934,10 +6619,6 @@
       }
     },
     "url": "http://misutaekkusu9999.gozaru.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051116072734,
     "archive": 1
   },
@@ -6955,10 +6636,6 @@
       }
     },
     "url": "http://oikawa5.nobody.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -7077,10 +6754,6 @@
       }
     },
     "url": "http://www.geocities.jp/yagisitaseigo/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040606123439,
     "archive": 1
   },
@@ -7105,6 +6778,21 @@
     "kind_masao": "自動",
     "feature": "素材配布",
     "wayback_time": 20080108110815,
+    "archive": 1
+  },
+  {
+    "site": {
+      "name": "Game,s Terminal",
+      "yomi": "けえむすたあみなる"
+    },
+    "webmaster": "ゼロス",
+    "url": "http://www.games-terminal.com/",
+    "oldurl": "http://www2.hyo-ka.net/~zeros/",
+    "year": {
+      "from": -2002,
+      "to": 2003
+    },
+    "wayback_time": 20030608181947,
     "archive": 1
   },
   {
@@ -7197,21 +6885,6 @@
   },
   {
     "site": {
-      "name": "Game,s Terminal",
-      "yomi": "けえむすたあみなる"
-    },
-    "webmaster": "ゼロス",
-    "url": "http://www.games-terminal.com/",
-    "oldurl": "http://www2.hyo-ka.net/~zeros/",
-    "year": {
-      "from": -2002,
-      "to": 2003
-    },
-    "wayback_time": 20030608181947,
-    "archive": 1
-  },
-  {
-    "site": {
       "name": "ゲーム大学 岡山支部",
       "yomi": "けえむたいかくおかやましふ"
     },
@@ -7283,17 +6956,13 @@
     },
     "webmaster": "ガロバトロス",
     "banner": {
-      "image": "gametou.png",
+      "image": "gametou_garo.png",
       "size": {
         "x": 100,
         "y": 42
       }
     },
     "url": "http://plaza.rakuten.co.jp/kouzim/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20120712104331,
     "archive": 1
   },
@@ -7304,7 +6973,7 @@
     },
     "webmaster": "MARUTOMO",
     "banner": {
-      "image": "marutomo.gif",
+      "image": "marutomo.bmp",
       "size": {
         "x": 400,
         "y": 40
@@ -7312,10 +6981,6 @@
     },
     "url": "http://m8.web-zz.com/hp/",
     "oldurl": "http://www012.upp.so-net.ne.jp/marutomo/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040615060603,
     "archive": 1
   },
@@ -7371,7 +7036,7 @@
     },
     "webmaster": "クロウ",
     "banner": {
-      "image": "gamenoizumi.png",
+      "image": "gamenoizumi.bmp",
       "size": {
         "x": 151,
         "y": 49
@@ -7436,7 +7101,7 @@
     },
     "webmaster": "すーさん・ZERO",
     "banner": {
-      "image": "gamenosyuuraku.gif",
+      "image": "gamenosyuraku.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -7482,10 +7147,6 @@
     },
     "webmaster": "かめっち",
     "url": "http://senzyounokametti.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050907023635,
     "archive": 1
   },
@@ -7522,10 +7183,6 @@
     },
     "webmaster": "アイアムボーイ",
     "url": "http://aiamuboui.hp.infoseek.co.jp/asb.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "feature": "WWA",
     "wayback_time": 20050424020337,
@@ -7538,10 +7195,6 @@
     },
     "webmaster": "YAMA",
     "url": "http://members.aol.com/tatsumaru123/YA/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050420090758,
     "archive": 1
   },
@@ -7602,7 +7255,7 @@
     },
     "webmaster": "muteki",
     "banner": {
-      "image": "gamehouse.gif",
+      "image": "gamehouse.jpg",
       "size": {
         "x": 99,
         "y": 28
@@ -7659,10 +7312,6 @@
     },
     "url": "http://f38.aaa.livedoor.jp/~hgiehug/",
     "oldurl": "http://f38.aaacafe.ne.jp/~hgiehug/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20100615033759,
     "archive": 4
@@ -7674,7 +7323,7 @@
     },
     "webmaster": "モウル",
     "banner": {
-      "image": "gamefactory.png",
+      "image": "gamefactory.bmp",
       "size": {
         "x": 200,
         "y": 40
@@ -7771,7 +7420,7 @@
     "oldname": "たくみのホームページ",
     "webmaster": "たくみ",
     "banner": {
-      "image": "ittyoume.png",
+      "image": "gamelandicchome.png",
       "size": {
         "x": 160,
         "y": 56
@@ -7848,10 +7497,6 @@
     },
     "url": "http://f12.aaa.livedoor.jp/~shine/rengou/rengou/",
     "oldurl": "http://f12.aaacafe.ne.jp/~shine/rengou/rengou/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20051220125234,
     "archive": 1
@@ -7863,7 +7508,7 @@
     },
     "webmaster": "シャイん",
     "banner": {
-      "image": "gameworld.gif",
+      "image": "gameworld_shine.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -7893,7 +7538,7 @@
     },
     "webmaster": "YUTA",
     "banner": {
-      "image": "gameworldy.gif",
+      "image": "gameworld_yuta.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -7925,10 +7570,6 @@
       }
     },
     "url": "http://www.valley.ne.jp/~mi/index.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -7988,10 +7629,6 @@
       }
     },
     "url": "http://www.geocities.jp/kenshiro1564/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -8000,10 +7637,6 @@
       "yomi": "けんたろおおんせん"
     },
     "url": "http://www.geocities.co.jp/Playtown-Rook/4907/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -8020,10 +7653,6 @@
       }
     },
     "url": "http://www1.tst.ne.jp/miko/gen/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051108072229,
     "archive": 4
   },
@@ -8064,10 +7693,6 @@
       }
     },
     "url": "http://www25.tok2.com/home2/koppamario/GAME/GAME.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -8084,10 +7709,6 @@
       }
     },
     "url": "http://user.ftth100.com/kouki/koukisbox.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060223082525,
     "archive": 1
   },
@@ -8097,11 +7718,11 @@
       "yomi": "こうきほおむへえし"
     },
     "webmaster": "コウキ",
-    "url": "http://www16.tok2.com/home/kokosan/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFF00"
     },
+    "url": "http://www16.tok2.com/home/kokosan/",
     "kind_masao": "ストーリー",
     "feature": "素材配布",
     "archive": 0
@@ -8164,10 +7785,6 @@
     },
     "webmaster": "クリクリ",
     "url": "http://masao.nengu.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20061013030004,
     "archive": 1
   },
@@ -8226,10 +7843,6 @@
       }
     },
     "url": "http://members2.jcom.home.ne.jp/a-krh/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -8247,10 +7860,6 @@
     },
     "url": "http://masaoooo.hp.infoseek.co.jp/",
     "oldurl": "http://masaoteikoku.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20080304110827,
     "archive": 1
@@ -8285,11 +7894,11 @@
       "name": "極悪正男",
       "yomi": "こくあくまさお"
     },
-    "url": "http://masao.iinaa.net/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#C0C0C0"
     },
+    "url": "http://masao.iinaa.net/",
     "archive": 0
   },
   {
@@ -8306,10 +7915,13 @@
       }
     },
     "url": "http://kokuryuuouhyakusiki.web.fc2.com/index.html",
+    "oldurl": "http://kokuryuuomega.hp.infoseek.co.jp/",
     "year": {
       "from": -1,
       "to": 2008
     },
+    "kind_masao": "自動",
+    "wayback_time": 20200307162301,
     "archive": 1
   },
   {
@@ -8341,7 +7953,7 @@
     },
     "webmaster": "yu_dai",
     "banner": {
-      "image": "ounabara.gif",
+      "image": "kokohaoounabara.gif",
       "size": {
         "x": 222,
         "y": 51
@@ -8412,10 +8024,6 @@
       }
     },
     "url": "http://gozirammosto.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040718055739,
     "archive": 1
   },
@@ -8491,19 +8099,6 @@
   },
   {
     "site": {
-      "name": "誤爆嵐神のホームページ",
-      "yomi": "こはくあらしんのほおむへえし"
-    },
-    "webmaster": "誤爆嵐神",
-    "url": "http://gobakuarasin.nobody.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "archive": 0
-  },
-  {
-    "site": {
       "name": "このみ24のページ",
       "yomi": "このみにしゆうよんのへえし"
     },
@@ -8545,6 +8140,19 @@
     "feature": "正男100個以上",
     "wayback_time": 20181004133049,
     "archive": 4
+  },
+  {
+    "site": {
+      "name": "誤爆嵐神のホームページ",
+      "yomi": "こはくあらしんのほおむへえし"
+    },
+    "webmaster": "誤爆嵐神",
+    "banner": {
+      "color": "#FFFFFF",
+      "background_color": "#000000"
+    },
+    "url": "http://gobakuarasin.nobody.jp/",
+    "archive": 0
   },
   {
     "site": {
@@ -8662,10 +8270,6 @@
       }
     },
     "url": "http://www.hamq.jp/i.cfm?i=ziyuunomamani",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -8743,10 +8347,6 @@
     },
     "webmaster": "つっち",
     "url": "http://www.geocities.jp/tsucchifine2002jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050815010823,
     "archive": 4
   },
@@ -8826,10 +8426,6 @@
       }
     },
     "url": "http://cult.jp/terra_3/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040820033717,
     "archive": 1
   },
@@ -8863,10 +8459,6 @@
     "webmaster": "混部",
     "url": "http://backgr01.hp.infoseek.co.jp/konnbuhp/index.html",
     "oldurl": "http://www.geocities.jp/konnbuhp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20100720143112,
     "archive": 1
@@ -9045,10 +8637,6 @@
     "oldurl": "http://www4.atpages.jp/routodk17/routo.html",
     "kind_masao": "カービィ系",
     "feature": "WWA",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -9103,10 +8691,6 @@
     },
     "webmaster": "Sign",
     "url": "http://www.geocities.jp/ground_cr/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -9116,10 +8700,6 @@
     },
     "webmaster": "くいな",
     "url": "http://nangoku.syuriken.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051023115130,
     "archive": 1
   },
@@ -9193,10 +8773,6 @@
     },
     "url": "http://sakazeruga.hp.infoseek.co.jp/",
     "oldurl": "http://sakazeruga.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20060104164535,
     "archive": 1
@@ -9293,10 +8869,6 @@
       }
     },
     "url": "http://sweety.jp/satoutakao/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060502005836,
     "archive": 4
   },
@@ -9328,7 +8900,7 @@
     },
     "webmaster": "染五郎",
     "banner": {
-      "image": "thesimplepage.gif",
+      "image": "thesimplepage.png",
       "size": {
         "x": 200,
         "y": 40
@@ -9349,10 +8921,6 @@
     },
     "webmaster": "棒人間",
     "url": "http://taiko2.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050325140621,
     "archive": 1
@@ -9360,7 +8928,7 @@
   {
     "site": {
       "name": "Saturn'sMF",
-      "yomi": "さたーんすえむえふ"
+      "yomi": "さたあんすえむえふ"
     },
     "oldname": [
       "正男フィールド",
@@ -9455,17 +9023,13 @@
     },
     "webmaster": "聡",
     "banner": {
-      "image": "satoshi.gif",
+      "image": "satoshinopage_anidue.gif",
       "size": {
         "x": 117,
         "y": 69
       }
     },
     "url": "http://s2.whss.biz/~anidue/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20080327035006,
     "archive": 1
   },
@@ -9497,6 +9061,31 @@
   },
   {
     "site": {
+      "name": "鯖ウサギの部屋",
+      "yomi": "さはうさきのへや"
+    },
+    "webmaster": "鯖ウサギ",
+    "url": "http://www.geocities.jp/end12341/index2.html",
+    "kind_masao": "カービィ系",
+    "feature": "WWA",
+    "wayback_time": 20080211173944,
+    "archive": 4
+  },
+  {
+    "site": {
+      "name": "さばずしのホームページ",
+      "yomi": "さはすしのほおむへえし"
+    },
+    "webmaster": "さばずし",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#00CCFF"
+    },
+    "url": "http://sabazusi.web.fc2.com/",
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "Sapientia Prudentia",
       "yomi": "さひえんていあふるうてんていあ"
     },
@@ -9518,32 +9107,13 @@
   },
   {
     "site": {
-      "name": "鯖ウサギの部屋",
-      "yomi": "さはうさきのへや"
+      "name": "The Blue Bird",
+      "yomi": "さふるうはあと"
     },
-    "webmaster": "鯖ウサギ",
-    "url": "http://www.geocities.jp/end12341/index2.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "kind_masao": "カービィ系",
-    "feature": "WWA",
-    "wayback_time": 20080211173944,
-    "archive": 4
-  },
-  {
-    "site": {
-      "name": "さばずしのホームページ",
-      "yomi": "さはすしのほおむへえし"
-    },
-    "webmaster": "さばずし",
-    "url": "http://sabazusi.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "archive": 0
+    "webmaster": "プニ太",
+    "url": "http://www.geocities.jp/punipunita/",
+    "wayback_time": 20040914115416,
+    "archive": 1
   },
   {
     "site": {
@@ -9552,7 +9122,7 @@
     },
     "webmaster": "SASAMI",
     "banner": {
-      "image": "sasami.gif",
+      "image": "sasami.bmp",
       "size": {
         "x": 200,
         "y": 40
@@ -9569,22 +9139,12 @@
   },
   {
     "site": {
-      "name": "The Blue Bird",
-      "yomi": "さふるうはあと"
-    },
-    "webmaster": "プニ太",
-    "url": "http://www.geocities.jp/punipunita/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "wayback_time": 20040914115416,
-    "archive": 1
-  },
-  {
-    "site": {
       "name": "THE MASAO",
       "yomi": "さまさお"
+    },
+    "banner": {
+      "color": "#00FFFF",
+      "background_color": "#FFFFFF"
     },
     "url": "http://minakuru.m78.com/",
     "suburl": "http://masao.karakuri-yashiki.com/",
@@ -9600,11 +9160,11 @@
       "name": "THE MASAO",
       "yomi": "さまさお"
     },
-    "url": "http://pcatom.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFFFF"
     },
+    "url": "http://pcatom.hp.infoseek.co.jp/",
     "wayback_time": 20050128090918,
     "archive": 1
   },
@@ -9623,10 +9183,6 @@
     },
     "url": "http://heartland.geocities.jp/syakusyaku1603/",
     "oldurl": "http://foodpia.geocities.jp/spgt01/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20080403205035,
     "archive": 1
   },
@@ -9637,7 +9193,7 @@
     },
     "webmaster": "yuntara",
     "banner": {
-      "image": "yuntara.jpg",
+      "image": "yuntara.bmp",
       "size": {
         "x": 200,
         "y": 40
@@ -9645,10 +9201,6 @@
     },
     "url": "http://www.yuntara.mine.nu/",
     "suburl": "http://yuntara.s35.xrea.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "エディタ",
     "wayback_time": 20080205143409,
     "archive": 1
@@ -9669,10 +9221,6 @@
     },
     "url": "http://ma2.s55.xrea.com/",
     "suburl": "http://ma2page.fc2web.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "一画面",
@@ -9732,7 +9280,7 @@
     },
     "webmaster": "大根ネズミ",
     "banner": {
-      "image": "sarinazu.png",
+      "image": "sarinazu.bmp",
       "size": {
         "x": 144,
         "y": 55
@@ -9852,10 +9400,6 @@
       }
     },
     "url": "http://1110.ninpou.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -9919,10 +9463,6 @@
       }
     },
     "url": "http://xyzaaa.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -10054,10 +9594,6 @@
       }
     },
     "url": "http://chance.gaiax.com/home/takkyuu/main",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041129161914,
     "archive": 1
   },
@@ -10122,27 +9658,6 @@
   },
   {
     "site": {
-      "name": "jjjjjjjjjjのゲーム部屋",
-      "yomi": "しえいしえいしえいしえいしえいしえいしえいしえいしえいしえいのけえむへや"
-    },
-    "webmaster": "jjjjjjjjjj",
-    "banner": {
-      "image": "jjjjjjjjjj.png",
-      "size": {
-        "x": 187,
-        "y": 66
-      }
-    },
-    "url": "http://www.geocities.co.jp/Playtown-Bishop/6402/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "wayback_time": 20040914204051,
-    "archive": 4
-  },
-  {
-    "site": {
       "name": "J.A.Pank",
       "yomi": "しえいええはんく"
     },
@@ -10155,11 +9670,24 @@
       }
     },
     "url": "http://45212327.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
+  },
+  {
+    "site": {
+      "name": "jjjjjjjjjjのゲーム部屋",
+      "yomi": "しえいしえいしえいしえいしえいしえいしえいしえいしえいしえいのけえむへや"
+    },
+    "webmaster": "jjjjjjjjjj",
+    "banner": {
+      "image": "jjjjjjjjjj.png",
+      "size": {
+        "x": 187,
+        "y": 66
+      }
+    },
+    "url": "http://www.geocities.co.jp/Playtown-Bishop/6402/",
+    "wayback_time": 20040914204051,
+    "archive": 4
   },
   {
     "site": {
@@ -10175,31 +9703,7 @@
       }
     },
     "url": "http://members2.jcom.home.ne.jp/ryouji001/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
-  },
-  {
-    "site": {
-      "name": "シグマ－幻影旅団－",
-      "yomi": "しくまけんえいりよたん"
-    },
-    "webmaster": "松",
-    "banner": {
-      "image": "sigmagenei.jpg",
-      "size": {
-        "x": 200,
-        "y": 40
-      }
-    },
-    "url": "http://houka5.com/iwa326/",
-    "year": {
-      "from": -1,
-      "to": 2005
-    },
-    "archive": 1
   },
   {
     "site": {
@@ -10208,10 +9712,6 @@
     },
     "webmaster": "乱世の姦雄",
     "url": "http://ranseinokanyu.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051031045033,
     "archive": 1
   },
@@ -10229,10 +9729,6 @@
       }
     },
     "url": "http://www.geocities.jp/wwa1999/top.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20061031172123,
     "archive": 1
   },
@@ -10244,10 +9740,6 @@
     "oldname": "ふれあいのHP",
     "webmaster": "レリーズ",
     "url": "http://t-ch.net/~shikou/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -10265,10 +9757,6 @@
       }
     },
     "url": "http://niida.fam.cx/S/masaofiles/gamebeya.FRAME.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -10285,10 +9773,6 @@
       }
     },
     "url": "http://testmasao3.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -10311,6 +9795,10 @@
       "yomi": "しすかなるもりさくあいえつとふおれすと"
     },
     "webmaster": "蕾",
+    "banner": {
+      "color": "#00CCCC",
+      "background_color": "#F0E4B0"
+    },
     "url": "http://tsubomi.chagasi.com/index/test4.htm",
     "feature": "WWA",
     "year": {
@@ -10333,10 +9821,6 @@
       }
     },
     "url": "http://fjmz0721.hp.infoseek.co.jp/topindex.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -10346,7 +9830,7 @@
     },
     "webmaster": "正男屋",
     "banner": {
-      "image": "shippuunoaozora.gif",
+      "image": "shippunoaozora.gif",
       "size": {
         "x": 236,
         "y": 50
@@ -10385,6 +9869,10 @@
       "yomi": "してんていこくかいいき"
     },
     "webmaster": "紫電",
+    "banner": {
+      "color": "#DAA520",
+      "background_color": "#000080"
+    },
     "url": "http://mssiden.ifdef.jp/",
     "oldurl": [
       "http://sidenwwa.hp.infoseek.co.jp/",
@@ -10394,10 +9882,6 @@
       "自動",
       "一画面"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -10414,10 +9898,6 @@
       }
     },
     "url": "http://automasaounion.ifdef.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "archive": 0
   },
@@ -10439,10 +9919,6 @@
       "http://ninjamasao.syuriken.jp/",
       "http://shinobinokakurezato.web.fc2.com/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "ストーリー",
       "JS拡張"
@@ -10464,10 +9940,6 @@
       }
     },
     "url": "http://sim-kengo.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "ストーリー"
@@ -10486,7 +9958,7 @@
       "image": "german.png",
       "size": {
         "x": 200,
-        "y": 50
+        "y": 40
       }
     },
     "url": "http://supergerman.gozaru.jp/",
@@ -10495,10 +9967,6 @@
       "http://f50.aaacafe.ne.jp/~german/",
       "http://www.geocities.jp/super_german_potato/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "feature": [
       "正男100個以上",
@@ -10540,10 +10008,6 @@
     },
     "webmaster": "しま君",
     "url": "http://www.geocities.jp/kaisimada/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050908053003,
     "archive": 1
   },
@@ -10553,10 +10017,6 @@
       "yomi": "しやくねつのせかい"
     },
     "url": "http://www.geocities.jp/kasu_kusano/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -10643,10 +10103,6 @@
       }
     },
     "url": "http://www12.ocn.ne.jp/~potohiro/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20040131064639,
     "archive": 4
@@ -10656,11 +10112,11 @@
       "name": "ジャンプマンゲーム",
       "yomi": "しやんふまんけえむ"
     },
-    "url": "http://rcp123.k-server.org/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFFFF"
     },
+    "url": "http://rcp123.k-server.org/",
     "archive": 0
   },
   {
@@ -10670,7 +10126,7 @@
     },
     "webmaster": "リクエストDJ",
     "banner": {
-      "image": "juujiro.gif",
+      "image": "jujiro.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -10683,6 +10139,28 @@
     },
     "feature": "WWA",
     "archive": 2
+  },
+  {
+    "site": {
+      "name": "自由洋",
+      "yomi": "しゆうよう"
+    },
+    "oldname": "MURANO'S ROOM IN INTERNET",
+    "webmaster": "村野守",
+    "banner": {
+      "image": "murano.png",
+      "size": {
+        "x": 176,
+        "y": 53
+      }
+    },
+    "url": "http://na2.mine.nu/~murano/",
+    "oldurl": [
+      "http://web.poporo.net/home/muranomamoru/",
+      "http://murano6hp.hp.infoseek.co.jp/"
+    ],
+    "wayback_time": 20060203124348,
+    "archive": 1
   },
   {
     "site": {
@@ -10705,32 +10183,6 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20041119220448,
-    "archive": 1
-  },
-  {
-    "site": {
-      "name": "自由洋",
-      "yomi": "しゆうよう"
-    },
-    "oldname": "MURANO'S ROOM IN INTERNET",
-    "webmaster": "村野守",
-    "banner": {
-      "image": "murano.png",
-      "size": {
-        "x": 176,
-        "y": 53
-      }
-    },
-    "url": "http://na2.mine.nu/~murano/",
-    "oldurl": [
-      "http://web.poporo.net/home/muranomamoru/",
-      "http://murano6hp.hp.infoseek.co.jp/"
-    ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "wayback_time": 20060203124348,
     "archive": 1
   },
   {
@@ -10872,10 +10324,6 @@
       }
     },
     "url": "http://www18.ocn.ne.jp/~takesita/game.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070827152217,
     "archive": 1
   },
@@ -10964,6 +10412,32 @@
   },
   {
     "site": {
+      "name": "SYOUGOの部屋",
+      "yomi": "しようこのへや"
+    },
+    "webmaster": "S・T",
+    "banner": {
+      "color": "#3366FF",
+      "background_color": "#050505"
+    },
+    "url": "http://www16.plala.or.jp/s00138/",
+    "archive": 0
+  },
+  {
+    "site": {
+      "name": "条冶のホームページ",
+      "yomi": "しようしのほおむへえし"
+    },
+    "webmaster": "条冶",
+    "banner": {
+      "color": "#80FFFF",
+      "background_color": "#113377"
+    },
+    "url": "http://worldtoday.web.fc2.com/",
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "上忍.JP",
       "yomi": "しようにんとつとしええひいい"
     },
@@ -10981,32 +10455,6 @@
       "to": 2007
     },
     "kind_masao": "ストーリー",
-    "archive": 0
-  },
-  {
-    "site": {
-      "name": "SYOUGOの部屋",
-      "yomi": "しようこのへや"
-    },
-    "webmaster": "S・T",
-    "url": "http://www16.plala.or.jp/s00138/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "archive": 0
-  },
-  {
-    "site": {
-      "name": "条冶のホームページ",
-      "yomi": "しようしのほおむへえし"
-    },
-    "webmaster": "条冶",
-    "url": "http://worldtoday.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -11031,10 +10479,6 @@
     "webmaster": "諸葛ヨッシー",
     "url": "http://j-ynv.net/~syossi/",
     "oldurl": "http://syossi.mixmaster.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20060314185738,
     "archive": 1
@@ -11061,10 +10505,6 @@
     },
     "webmaster": "かっし",
     "url": "http://www.aqweb.net/~calen/kassi/home.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20040609105150,
     "archive": 1
@@ -11097,7 +10537,7 @@
     },
     "webmaster": "不知火",
     "banner": {
-      "image": "shiranui.gif",
+      "image": "shiranui.bmp",
       "size": {
         "x": 88,
         "y": 31
@@ -11132,10 +10572,6 @@
     },
     "url": "http://f17.aaa.livedoor.jp/~takasoft/",
     "oldurl": "http://www.geocities.jp/takafm2000/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20071120213126,
     "archive": 4
   },
@@ -11169,6 +10605,10 @@
       "yomi": "しろいせかい"
     },
     "webmaster": "雪国の人",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://yukiguni.yukihotaru.com/",
     "year": {
       "from": 2011,
@@ -11237,10 +10677,6 @@
     },
     "webmaster": "大地",
     "url": "http://www.geocities.jp/tensaikingdaichi/newindex.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20050307050027,
@@ -11280,10 +10716,6 @@
     },
     "webmaster": "迅帝",
     "url": "http://masaotikorarashi.web.fc2.com/jintei/jintei.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -11293,10 +10725,6 @@
     },
     "webmaster": "熱血",
     "url": "http://www1.bbweb-arena.com/mario/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050411140053,
     "archive": 1
   },
@@ -11307,17 +10735,13 @@
     },
     "webmaster": "清蛇",
     "banner": {
-      "image": "shinpinoshizuku.gif",
+      "image": "shinpinoshizuku.png",
       "size": {
         "x": 88,
         "y": 31
       }
     },
     "url": "http://f24.aaa.livedoor.jp/~sizuku/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "wayback_time": 20050210073603,
     "archive": 1
@@ -11349,6 +10773,20 @@
   },
   {
     "site": {
+      "name": "シンプル・イズ・命",
+      "yomi": "しんふるいすいのち"
+    },
+    "webmaster": "kohji",
+    "url": "http://www.geocities.jp/smyrc263/index.html",
+    "year": {
+      "from": -2004,
+      "to": -2004
+    },
+    "wayback_time": 20040701072859,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "新！星の駅 カービィ駅 ",
       "yomi": "しんほしのえきかあひいえき"
     },
@@ -11373,27 +10811,13 @@
   },
   {
     "site": {
-      "name": "シンプル・イズ・命",
-      "yomi": "しんふるいすいのち"
-    },
-    "webmaster": "kohji",
-    "url": "http://www.geocities.jp/smyrc263/index.html",
-    "year": {
-      "from": -2004,
-      "to": -2004
-    },
-    "wayback_time": 20040701072859,
-    "archive": 1
-  },
-  {
-    "site": {
       "name": "新緑の草木島",
       "yomi": "しんりよくのくさきとう"
     },
     "oldname": "正男ポケモンアイランド",
     "webmaster": "aみかん5",
     "banner": {
-      "image": "sinryoku.png",
+      "image": "shinryokunokusaki.png",
       "size": {
         "x": 200,
         "y": 40
@@ -11423,17 +10847,13 @@
     "oldname": "正男コロシアム ～黒き騎士道～",
     "webmaster": "ライディン",
     "banner": {
-      "image": "sinryokuwakaba.png",
+      "image": "shinryokunowakaba.png",
       "size": {
         "x": 200,
         "y": 40
       }
     },
     "url": "http://clairvoyancemasao.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -11545,10 +10965,6 @@
     "webmaster": "super M",
     "url": "http://superm.web.fc2.com/",
     "oldurl": "http://plaza.rakuten.co.jp/malio/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20190815201525,
     "archive": 1
@@ -11587,7 +11003,7 @@
     },
     "webmaster": "ダイヤモンド",
     "banner": {
-      "image": "diamond.png",
+      "image": "superdiamond.png",
       "size": {
         "x": 200,
         "y": 40
@@ -11643,10 +11059,6 @@
     },
     "webmaster": "藤男",
     "url": "http://watasinosaito.hp.infoseek.co.jp/huzio/huziotop.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040816184122,
     "archive": 1
   },
@@ -11657,10 +11069,6 @@
     },
     "webmaster": "TOMOHIRO",
     "url": "http://1st.geocities.jp/tomohiro1994427/masaoairando.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "一画面",
@@ -11726,6 +11134,10 @@
       "yomi": "すうはあまさおういき"
     },
     "webmaster": "urotaichi",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#D0D0D0"
+    },
     "url": "http://masao.wiki.fc2.com/",
     "year": {
       "from": -1,
@@ -11821,6 +11233,10 @@
       "yomi": "すうはあまさおおもしろすてえししゆう"
     },
     "webmaster": "大樹",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#7FFF00"
+    },
     "url": "http://masimominoru.web.fc2.com/",
     "year": {
       "from": 2010,
@@ -11921,10 +11337,6 @@
       }
     },
     "url": "http://masaocollection.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050507235638,
     "archive": 1
@@ -11935,6 +11347,10 @@
       "yomi": "すうはあまさおさいとまとめういき"
     },
     "webmaster": "urotaichi",
+    "banner": {
+      "color": "#444444",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://www60.atwiki.jp/masaositematome/",
     "year": {
       "from": -1,
@@ -11947,11 +11363,11 @@
       "name": "スーパー正男作成～HP公開について",
       "yomi": "すうはあまさおさくせいほおむへえしこうかいについて"
     },
-    "url": "http://masao.syakuhati.com/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#FF0000",
+      "background_color": "#58D009"
     },
+    "url": "http://masao.syakuhati.com/",
     "archive": 0
   },
   {
@@ -12045,10 +11461,6 @@
       }
     },
     "url": "http://masaostock.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "wayback_time": 20071215203656,
     "archive": 4
@@ -12059,10 +11471,6 @@
       "yomi": "すうはあまさおてあそほうかい"
     },
     "url": "http://www.okiniiri.com/masao/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "wayback_time": 20150220225519,
     "archive": 4
@@ -12123,6 +11531,10 @@
       "name": "スーパー正男の館！！",
       "yomi": "すうはあまさおのやかた"
     },
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFF00"
+    },
     "url": "http://mukai67.web.fc2.com/",
     "year": {
       "from": 2012,
@@ -12151,10 +11563,6 @@
       "yomi": "すうはあまさおほつくす"
     },
     "url": "http://www.geocities.jp/chirbo10/masabo.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "wayback_time": 20050519205558,
     "archive": 1
@@ -12233,11 +11641,11 @@
       "name": "スーパーまさおワールド",
       "yomi": "すうはあまさおわあると"
     },
-    "url": "http://indigohorizon.kachoufuugetu.net/world1-1.html",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#C0C0C0"
     },
+    "url": "http://indigohorizon.kachoufuugetu.net/world1-1.html",
     "archive": 0
   },
   {
@@ -12287,10 +11695,6 @@
       }
     },
     "url": "http://www.geocities.jp/kumagaitatuya2002/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20181105065352,
     "archive": 1
   },
@@ -12406,10 +11810,6 @@
       }
     },
     "url": "http://marionokouen.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060830152000,
     "archive": 1
   },
@@ -12506,10 +11906,6 @@
       "http://skycastle.jf.land.to/",
       "http://kamikazehouou.hp.infoseek.co.jp/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "archive": 0
   },
@@ -12527,10 +11923,6 @@
       }
     },
     "url": "http://sky.geocities.jp/akatuki1akatuki2akatuki3/index.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20080612195153,
     "archive": 4
@@ -12721,10 +12113,6 @@
       }
     },
     "url": "http://puchi1.hp.infoseek.co.jp/index.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "feature": [
       "素材配布",
@@ -12782,10 +12170,6 @@
     "webmaster": "TF",
     "url": "http://f36.aaa.livedoor.jp/~sword/",
     "oldurl": "http://p36.aaacafe.ne.jp/~sword/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041204023900,
     "archive": 1
   },
@@ -12842,10 +12226,6 @@
       "http://simadu.finito-web.com/",
       "http://www.geocities.co.jp/SiliconValley/2720/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060306203611,
     "archive": 4
   },
@@ -12939,10 +12319,6 @@
       }
     },
     "url": "http://homepage1.nifty.com/fwip0312/suto/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050909144912,
     "archive": 1
@@ -12967,10 +12343,6 @@
     },
     "url": "http://www2.fctv.ne.jp/~gotoh/index.html",
     "oldurl": "http://www2.fctv.ne.jp/~gotoh/shun/top.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "ストーリー"
@@ -12987,10 +12359,6 @@
     "webmaster": "すねいく",
     "url": "http://www.geocities.jp/snakenopage/",
     "oldurl": "http://gamesnake.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050215121904,
     "archive": 1
   },
@@ -13001,10 +12369,6 @@
     },
     "webmaster": "ライビィ",
     "url": "http://sutayurby.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "feature": "WWA",
     "wayback_time": 20060430021915,
@@ -13024,10 +12388,6 @@
       }
     },
     "url": "http://spidermasao.gozaru.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050211021931,
     "archive": 1
   },
@@ -13065,10 +12425,6 @@
     "webmaster": "Forte",
     "url": "http://www3.pf-x.net/~space-world/",
     "oldurl": "http://www.geocities.jp/space_of_the_world/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20040923010501,
     "archive": 1
@@ -13135,10 +12491,6 @@
       }
     },
     "url": "http://www.geocities.jp/kazukiman11/ENTORANSU.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20071228234752,
     "archive": 1
@@ -13171,10 +12523,6 @@
       }
     },
     "url": "http://itakura.jounin.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -13205,10 +12553,6 @@
     },
     "webmaster": "ズミー",
     "url": "http://ddzumy.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20041116170306,
     "archive": 1
@@ -13312,10 +12656,6 @@
       }
     },
     "url": "http://www.geocities.jp/zumy_1999/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070312042229,
     "archive": 1
   },
@@ -13326,10 +12666,6 @@
     },
     "webmaster": "suraimu",
     "url": "http://chance.gaiax.com/home/suraimu/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040820083630,
     "archive": 1
   },
@@ -13361,10 +12697,6 @@
       "yomi": "すんちやんいんく"
     },
     "url": "http://www.geocities.jp/suntyan3/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20190325154340,
     "archive": 4
   },
@@ -13438,10 +12770,6 @@
       }
     },
     "url": "http://www.h7.dion.ne.jp/~zenipoke/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050828015813,
     "archive": 1
   },
@@ -13490,10 +12818,6 @@
     },
     "webmaster": "セロリ",
     "url": "http://www.geocities.jp/celeryyyy/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20190330234705,
     "archive": 4
@@ -13505,10 +12829,6 @@
     },
     "webmaster": "Ωソード",
     "url": "http://www.actv.ne.jp/~d-town/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "wayback_time": 20031126012711,
     "archive": 1
@@ -13562,11 +12882,11 @@
       "yomi": "そうこ"
     },
     "webmaster": "カヅキ",
-    "url": "http://csv.cs.land.to/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#99FF99"
     },
+    "url": "http://csv.cs.land.to/",
     "archive": 0
   },
   {
@@ -13605,10 +12925,6 @@
       }
     },
     "url": "http://homepage2.nifty.com/creationcity/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "feature": [
       "正男100個以上",
@@ -13624,10 +12940,6 @@
     "oldname": "たこの隠れ穴",
     "webmaster": "JOKER",
     "url": "http://aea.to/soulnights/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040412035644,
     "archive": 1
   },
@@ -13685,6 +12997,26 @@
   },
   {
     "site": {
+      "name": "そよ風の広場",
+      "yomi": "そよかせのひろは"
+    },
+    "webmaster": "黎鵡",
+    "banner": {
+      "image": "soyokaze.gif",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://reimu2008.web.fc2.com/",
+    "year": {
+      "from": -1,
+      "to": -2009
+    },
+    "archive": 2
+  },
+  {
+    "site": {
       "name": "空色の風～限りなく青いこの空の下で～",
       "yomi": "そらいろのかせかきりなくあおいこのそらのしたて"
     },
@@ -13713,10 +13045,6 @@
     },
     "webmaster": "健二",
     "url": "http://tanabeosumi.ikaduchi.com/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "ストーリー"
@@ -13748,26 +13076,6 @@
   },
   {
     "site": {
-      "name": "そよ風の広場",
-      "yomi": "そよかせのひろは"
-    },
-    "webmaster": "黎鵡",
-    "banner": {
-      "image": "soyokaze.gif",
-      "size": {
-        "x": 200,
-        "y": 40
-      }
-    },
-    "url": "http://reimu2008.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -2009
-    },
-    "archive": 2
-  },
-  {
-    "site": {
       "name": "Soloi's Room",
       "yomi": "そろいするうむ"
     },
@@ -13779,10 +13087,6 @@
       }
     },
     "url": "http://soloi903.client.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -13828,10 +13132,6 @@
     },
     "webmaster": "Mukuri",
     "url": "http://ktblog072.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20200307161741,
     "archive": 1
   },
@@ -13850,10 +13150,6 @@
       }
     },
     "url": "http://karasudog.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -13884,10 +13180,6 @@
     },
     "webmaster": "チャッピー",
     "url": "http://www2.cty-net.ne.jp/~tomatsu/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20070818215853,
     "archive": 4
@@ -13920,10 +13212,6 @@
       }
     },
     "url": "http://kakodai.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "正男100個以上",
     "wayback_time": 20060303152352,
     "archive": 1
@@ -13943,10 +13231,6 @@
     },
     "url": "http://taikutsu.gozaru.jp/",
     "oldurl": "http://www.atrx.net/taikutsu/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051028104547,
     "archive": 1
   },
@@ -13957,10 +13241,6 @@
     },
     "webmaster": "エージ",
     "url": "http://web01.joetsu.ne.jp/~hiromu/daigen/index2.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041114174619,
     "archive": 1
   },
@@ -14007,7 +13287,7 @@
     },
     "webmaster": "DAMN",
     "banner": {
-      "image": "taihei.gif",
+      "image": "taihei.jpg",
       "size": {
         "x": 181,
         "y": 63
@@ -14019,6 +13299,27 @@
       "to": 2010
     },
     "wayback_time": 20180226235026,
+    "archive": 4
+  },
+  {
+    "site": {
+      "name": "Time of Legend",
+      "yomi": "たいむおふれしえんと"
+    },
+    "webmaster": "グライダー",
+    "banner": {
+      "image": "timeoflegend.gif",
+      "size": {
+        "x": 160,
+        "y": 50
+      }
+    },
+    "url": "http://www.geocities.co.jp/HeartLand-Ayame/8771/",
+    "year": {
+      "from": 2004,
+      "to": 2004
+    },
+    "wayback_time": 20181105053358,
     "archive": 4
   },
   {
@@ -14057,33 +13358,12 @@
   },
   {
     "site": {
-      "name": "Time of Legend",
-      "yomi": "たいむおふれしえんと"
-    },
-    "webmaster": "グライダー",
-    "banner": {
-      "image": "timeoflegend.gif",
-      "size": {
-        "x": 160,
-        "y": 50
-      }
-    },
-    "url": "http://www.geocities.co.jp/HeartLand-Ayame/8771/",
-    "year": {
-      "from": 2004,
-      "to": 2004
-    },
-    "wayback_time": 20181105053358,
-    "archive": 4
-  },
-  {
-    "site": {
       "name": "ダイヤモンドドラゴン",
       "yomi": "たいやもんととらこん"
     },
     "webmaster": "RAGI",
     "banner": {
-      "image": "diamond.gif",
+      "image": "diamonddragon.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -14091,10 +13371,6 @@
     },
     "url": "http://sky.geocities.jp/ragidesuyo/",
     "oldurl": "http://sky.geocities.jp/diamondrakilc/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -14103,6 +13379,10 @@
       "yomi": "たいようのひかり"
     },
     "webmaster": "レリシュ",
+    "banner": {
+      "color": "#80FFFF",
+      "background_color": "#FF8000"
+    },
     "url": "http://rainbowrelish.web.fc2.com/",
     "year": {
       "from": -2010,
@@ -14198,10 +13478,6 @@
     },
     "url": "http://www.geocities.co.jp/Playtown-Queen/4726/",
     "oldurl": "http://takayasunomura.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050307042220,
     "archive": 1
   },
@@ -14301,10 +13577,6 @@
     },
     "webmaster": "TAKEO",
     "url": "http://yuukiandtennis.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20060622093728,
     "archive": 1
@@ -14338,10 +13610,6 @@
       }
     },
     "url": "http://yanabou.hp.infoseek.co.jp/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20061114123200,
     "archive": 4
@@ -14447,10 +13715,6 @@
       }
     },
     "url": "http://www.geocities.jp/fwnw2364/tasukunoheya/index.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040406081035,
     "archive": 1
   },
@@ -14460,6 +13724,10 @@
       "yomi": "たすとすとおむねつと"
     },
     "webmaster": "御池トガ",
+    "banner": {
+      "color": "#888888",
+      "background_color": "#FFFFFF"
+    },
     "url": "https://dust-storm.net/",
     "year": {
       "from": 2020,
@@ -14481,10 +13749,6 @@
       }
     },
     "url": "http://daiya.ps.land.to/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -14535,6 +13799,10 @@
       "yomi": "たつくんのほおむへえし"
     },
     "webmaster": "clook0551",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFFE0"
+    },
     "url": "http://takkunn700.web.fc2.com/",
     "year": {
       "from": 2011,
@@ -14550,10 +13818,6 @@
     },
     "webmaster": "たつや",
     "url": "http://www5f.biglobe.ne.jp/~bamyu/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20030808194323,
     "archive": 1
   },
@@ -14565,10 +13829,6 @@
     "oldname": "幻想空間",
     "webmaster": "wiz",
     "url": "http://thefantasyspace.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "ストーリー"
@@ -14616,10 +13876,6 @@
       }
     },
     "url": "http://www.geocities.jp/tahusinn/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040623061527,
     "archive": 1
   },
@@ -14653,10 +13909,6 @@
     "oldname": "ZEROの家",
     "webmaster": "孫悟飯",
     "url": "http://kkn.zive.net/zero777/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040802234729,
     "archive": 1
   },
@@ -14690,10 +13942,6 @@
     "webmaster": "渡部貴博",
     "url": "http://www6.atpages.jp/wkingdom/",
     "oldurl": "http://www.geocities.jp/w_kabusiki/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20130717084901,
     "archive": 1
   },
@@ -14704,10 +13952,6 @@
     },
     "webmaster": "skybattler",
     "url": "http://skybattler.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -14724,10 +13968,6 @@
       }
     },
     "url": "http://www.geocities.jp/npfjf896/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20070303080634,
     "archive": 1
@@ -14801,10 +14041,6 @@
       }
     },
     "url": "",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -14821,10 +14057,6 @@
       }
     },
     "url": "http://www.geocities.jp/pam101126/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "素材配布",
     "wayback_time": 20050321184026,
     "archive": 1
@@ -14852,28 +14084,6 @@
   },
   {
     "site": {
-      "name": "誰かさんの支配する街",
-      "yomi": "たれかさんのしはいするまち"
-    },
-    "webmaster": "誰かさん",
-    "banner": {
-      "image": "darekasan.png",
-      "size": {
-        "x": 200,
-        "y": 50
-      }
-    },
-    "url": "http://www.geocities.jp/darekasan13_2006/ds/toptop.html",
-    "year": {
-      "from": 2006,
-      "to": 2007
-    },
-    "kind_masao": "一画面",
-    "wayback_time": 20190330224537,
-    "archive": 4
-  },
-  {
-    "site": {
       "name": "ダルのホームページ",
       "yomi": "たるのほおむへえし"
     },
@@ -14886,10 +14096,6 @@
       }
     },
     "url": "http://dall.b7m.net/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060325153616,
     "archive": 1
   },
@@ -14917,15 +14123,33 @@
   },
   {
     "site": {
+      "name": "誰かさんの支配する街",
+      "yomi": "たれかさんのしはいするまち"
+    },
+    "webmaster": "誰かさん",
+    "banner": {
+      "image": "darekasan.png",
+      "size": {
+        "x": 200,
+        "y": 50
+      }
+    },
+    "url": "http://www.geocities.jp/darekasan13_2006/ds/toptop.html",
+    "year": {
+      "from": 2006,
+      "to": 2007
+    },
+    "kind_masao": "一画面",
+    "wayback_time": 20190330224537,
+    "archive": 4
+  },
+  {
+    "site": {
       "name": "タローの部屋",
       "yomi": "たろおのへや"
     },
     "webmaster": "タロー",
     "url": "http://www.geocities.jp/kok_taro/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050121022935,
     "archive": 1
   },
@@ -14936,10 +14160,6 @@
     },
     "webmaster": "たろ～",
     "url": "http://www.geocities.jp/k8tarou/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050121022935,
     "archive": 1
   },
@@ -14950,10 +14170,6 @@
     },
     "webmaster": "MARUTOMO",
     "url": "http://1-max.net/~maru/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050405045825,
     "archive": 1
@@ -14972,10 +14188,6 @@
       }
     },
     "url": "http://madougu.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050331044140,
     "archive": 4
   },
@@ -15006,6 +14218,10 @@
       "yomi": "ちいきのあしへえし"
     },
     "webmaster": "H&H",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFCC99"
+    },
     "url": "http://tiikinoazi.michikusa.jp/",
     "year": {
       "from": -1,
@@ -15027,10 +14243,6 @@
       }
     },
     "url": "http://www7a.biglobe.ne.jp/~c_maruchichi/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050408142545,
     "archive": 1
   },
@@ -15090,10 +14302,6 @@
       }
     },
     "url": "http://web-box.jp/wtr/teammasao/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -15212,7 +14420,7 @@
     },
     "webmaster": "天の書",
     "banner": {
-      "image": "tyuutohanpa.png",
+      "image": "chutohanpa.png",
       "size": {
         "x": 109,
         "y": 45
@@ -15255,10 +14463,6 @@
       }
     },
     "url": "http://www.geocities.jp/kenta070106/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20071208193156,
     "archive": 1
   },
@@ -15376,17 +14580,13 @@
     },
     "webmaster": "アシェス",
     "banner": {
-      "image": "tinroutou.gif",
+      "image": "chinroutou.gif",
       "size": {
         "x": 200,
         "y": 40
       }
     },
     "url": "http://uhsies294masao.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -15396,10 +14596,6 @@
     },
     "webmaster": "ライ",
     "url": "http://www.geocities.jp/monthcity/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20080309002817,
     "archive": 1
   },
@@ -15440,10 +14636,6 @@
     },
     "url": "http://tatsuro12.zero-yen.com/game.html",
     "oldurl": "http://www.geocities.jp/tatsuro0987/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20181030111558,
     "archive": 4
   },
@@ -15491,10 +14683,6 @@
     },
     "url": "http://www.geocities.jp/tsunasan2740/top.html",
     "oldurl": "http://tsunasan.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050409091819,
     "archive": 1
   },
@@ -15504,6 +14692,10 @@
       "yomi": "つねてきなほおむへえし"
     },
     "webmaster": "tsune",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#BBEEFF"
+    },
     "url": "http://2shin.net/tsunet/",
     "oldurl": "http://tsunet.web-zz.com/",
     "year": {
@@ -15520,6 +14712,10 @@
     },
     "oldname": "ダイッチのページ",
     "webmaster": "daitti",
+    "banner": {
+      "color": "#343a40",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://dai6.web.fc2.com/",
     "oldurl": "http://www.geocities.jp/dai_hamuko/",
     "year": {
@@ -15575,10 +14771,6 @@
       "http://masanaka7.s55.xrea.com/",
       "http://www.geocities.jp/masanaka7/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050306051526,
     "archive": 1
   },
@@ -15649,6 +14841,22 @@
   },
   {
     "site": {
+      "name": "TWT",
+      "yomi": "ていいたふるていい"
+    },
+    "webmaster": "tw6",
+    "banner": {
+      "image": "twt.png",
+      "size": {
+        "x": 64,
+        "y": 32
+      }
+    },
+    "url": "http://masaobytw6.dousetsu.com/T.htm",
+    "archive": 0
+  },
+  {
+    "site": {
       "name": "DDR SPread",
       "yomi": "ていいていいああるすふれつと"
     },
@@ -15671,57 +14879,15 @@
   },
   {
     "site": {
-      "name": "DB町の正男地区",
-      "yomi": "ていいひいちようのまさおちく"
-    },
-    "oldname": "正男100％",
-    "webmaster": "悟天Jr",
-    "banner": {
-      "image": "100percent.bmp",
-      "size": {
-        "x": 200,
-        "y": 40
-      }
-    },
-    "url": "http://www.dia-net.ne.jp/~kazu77/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "wayback_time": 20050619005355,
-    "archive": 1
-  },
-  {
-    "site": {
-      "name": "TWT",
-      "yomi": "ていいたふるていい"
-    },
-    "webmaster": "tw6",
-    "banner": {
-      "image": "twt.png",
-      "size": {
-        "x": 64,
-        "y": 32
-      }
-    },
-    "url": "http://masaobytw6.dousetsu.com/T.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "archive": 0
-  },
-  {
-    "site": {
       "name": "TT氏のホームページ",
       "yomi": "ていいていいしのほおむへえし"
     },
     "webmaster": "TT氏",
-    "url": "http://masao55.ikaduchi.com/newpage55.htm",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#FFFFFF",
+      "background_color": "#999999"
     },
+    "url": "http://masao55.ikaduchi.com/newpage55.htm",
     "kind_masao": "ストーリー",
     "archive": 0
   },
@@ -15750,6 +14916,24 @@
   },
   {
     "site": {
+      "name": "DB町の正男地区",
+      "yomi": "ていいひいちようのまさおちく"
+    },
+    "oldname": "正男100％",
+    "webmaster": "悟天Jr",
+    "banner": {
+      "image": "100percent.bmp",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://www.dia-net.ne.jp/~kazu77/",
+    "wayback_time": 20050619005355,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "ていおー秘密基地",
       "yomi": "ていおおひみつきち"
     },
@@ -15762,10 +14946,6 @@
       }
     },
     "url": "http://www.geocities.jp/kouteiteiou/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -15838,10 +15018,6 @@
     "oldname": "ティットの交流広場",
     "webmaster": "ティット",
     "url": "http://tito.web-zz.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040612125649,
     "archive": 1
   },
@@ -15925,10 +15101,6 @@
       }
     },
     "url": "http://w3.oroti.net/~seisaku/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -15938,7 +15110,7 @@
     },
     "webmaster": "デタラメな人間",
     "banner": {
-      "image": "detarame.gif",
+      "image": "detarame.png",
       "size": {
         "x": 200,
         "y": 85
@@ -15968,10 +15140,6 @@
       }
     },
     "url": "http://reniera.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20050514173437,
     "archive": 1
@@ -15982,6 +15150,11 @@
       "yomi": "てつとうとけえむなんてもありのへや"
     },
     "webmaster": "ひかり302号",
+    "webmaster": "TT氏",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFFDD"
+    },
     "url": "http://hikari302goh.k-server.org/",
     "year": {
       "from": -1,
@@ -16066,10 +15239,6 @@
     },
     "webmaster": "火武羅",
     "url": "http://www.geocities.jp/saku_502/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050204182828,
     "archive": 1
   },
@@ -16121,10 +15290,6 @@
     },
     "url": "http://www.tosp.co.jp/i.asp?i=REALANIME",
     "oldurl": "http://www.geocities.co.jp/NatureLand-Sky/8310/game1.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041231064620,
     "archive": 1
   },
@@ -16175,10 +15340,6 @@
     },
     "webmaster": "カナタン",
     "url": "http://tk001800.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050319021823,
     "archive": 1
@@ -16190,10 +15351,6 @@
     },
     "webmaster": "SB7448",
     "url": "http://plaza.rakuten.co.jp/SB7448/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20071105030105,
     "archive": 1
   },
@@ -16213,10 +15370,6 @@
     },
     "url": "http://kohta.a.orn.jp/",
     "oldurl": "http://wing2.jp/~kohta/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20090902030658,
     "archive": 1
@@ -16265,10 +15418,6 @@
     "oldname": "kowahenoの正男シティ（仮）",
     "webmaster": "kowaheno",
     "url": "http://kowaheno.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050213071657,
     "archive": 1
   },
@@ -16280,7 +15429,7 @@
     "oldname": "dqのページ（仮）",
     "webmaster": "dq",
     "banner": {
-      "image": "toutyu.gif",
+      "image": "tochu.gif",
       "size": {
         "x": 88,
         "y": 31
@@ -16304,7 +15453,7 @@
     },
     "webmaster": "とうふ",
     "banner": {
-      "image": "touhu.gif",
+      "image": "tofu.gif",
       "size": {
         "x": 200,
         "y": 50
@@ -16337,10 +15486,6 @@
       }
     },
     "url": "http://music.geocities.jp/ricetask68934_kind/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20190326162106,
     "archive": 1
   },
@@ -16358,10 +15503,6 @@
       }
     },
     "url": "http://folse11adventure.ikaduchi.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "archive": 0
   },
@@ -16451,10 +15592,6 @@
       "yomi": "とかとまさお"
     },
     "url": "http://kei3232.hp.infoseek.co.jp/i/newpage5.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050529183243,
     "archive": 1
   },
@@ -16474,10 +15611,6 @@
     },
     "url": "http://wakakusa.ikaduchi.com/",
     "suburl": "http://wakakusa.is.land.to/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "archive": 0
   },
@@ -16489,17 +15622,13 @@
     "oldname": "トコナツアイランド",
     "webmaster": "飛竜",
     "banner": {
-      "image": "tokonatu.gif",
+      "image": "tokonatsu.gif",
       "size": {
         "x": 120,
         "y": 40
       }
     },
     "url": "http://ryohika.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20041116044726,
     "archive": 1
@@ -16518,10 +15647,6 @@
       }
     },
     "url": "http://www.geocities.jp/dokonnzyou3528/newhp1.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20090908075848,
     "archive": 1
   },
@@ -16561,10 +15686,6 @@
       }
     },
     "url": "http://www3.plala.or.jp/saturn000/index2.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "一画面",
     "feature": "素材配布",
     "wayback_time": 20090903213550,
@@ -16576,6 +15697,10 @@
       "yomi": "とつちやんのほおむへえし"
     },
     "webmaster": "とっちゃん",
+    "banner": {
+      "color": "#FFA940",
+      "background_color": "#CCFFDD"
+    },
     "url": "http://home.t03.itscom.net/toshima/KentaHP/home.htm",
     "year": {
       "from": 2008,
@@ -16640,10 +15765,6 @@
       }
     },
     "url": "http://dodo.nce.buttobi.net/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -16653,10 +15774,6 @@
     },
     "webmaster": "jikkenn",
     "url": "http://donadona24u.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20050911094855,
     "archive": 1
@@ -16838,26 +15955,6 @@
   },
   {
     "site": {
-      "name": "ドラやしき",
-      "yomi": "とらやしき"
-    },
-    "webmaster": "きて",
-    "banner": {
-      "image": "dorayashiki.gif",
-      "size": {
-        "x": 88,
-        "y": 31
-      }
-    },
-    "url": "http://dorayashiki.mad.buttobi.net/",
-    "year": {
-      "from": 2008,
-      "to": 2009
-    },
-    "archive": 0
-  },
-  {
-    "site": {
       "name": "ドラミュー",
       "yomi": "とらみゆう"
     },
@@ -16876,6 +15973,26 @@
     "year": {
       "from": 2006,
       "to": 2012
+    },
+    "archive": 0
+  },
+  {
+    "site": {
+      "name": "ドラやしき",
+      "yomi": "とらやしき"
+    },
+    "webmaster": "きて",
+    "banner": {
+      "image": "dorayashiki.gif",
+      "size": {
+        "x": 88,
+        "y": 31
+      }
+    },
+    "url": "http://dorayashiki.mad.buttobi.net/",
+    "year": {
+      "from": 2008,
+      "to": 2009
     },
     "archive": 0
   },
@@ -16908,10 +16025,6 @@
       }
     },
     "url": "http://www.geocities.jp/sain61/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -16921,7 +16034,7 @@
     },
     "webmaster": "ドリ",
     "banner": {
-      "image": "dorishiki.gif",
+      "image": "dorishiki.bmp",
       "size": {
         "x": 130,
         "y": 40
@@ -16995,10 +16108,6 @@
       }
     },
     "url": "http://page.freett.com/donpapa/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -17016,10 +16125,6 @@
     },
     "url": "http://naitman.hp.infoseek.co.jp/",
     "oldurl": "http://www.geocities.co.jp/Playtown-Denei/6710/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20050305104241,
@@ -17124,7 +16229,7 @@
     },
     "webmaster": "志知六",
     "banner": {
-      "image": "kakuukan.gif",
+      "image": "kakukan.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -17150,7 +16255,7 @@
     },
     "webmaster": "G・スライム",
     "banner": {
-      "image": "nazonokuukan.gif",
+      "image": "nazonokukan.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -17234,10 +16339,6 @@
     },
     "webmaster": "7755334",
     "url": "http://www.geocities.jp/yuma2ch/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20181105024814,
     "archive": 4
   },
@@ -17275,10 +16376,6 @@
       "yomi": "なにけにほおむへえし"
     },
     "url": "http://www.geocities.co.jp/NeverLand-Mirai/4876/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -17315,10 +16412,6 @@
       }
     },
     "url": "http://namakemonn.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20080110075354,
     "archive": 1
   },
@@ -17336,10 +16429,6 @@
       }
     },
     "url": "http://www.geocities.jp/ac040406/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040902130824,
     "archive": 1
   },
@@ -17350,17 +16439,13 @@
     },
     "webmaster": "かせい",
     "banner": {
-      "image": "namonaki.gif",
+      "image": "namonaki.bmp",
       "size": {
         "x": 90,
         "y": 30
       }
     },
     "url": "http://homepage3.nifty.com/kaseikun/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20041212075416,
     "archive": 1
@@ -17380,10 +16465,6 @@
     },
     "url": "http://nalto.osonae.com/",
     "suburl": "http://nalto.run.buttobi.net/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -17400,10 +16481,6 @@
       }
     },
     "url": "http://nikuo.zouri.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -17434,10 +16511,6 @@
       }
     },
     "url": "http://taka5656-ld.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050206052054,
     "archive": 1
   },
@@ -17529,6 +16602,15 @@
   },
   {
     "site": {
+      "name": "NEWスーパー正男",
+      "yomi": "にゆうすうはあまさお"
+    },
+    "url": "http://www.geocities.jp/beta1090/newmasao.htm",
+    "wayback_time": 20181118105905,
+    "archive": 4
+  },
+  {
+    "site": {
       "name": "New Sky Order",
       "yomi": "にゆうすかいおおたあ"
     },
@@ -17552,19 +16634,6 @@
     },
     "kind_masao": "JS拡張",
     "archive": 3
-  },
-  {
-    "site": {
-      "name": "NEWスーパー正男",
-      "yomi": "にゆうすうはあまさお"
-    },
-    "url": "http://www.geocities.jp/beta1090/newmasao.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "wayback_time": 20181118105905,
-    "archive": 4
   },
   {
     "site": {
@@ -17618,10 +16687,6 @@
     },
     "webmaster": "こけた",
     "url": "http://www.ma.ccnw.ne.jp/koketa/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050104234911,
     "archive": 1
@@ -17666,10 +16731,6 @@
       }
     },
     "url": "http://nobausagi.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050323213335,
     "archive": 4
   },
@@ -17680,10 +16741,6 @@
     },
     "webmaster": "Arai",
     "url": "http://www.geocities.jp/hyakutenboy/nintaimasaounion.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20080119213522,
     "archive": 1
   },
@@ -17701,10 +16758,6 @@
       }
     },
     "url": "http://www.geocities.jp/airsmembercom/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -17742,10 +16795,6 @@
       }
     },
     "url": "http://xsgm.hp.infoseek.co.jp/INDEX.HTM",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20050322083751,
     "archive": 4
@@ -17817,10 +16866,6 @@
       }
     },
     "url": "http://www.geocities.jp/dokiya0913/newnintendodoumeienter.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -17871,10 +16916,6 @@
       }
     },
     "url": "http://www.d1.dion.ne.jp/~tm_okad/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050207124242,
     "archive": 1
   },
@@ -17885,10 +16926,6 @@
     },
     "webmaster": "Junbaby",
     "url": "http://nuboo.net/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050122180317,
     "archive": 1
   },
@@ -17910,10 +16947,6 @@
       "http://www.geocities.jp/dai_numata/c.htm",
       "http://www.hamq.jp/i.cfm?i=86248624"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20060224185056,
     "archive": 1
@@ -17984,10 +17017,6 @@
     },
     "webmaster": "熱鉄☆問題",
     "url": "http://www.geocities.jp/seiya825/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070202103424,
     "archive": 1
   },
@@ -17998,7 +17027,7 @@
     },
     "webmaster": "ヨッシィー",
     "banner": {
-      "image": "netsurfing2.gif",
+      "image": "netsurfing.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -18018,6 +17047,10 @@
       "yomi": "ねつとちやんふ"
     },
     "webmaster": "飛燕",
+    "banner": {
+      "color": "#000099",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://w1.oroti.net/~netchampion/",
     "year": {
       "from": -2006,
@@ -18040,10 +17073,6 @@
     },
     "url": "http://kikutako.hp.infoseek.co.jp/index.html",
     "oldurl": "http://monhan.ddo.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "正男100個以上",
     "wayback_time": 20060107014926,
     "archive": 1
@@ -18096,10 +17125,6 @@
     "oldname": "無敵の神 巧のホームページ",
     "webmaster": "Southern Crossの戦士",
     "url": "http://www.geocities.jp/tawago/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060207080511,
     "archive": 1
   },
@@ -18226,10 +17251,6 @@
     },
     "url": "http://masaogame.web.fc2.com/",
     "oldurl": "http://www.geocities.jp/noppi422/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "ストーリー"
@@ -18319,10 +17340,6 @@
     },
     "url": "http://citrus.bufsiz.jp/",
     "oldurl": "http://teils11.hp.infoseek.co.jp/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -18332,10 +17349,6 @@
     },
     "webmaster": "のりぃ",
     "url": "http://motidukinori.fc2web.com/index2.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040611092029,
     "archive": 1
   },
@@ -18353,10 +17366,6 @@
       }
     },
     "url": "http://hp.vector.co.jp/authors/VA023480/pq/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20090923201632,
     "archive": 1
   },
@@ -18424,10 +17433,6 @@
     },
     "url": "http://hoatyaasafaginn.web.fc2.com/",
     "oldurl": "http://island.geocities.jp/safaginn/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "archive": 0
   },
@@ -18438,10 +17443,6 @@
     },
     "oldname": "カービィパラダイス",
     "url": "http://www.geocities.jp/akusesu_oikawa/enter.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041229023035,
     "archive": 1
   },
@@ -18500,10 +17501,6 @@
       }
     },
     "url": "http://www.geocities.jp/ramiaravuresu/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20080611114637,
     "archive": 4
@@ -18581,6 +17578,10 @@
       "name": "バグリモンスターゲーム",
       "yomi": "はくりもんすたあけえむ"
     },
+    "banner": {
+      "color": "#F0FFFF",
+      "background_color": "#0000FF"
+    },
     "url": "http://55555.gozaru.jp/",
     "year": {
       "from": 2005,
@@ -18602,10 +17603,6 @@
       }
     },
     "url": "http://www.geocities.jp/masasi040501/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -18622,10 +17619,6 @@
       }
     },
     "url": "http://www.geocities.co.jp/Playtown-Domino/2256/masaolinks.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040401104859,
     "archive": 1
   },
@@ -18701,10 +17694,6 @@
       }
     },
     "url": "http://www.geocities.jp/cq188q/hahhahha.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050213173750,
     "archive": 1
   },
@@ -18716,7 +17705,7 @@
     "oldname": "初ユキの贈り物",
     "webmaster": "ユキヒト",
     "banner": {
-      "image": "hatsuyuki.gif",
+      "image": "hatsuyuki.jpg",
       "size": {
         "x": 200,
         "y": 80
@@ -18804,20 +17793,6 @@
   },
   {
     "site": {
-      "name": "パピヨンのゲームページ（仮）",
-      "yomi": "はひよんのけえむへえしかつこかり"
-    },
-    "webmaster": "パピヨン",
-    "url": "http://t-fu3.hp.infoseek.co.jp/",
-    "year": {
-      "from": 2003,
-      "to": -2004
-    },
-    "wayback_time": 20050505093422,
-    "archive": 1
-  },
-  {
-    "site": {
       "name": "paphi's room",
       "yomi": "はひするうむ"
     },
@@ -18845,6 +17820,20 @@
       "エディタ"
     ],
     "archive": 0
+  },
+  {
+    "site": {
+      "name": "パピヨンのゲームページ（仮）",
+      "yomi": "はひよんのけえむへえしかつこかり"
+    },
+    "webmaster": "パピヨン",
+    "url": "http://t-fu3.hp.infoseek.co.jp/",
+    "year": {
+      "from": 2003,
+      "to": -2004
+    },
+    "wayback_time": 20050505093422,
+    "archive": 1
   },
   {
     "site": {
@@ -18899,10 +17888,6 @@
       }
     },
     "url": "http://hayamahayama.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20080406121926,
@@ -19221,10 +18206,6 @@
     },
     "webmaster": "ちく",
     "url": "http://kigaru.gaiax.com/home/tiku2",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040823221914,
     "archive": 1
   },
@@ -19316,10 +18297,6 @@
       }
     },
     "url": "http://www.rak1.jp/one/user/pikumin_tyappi/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   
@@ -19338,10 +18315,6 @@
       }
     },
     "url": "http://www.geocities.jp/tibitoran/pikein.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060513111843,
     "archive": 1
   },
@@ -19360,10 +18333,6 @@
       }
     },
     "url": "http://web-box.jp/bigdaddy/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050409003143,
     "archive": 1
   },
@@ -19375,10 +18344,6 @@
     "oldname": "未熟者のページ",
     "webmaster": "メタル",
     "url": "http://www.geocities.jp/metal_guren/index.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20071117145759,
     "archive": 1
   },
@@ -19389,7 +18354,7 @@
     },
     "webmaster": "X-YAS",
     "banner": {
-      "image": "pityukabi.gif",
+      "image": "pichukabi.gif",
       "size": {
         "x": 219,
         "y": 53
@@ -19499,10 +18464,6 @@
     "webmaster": "暇騎士",
     "url": "http://www42.tok2.com/home/himakisiharahetta/yugijo.html",
     "oldurl": "http://himakisi.fuma-kotaro.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -19520,10 +18481,6 @@
       }
     },
     "url": "http://www.geocities.jp/sbxsp116/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20080102173203,
     "archive": 1
   },
@@ -19579,10 +18536,6 @@
     "oldname": "暇国人民共和国",
     "webmaster": "白魔人",
     "url": "http://6666.to/siro/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20040824203128,
     "archive": 1
@@ -19601,10 +18554,6 @@
       }
     },
     "url": "http://yutakajp.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050131080347,
     "archive": 1
   },
@@ -19627,10 +18576,6 @@
       "http://me0406.client.jp/",
       "http://www.geocities.jp/me1020305/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "ストーリー",
@@ -19645,7 +18590,7 @@
     },
     "webmaster": "あんこд",
     "banner": {
-      "image": "zerudan.gif",
+      "image": "zerudan.bmp",
       "size": {
         "x": 200,
         "y": 43
@@ -19798,10 +18743,6 @@
     },
     "url": "http://www.geocities.jp/hirotaka403/top01.htm",
     "oldurl": "http://hiro.s201.xrea.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "ストーリー"
@@ -19840,10 +18781,6 @@
     },
     "webmaster": "hiro",
     "url": "http://hiro-room0920.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20070712025642,
     "archive": 1
@@ -19856,7 +18793,7 @@
     "oldname": "小さな大志の村",
     "webmaster": "アオチュウ",
     "banner": {
-      "image": "vintagetoufu.jpg",
+      "image": "vintagetofu.jpg",
       "size": {
         "x": 200,
         "y": 40
@@ -19900,17 +18837,13 @@
     "oldname": "satoshiのページ",
     "webmaster": "SATOSHI",
     "banner": {
-      "image": "satoshinopage.gif",
+      "image": "satoshinopage_filex.gif",
       "size": {
         "x": 128,
         "y": 64
       }
     },
     "url": "http://masao.oh.land.to/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20071117175804,
     "archive": 1
   },
@@ -19979,10 +18912,6 @@
       }
     },
     "url": "http://bomm.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "feature": "正男100個以上",
     "wayback_time": 20041105050932,
@@ -20017,7 +18946,7 @@
     },
     "webmaster": "ギコ丸",
     "banner": {
-      "image": "huurai.gif",
+      "image": "furai.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -20039,7 +18968,7 @@
     },
     "webmaster": "ポゾ",
     "banner": {
-      "image": "huurinkazan.gif",
+      "image": "furinkazan.gif",
       "size": {
         "x": 88,
         "y": 31
@@ -20105,6 +19034,10 @@
       "yomi": "ふくたなおとのほおむへえし"
     },
     "webmaster": "福田直人",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#98FB98"
+    },
     "url": "http://www.t3.rim.or.jp/~naoto/naoto.html",
     "oldurl": "http://fukuda.ec-net.jp/naoto/",
     "year": {
@@ -20132,10 +19065,6 @@
       }
     },
     "url": "http://www.geocities.jp/k0fuji/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050220154213,
     "archive": 1
   },
@@ -20147,7 +19076,7 @@
     "oldname": "子供の遊び場",
     "webmaster": "神風",
     "banner": {
-      "image": "futyusei.gif",
+      "image": "fuchusei.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -20169,10 +19098,6 @@
     },
     "webmaster": "中級備兵",
     "url": "http://www.usamimi.info/~tyukyu/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060719040308,
     "archive": 1
   },
@@ -20183,7 +19108,7 @@
     },
     "webmaster": "からし&わさび",
     "banner": {
-      "image": "futsuunopage.gif",
+      "image": "futsunopage.gif",
       "size": {
         "x": 88,
         "y": 31
@@ -20204,7 +19129,7 @@
     },
     "webmaster": "kai",
     "banner": {
-      "image": "futumitai.jpg",
+      "image": "futsumitai.jpg",
       "size": {
         "x": 200,
         "y": 40
@@ -20263,11 +19188,11 @@
       "name": "冬駿館",
       "yomi": "ふゆとしかん"
     },
-    "url": "http://huyutosikan.web.fc2.com/masao.html",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#C6FFFF",
+      "background_color": "#0066FF"
     },
+    "url": "http://huyutosikan.web.fc2.com/masao.html",
     "kind_masao": "ストーリー",
     "archive": 0
   },
@@ -20307,10 +19232,6 @@
       }
     },
     "url": "http://web-box.jp/siro/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "feature": "WWA",
     "wayback_time": 20050313010421,
@@ -20349,10 +19270,6 @@
     "oldname": "SKYAVALON",
     "webmaster": "ハイム",
     "url": "http://skyavalon.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050130022311,
     "archive": 1
   },
@@ -20371,10 +19288,6 @@
       }
     },
     "url": "http://www15.ocn.ne.jp/~mugi.pan/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060204013235,
     "archive": 1
   },
@@ -20396,10 +19309,6 @@
       }
     },
     "url": "http://www.geocities.jp/godcomjp/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050116125321,
     "archive": 1
   },
@@ -20433,10 +19342,6 @@
     "webmaster": "RYOUTA",
     "url": "http://plaza.rakuten.co.jp/caravancircle",
     "oldurl": "http://www.geocities.jp/caravancircle/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040904202508,
     "archive": 1
   },
@@ -20469,10 +19374,6 @@
     },
     "webmaster": "ぼんちゃん",
     "url": "http://www.geocities.jp/freebon1991/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050911013514,
     "archive": 1
   },
@@ -20481,11 +19382,11 @@
       "name": "freemailerster",
       "yomi": "ふりいめえらあすたあ"
     },
-    "url": "http://freemailerster.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFFFF"
     },
+    "url": "http://freemailerster.web.fc2.com/",
     "archive": 0
   },
   {
@@ -20557,10 +19458,6 @@
     },
     "webmaster": "SEINA",
     "url": "http://www.geocities.jp/seina6_2/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20071114085057,
     "archive": 1
@@ -20610,10 +19507,6 @@
       }
     },
     "url": "http://tubotubo.fc2web.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -20644,10 +19537,6 @@
     },
     "webmaster": "ボンバー",
     "url": "http://playfulcafe.client.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20050408204536,
     "archive": 1
@@ -20689,10 +19578,6 @@
       }
     },
     "url": "http://skwatata.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050306081409,
     "archive": 1
   },
@@ -20937,10 +19822,6 @@
       }
     },
     "url": "http://www.peketyu.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20090318040822,
     "archive": 1
   },
@@ -21108,10 +19989,6 @@
     },
     "webmaster": "坊全",
     "url": "http://xvf.finito.fc2.com/supamasa/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -21121,10 +19998,6 @@
     },
     "webmaster": "YKMI",
     "url": "http://ykmiykmi.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -21135,10 +20008,6 @@
     "webmaster": "SYランチャー",
     "url": "http://finito-web.com/syranntixya/",
     "suburl": "http://syranntixya.finito-web.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20031212115515,
     "archive": 4
   },
@@ -21222,6 +20091,28 @@
   },
   {
     "site": {
+      "name": "Homey Bar",
+      "yomi": "ほおみいはあ"
+    },
+    "webmaster": "鉄ちゃんTM",
+    "banner": {
+      "image": "homeybar.gif",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://homeybar.ifdef.jp/",
+    "year": {
+      "from": 2004,
+      "to": 2008
+    },
+    "feature": "WWA",
+    "wayback_time": 20070310214220,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "ホームページ",
       "yomi": "ほおむへえし"
     },
@@ -21241,7 +20132,7 @@
     },
     "webmaster": "米・にせわりお",
     "banner": {
-      "image": "borunzoku.gif",
+      "image": "borunzoku.bmp",
       "size": {
         "x": 200,
         "y": 40
@@ -21255,28 +20146,6 @@
     },
     "feature": "WWA",
     "wayback_time": 20181105024500,
-    "archive": 1
-  },
-  {
-    "site": {
-      "name": "Homey Bar",
-      "yomi": "ほおみいはあ"
-    },
-    "webmaster": "鉄ちゃんTM",
-    "banner": {
-      "image": "homeybar.gif",
-      "size": {
-        "x": 200,
-        "y": 40
-      }
-    },
-    "url": "http://homeybar.ifdef.jp/",
-    "year": {
-      "from": 2004,
-      "to": 2008
-    },
-    "feature": "WWA",
-    "wayback_time": 20070310214220,
     "archive": 1
   },
   {
@@ -21356,6 +20225,33 @@
   },
   {
     "site": {
+      "name": "ぽけもん・えぼりゅーしょん・あどばんす！",
+      "yomi": "ほけもんえほりゆうしよんあとはんす"
+    },
+    "oldname": [
+      "Pokemon-Evolution",
+      "くりすたる～む"
+    ],
+    "webmaster": "TOKI",
+    "banner": {
+      "image": "pokemonevolution.gif",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://s2.poporo.net/shall/",
+    "oldurl": [
+      "http://poke.s19.xrea.com/",
+      "http://www.geocities.jp/suey010587/kurisutaru-mu.htm"
+    ],
+    "kind_masao": "ストーリー",
+    "feature": "WWA",
+    "wayback_time": 20050313194914,
+    "archive": 4
+  },
+  {
+    "site": {
       "name": "ポケモンズゲームランド",
       "yomi": "ほけもんすけえむらんと"
     },
@@ -21389,21 +20285,6 @@
   },
   {
     "site": {
-      "name": "ポケモンは奥が深い！",
-      "yomi": "ほけもんはおくかふかい"
-    },
-    "webmaster": "ピカエモン",
-    "url": "http://pokehuka.hp.infoseek.co.jp/",
-    "year": {
-      "from": 2002,
-      "to": 2004
-    },
-    "feature": "WWA",
-    "wayback_time": 20050529144942,
-    "archive": 1
-  },
-  {
-    "site": {
       "name": "ポケモンの小部屋",
       "yomi": "ほけもんのこへや"
     },
@@ -21426,6 +20307,21 @@
     },
     "feature": "WWA",
     "wayback_time": 20040930203156,
+    "archive": 1
+  },
+  {
+    "site": {
+      "name": "ポケモンは奥が深い！",
+      "yomi": "ほけもんはおくかふかい"
+    },
+    "webmaster": "ピカエモン",
+    "url": "http://pokehuka.hp.infoseek.co.jp/",
+    "year": {
+      "from": 2002,
+      "to": 2004
+    },
+    "feature": "WWA",
+    "wayback_time": 20050529144942,
     "archive": 1
   },
   {
@@ -21522,10 +20418,6 @@
       }
     },
     "url": "http://www.geocities.jp/slstrn/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050426151056,
     "archive": 1
   },
@@ -21544,10 +20436,6 @@
       }
     },
     "url": "http://www.freepe.com/ii.cgi?ryotua",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070822021326,
     "archive": 1
   },
@@ -21662,10 +20550,6 @@
       }
     },
     "url": "http://www.geocities.jp/sei0922/home0922/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050308075419,
     "archive": 1
   },
@@ -21705,10 +20589,6 @@
     },
     "url": "http://www.geocities.co.jp/Playtown-King/3132/main.html",
     "oldurl": "http://www.geocities.co.jp/Milkyway-Cassiopeia/4742/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "ストーリー",
       "カービィ系"
@@ -21747,10 +20627,6 @@
     },
     "webmaster": "box",
     "url": "http://www.geocities.jp/boxtownjp/meinpe-ji.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050328175244,
     "archive": 1
   },
@@ -21768,10 +20644,6 @@
       }
     },
     "url": "http://huxeruru.jog.buttobi.net/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "ストーリー",
       "カービィ系"
@@ -21815,17 +20687,13 @@
     },
     "webmaster": "紅蓮",
     "banner": {
-      "image": "honoonomiyako.gif",
+      "image": "honoonomiyako.bmp",
       "size": {
         "x": 200,
         "y": 40
       }
     },
     "url": "http://honoonohaguruma.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "archive": 0
   },
@@ -21859,7 +20727,7 @@
     },
     "webmaster": "ペプシ",
     "banner": {
-      "image": "bobokabi.gif",
+      "image": "bobokabi.png",
       "size": {
         "x": 150,
         "y": 80
@@ -21912,10 +20780,6 @@
       }
     },
     "url": "http://www005.upp.so-net.ne.jp/boyo/top.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20030805013135,
     "archive": 1
   },
@@ -21940,11 +20804,11 @@
       "yomi": "ほりたけのほおむへえし"
     },
     "webmaster": "ホリタケ",
-    "url": "http://www16.tok2.com/home/horitake/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#FF0000",
+      "background_color": "#FFFFFF"
     },
+    "url": "http://www16.tok2.com/home/horitake/",
     "kind_masao": "自動",
     "feature": "まさお3",
     "archive": 0
@@ -21965,10 +20829,6 @@
     },
     "url": "http://sound.jp/boru/",
     "suburl": "http://masaoclub.xxxxxxxx.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "一画面",
       "ストーリー"
@@ -21989,10 +20849,6 @@
       }
     },
     "url": "http://www.geocities.jp/takka212/masao.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "SASUKE系",
     "wayback_time": 20181111103359,
     "archive": 4
@@ -22004,10 +20860,6 @@
     },
     "webmaster": "ポン",
     "url": "http://www.cty-net.ne.jp/~minokato/pon/ponn.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050930200149,
     "archive": 1
@@ -22026,10 +20878,6 @@
       }
     },
     "url": "http://q2xgot.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050930200149,
     "archive": 1
   },
@@ -22040,7 +20888,7 @@
     },
     "webmaster": "マーク2",
     "banner": {
-      "image": "maku2.gif",
+      "image": "mark2.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -22071,10 +20919,6 @@
     },
     "url": "http://www.geocities.jp/marble7641hp/",
     "oldurl": "http://plaza.rakuten.co.jp/deark/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20190330031852,
     "archive": 1
   },
@@ -22092,6 +20936,24 @@
     "kind_masao": "ストーリー",
     "wayback_time": 20050405052026,
     "archive": 1
+  },
+  {
+    "site": {
+      "name": "My villa",
+      "yomi": "まいういら"
+    },
+    "webmaster": "tubuaroe",
+    "banner": {
+      "color": "#696967",
+      "background_color": "#FFFFFF"
+    },
+    "url": "http://tubuaroe.nomaki.jp/",
+    "oldurl": "http://www.geocities.jp/msnt_world/",
+    "kind_masao": [
+      "自動",
+      "一画面"
+    ],
+    "archive": 0
   },
   {
     "site": {
@@ -22125,24 +20987,6 @@
   },
   {
     "site": {
-      "name": "My villa",
-      "yomi": "まいういら"
-    },
-    "webmaster": "tubuaroe",
-    "url": "http://tubuaroe.nomaki.jp/",
-    "oldurl": "http://www.geocities.jp/msnt_world/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "kind_masao": [
-      "自動",
-      "一画面"
-    ],
-    "archive": 0
-  },
-  {
-    "site": {
       "name": "前の人のホームページ",
       "yomi": "まえのひとのほおむへえし"
     },
@@ -22159,10 +21003,6 @@
       "http://members2.tsukaeru.net/maenohito/",
       "http://page.freett.com/maenohito/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20040104101816,
     "archive": 1
@@ -22246,10 +21086,6 @@
       }
     },
     "url": "http://mizukiii.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20050123062502,
     "archive": 1
@@ -22268,10 +21104,6 @@
       }
     },
     "url": "http://masaor.web.fc2.com/masaor.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -22314,10 +21146,6 @@
     },
     "url": "http://w6.oroti.com/~maskab/",
     "oldurl": "http://www.geocities.jp/naoyuki_maeda_0728/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20100215013156,
     "archive": 1
@@ -22336,10 +21164,6 @@
       }
     },
     "url": "http://www.geocities.jp/huusinkazan/masaogassyu.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -22405,10 +21229,6 @@
       }
     },
     "url": "http://masapage.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "素材配布",
     "wayback_time": 20100317113502,
     "archive": 1
@@ -22447,10 +21267,6 @@
     },
     "webmaster": "バシリスク",
     "url": "http://www.ne.jp/asahi/szki/masao/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -22480,10 +21296,6 @@
       }
     },
     "url": "http://homepage3.nifty.com/ymmtym/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051027182913,
     "archive": 1
   },
@@ -22494,7 +21306,7 @@
     },
     "webmaster": "SASAMI",
     "banner": {
-      "image": "airline.jpg",
+      "image": "airline.bmp",
       "size": {
         "x": 200,
         "y": 40
@@ -22515,10 +21327,6 @@
       "yomi": "まさおえつくすえつくすのへえし"
     },
     "url": "http://www.geocities.jp/aammeejp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050125023253,
     "archive": 1
   },
@@ -22551,10 +21359,6 @@
     },
     "webmaster": "ピピピオ",
     "url": "http://arumasu.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060310233603,
     "archive": 1
   },
@@ -22565,7 +21369,7 @@
     },
     "webmaster": "ハトモドキ",
     "banner": {
-      "image": "area.jpg",
+      "image": "masaoarea.jpg",
       "size": {
         "x": 193,
         "y": 55
@@ -22601,10 +21405,6 @@
     "oldname": "Masao-Maximum",
     "webmaster": "cataphe",
     "url": "http://www4.ocn.ne.jp/~griffon/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -22614,7 +21414,7 @@
     },
     "webmaster": "はやま",
     "banner": {
-      "image": "masaozu.gif",
+      "image": "masao-zu.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -22662,17 +21462,13 @@
     },
     "webmaster": "すりり",
     "banner": {
-      "image": "ittyoume2.png",
+      "image": "masaogai.png",
       "size": {
         "x": 140,
         "y": 33
       }
     },
     "url": "http://www.geocities.jp/suriri28/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050907024247,
     "archive": 1
@@ -22710,10 +21506,6 @@
       }
     },
     "url": "http://karugamo.dip.jp/007/main/masao teku.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051217140645,
     "archive": 1
   },
@@ -22752,10 +21544,6 @@
       }
     },
     "url": "http://page.freett.com/supearmasao/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060308025831,
     "archive": 1
   },
@@ -22774,10 +21562,6 @@
       }
     },
     "url": "http://www.geocities.jp/masaokannrininn/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050306025246,
     "archive": 1
   },
@@ -22822,7 +21606,7 @@
     },
     "webmaster": "ルックメン",
     "banner": {
-      "image": "kyuujotai.gif",
+      "image": "kyujotai.gif",
       "size": {
         "x": 200,
         "y": 50
@@ -22866,10 +21650,6 @@
     },
     "url": "http://umecha_n.web.poporo.net/masaokyouhakoku/index.html",
     "oldurl": "http://web.poporo.net/home/umecha_n/masaokyouhakoku/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20040805044858,
     "archive": 1
@@ -22881,7 +21661,7 @@
     },
     "webmaster": "与死拳",
     "banner": {
-      "image": "masaokuukan.gif",
+      "image": "masaokukan.gif",
       "size": {
         "x": 199,
         "y": 40
@@ -22902,17 +21682,13 @@
     },
     "webmaster": "流星群",
     "banner": {
-      "image": "kuukou.gif",
+      "image": "masaoairport.gif",
       "size": {
         "x": 200,
         "y": 40
       }
     },
     "url": "http://battleflontia.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -22953,17 +21729,13 @@
     },
     "webmaster": "くるりん",
     "banner": {
-      "image": "masaoclubkururin.gif",
+      "image": "masaoclub_kururin.gif",
       "size": {
         "x": 96,
         "y": 48
       }
     },
     "url": "http://masao.dousetsu.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "JS拡張",
     "archive": 0
   },
@@ -22987,17 +21759,13 @@
     },
     "webmaster": "ミクロ",
     "banner": {
-      "image": "masaoclubmicro.gif",
+      "image": "masaoclub_micro.bmp",
       "size": {
         "x": 200,
         "y": 40
       }
     },
     "url": "http://micromasakura.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -23034,10 +21802,6 @@
       }
     },
     "url": "http://members.goo.ne.jp/home/onigiri_001/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -23137,11 +21901,11 @@
       "yomi": "まさおけえむしゆう"
     },
     "webmaster": "kei0007",
-    "url": "http://reon333777.mad.buttobi.net/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#C0C0C0"
     },
+    "url": "http://reon333777.mad.buttobi.net/",
     "archive": 0
   },
   {
@@ -23245,10 +22009,6 @@
     },
     "url": "http://www5.pf-x.net/~tamu/",
     "oldurl": "http://fossil.or.tp/~joker-sin/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -23288,10 +22048,6 @@
       }
     },
     "url": "http://isoroku.masao.info/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -23300,11 +22056,11 @@
       "yomi": "まさおこうしよう"
     },
     "webmaster": "徳川家光+α",
-    "url": "http://masaofactory.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#0000FF",
+      "background_color": "#FFEE66"
     },
+    "url": "http://masaofactory.web.fc2.com/",
     "kind_masao": "自動",
     "archive": 0
   },
@@ -23404,10 +22160,6 @@
     },
     "url": "http://f45.aaa.livedoor.jp/~mattsu/masao/navi/navi.cgi",
     "oldurl": "http://cgi.f45.aaacafe.ne.jp/~mattsu/masao/navi/navi.cgi",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20100717205240,
     "archive": 1
   },
@@ -23418,7 +22170,7 @@
     },
     "webmaster": "サイタマ",
     "banner": {
-      "image": "newshonbu.gif",
+      "image": "newshonbu.bmp",
       "size": {
         "x": 152,
         "y": 59
@@ -23439,10 +22191,6 @@
     },
     "url": "http://mei-kun.hp.infoseek.co.jp/",
     "webmaster": "めいくん",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -23459,10 +22207,6 @@
       }
     },
     "url": "http://masaosite.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -23478,10 +22222,6 @@
       }
     },
     "url": "http://www.geocities.jp/masaocity/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -23492,7 +22232,7 @@
     "oldname": "正男＠JAVA研究室",
     "webmaster": "虹色ヨッシー",
     "banner": {
-      "image": "nijiiro.gif",
+      "image": "masaojava.gif",
       "size": {
         "x": 299,
         "y": 55
@@ -23524,10 +22264,6 @@
       }
     },
     "url": "http://1st.geocities.jp/seikeifc_16/index.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20090308081540,
     "archive": 1
   },
@@ -23545,10 +22281,6 @@
       }
     },
     "url": "http://www.geocities.jp/wood_doors4/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050310013650,
     "archive": 1
   },
@@ -23597,10 +22329,6 @@
       "http://f37.aaa.livedoor.jp/~masaokk/",
       "http://f46.aaa.livedoor.jp/~gamepark/chui.html"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "一画面",
@@ -23645,10 +22373,6 @@
       }
     },
     "url": "http://www.k3.dion.ne.jp/~sugoi-dr/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20060518145855,
     "archive": 1
@@ -23700,6 +22424,10 @@
       "name": "正男ステーション",
       "yomi": "まさおすてえしよん"
     },
+    "banner": {
+      "color": "#00FFFF",
+      "background_color": "#052D48"
+    },
     "url": "http://ukkii.xxxxxxxx.jp/",
     "year": {
       "from": 2006,
@@ -23710,26 +22438,6 @@
       "ストーリー"
     ],
     "archive": 0
-  },
-  {
-    "site": {
-      "name": "正男スピリッツ",
-      "yomi": "まさおすひりつつ"
-    },
-    "webmaster": "Q-man",
-    "banner": {
-      "image": "sprits.gif",
-      "size": {
-        "x": 88,
-        "y": 31
-      }
-    },
-    "url": "http://www.rak3.jp/home/user/spirits/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "archive": 2
   },
   {
     "site": {
@@ -23745,10 +22453,22 @@
       }
     },
     "url": "http://sky.geocities.jp/kaz04241311/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "archive": 2
+  },
+  {
+    "site": {
+      "name": "正男スピリッツ",
+      "yomi": "まさおすひりつつ"
     },
+    "webmaster": "Q-man",
+    "banner": {
+      "image": "sprits.gif",
+      "size": {
+        "x": 88,
+        "y": 31
+      }
+    },
+    "url": "http://www.rak3.jp/home/user/spirits/",
     "archive": 2
   },
   {
@@ -23757,6 +22477,10 @@
       "yomi": "まさおすへえす"
     },
     "webmaster": "うひょ",
+    "banner": {
+      "color": "#444444",
+      "background_color": "#FDFDFD"
+    },
     "url": "https://masao.space/",
     "year": {
       "from": 2015,
@@ -23778,10 +22502,6 @@
       }
     },
     "url": "http://www008.upp.so-net.ne.jp/akito/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -23798,10 +22518,6 @@
       }
     },
     "url": "http://valkeeno.yh.land.to/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -23810,6 +22526,10 @@
       "yomi": "まさおすりい"
     },
     "webmaster": "管理者X",
+    "banner": {
+      "color": "#EEEEEE",
+      "background_color": "#990000"
+    },
     "url": "http://masao3.starfree.jp/",
     "year": {
       "from": 2018,
@@ -23832,10 +22552,6 @@
       }
     },
     "url": "http://masao3union.soragoto.net/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "まさお3",
     "archive": 0
   },
@@ -23915,10 +22631,6 @@
     },
     "webmaster": "スピーク",
     "url": "http://masaomomizi.web.fc2.com/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -23999,10 +22711,6 @@
       }
     },
     "url": "http://bankoku05.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -24055,10 +22763,6 @@
     },
     "webmaster": "ドラゴン",
     "url": "http://www.hamq.jp/i.cfm?i=masaotaun",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -24131,10 +22835,6 @@
       }
     },
     "url": "http://www17.plala.or.jp/dok_563/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20100213064019,
     "archive": 1
   },
@@ -24242,10 +22942,6 @@
       }
     },
     "url": "http://masaothemapark.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "feature": "素材配布",
     "archive": 0
@@ -24383,6 +23079,10 @@
       "yomi": "まさおてひととひとをつなく"
     },
     "webmaster": "urotaichi",
+    "banner": {
+      "color": "#5555EE",
+      "background_color": "#DDDDDD"
+    },
     "url": "https://masao.hits.jp/",
     "oldurl": [
       "https://mhito.web.fc2.com/",
@@ -24422,10 +23122,6 @@
     },
     "webmaster": "隠れ",
     "url": "http://www.geocities.jp/youkimisakijp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050210214805,
     "archive": 1
@@ -24450,10 +23146,6 @@
     },
     "webmaster": "シャドー",
     "url": "http://www.geocities.jp/syado0806/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040718044203,
     "archive": 1
   },
@@ -24490,10 +23182,6 @@
     },
     "webmaster": "yuk_m2",
     "url": "http://yukm2.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20050528113437,
     "archive": 1
@@ -24512,10 +23200,6 @@
       }
     },
     "url": "http://www.geocities.jp/ku_key24/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060507215228,
     "archive": 1
   },
@@ -24533,10 +23217,6 @@
       }
     },
     "url": "http://kikutako.run.buttobi.net/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -24602,10 +23282,6 @@
       }
     },
     "url": "http://kennto1z.hp.infoseek.co.jp/top.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051216032502,
     "archive": 1
   },
@@ -24706,7 +23382,7 @@
     "oldname": "ゲームのページ",
     "webmaster": "人間",
     "banner": {
-      "image": "masaonokuni.png",
+      "image": "masaonokuni.bmp",
       "size": {
         "x": 194,
         "y": 55
@@ -24730,10 +23406,6 @@
       "yomi": "まさおのけえむ"
     },
     "url": "http://c3plamo.slyip.com/~taka/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -24743,10 +23415,6 @@
     },
     "webmaster": "～P～",
     "url": "http://www.geocities.jp/saniigoo/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041019191757,
     "archive": 1
   },
@@ -24756,10 +23424,6 @@
       "yomi": "まさおのこや"
     },
     "url": "http://sawayaco.hp.infoseek.co.jp/index.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050308181316,
     "archive": 1
@@ -24770,11 +23434,11 @@
       "yomi": "まさおのさと"
     },
     "webmaster": "j",
-    "url": "http://www.masao.kakurezato.com/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#CCFFFF"
     },
+    "url": "http://www.masao.kakurezato.com/",
     "kind_masao": "SASUKE系",
     "archive": 0
   },
@@ -24891,10 +23555,6 @@
       }
     },
     "url": "http://f22.aaacafe.ne.jp/~awatyu/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040512231437,
     "archive": 1
   },
@@ -24969,10 +23629,6 @@
       }
     },
     "url": "http://www.geocities.jp/yuuta1ban/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041022132102,
     "archive": 1
   },
@@ -24989,10 +23645,6 @@
       }
     },
     "url": "http://www.picotcloth.com/masamasa/masamasa.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "正男100個以上",
     "wayback_time": 20080616110349,
     "archive": 1
@@ -25055,10 +23707,6 @@
       }
     },
     "url": "http://paradaise-photo.net/masao/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070818120648,
     "archive": 1
   },
@@ -25070,10 +23718,6 @@
     "webmaster": "龍",
     "url": "http://tatsu0412h06.hp.infoseek.co.jp/",
     "oldurl": "http://www.ma.ccnw.ne.jp/dolphins/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060221050728,
     "archive": 1
   },
@@ -25135,10 +23779,6 @@
     "webmaster": "常陸大宮市民",
     "url": "http://www.geocities.jp/uaieaaaa/",
     "oldurl": "http://atsushi.bufsiz.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050317081719,
     "archive": 1
   },
@@ -25149,10 +23789,6 @@
     },
     "webmaster": "シアン",
     "url": "http://masaonohoshi.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -25163,10 +23799,6 @@
     "oldname": "naoのホームページ",
     "webmaster": "nao",
     "url": "http://naonotoko.azarea.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20130221215406,
     "archive": 1
   },
@@ -25186,6 +23818,21 @@
   },
   {
     "site": {
+      "name": "正男の魔導書",
+      "yomi": "まさおのまとうしよ"
+    },
+    "webmaster": "ラグレルィオ",
+    "url": "https://masaonomadousho.web.fc2.com/",
+    "year": {
+      "from": 2019,
+      "to": 2020
+    },
+    "kind_masao": "ストーリー",
+    "wayback_time": 20191020161142,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "正男の森",
       "yomi": "まさおのもり"
     },
@@ -25199,10 +23846,6 @@
     },
     "url": "http://www.rak1.jp/one/user/masaonomori/",
     "oldurl": "http://www.hamq.jp/i.cfm?i=19900709",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20071215132028,
     "archive": 4
   },
@@ -25259,21 +23902,6 @@
   },
   {
     "site": {
-      "name": "正男の魔導書",
-      "yomi": "まさおのまとうしよ"
-    },
-    "webmaster": "ラグレルィオ",
-    "url": "https://masaonomadousho.web.fc2.com/",
-    "year": {
-      "from": 2019,
-      "to": 2020
-    },
-    "kind_masao": "ストーリー",
-    "wayback_time": 20191020161142,
-    "archive": 1
-  },
-  {
-    "site": {
       "name": "正男の楽園",
       "yomi": "まさおのらくえん"
     },
@@ -25287,10 +23915,6 @@
     },
     "url": "http://www.geocities.jp/morisinya/masao/gametop.html",
     "oldurl": "http://masaonorakuen.kuchinawa.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "一画面",
       "ストーリー"
@@ -25316,10 +23940,6 @@
       }
     },
     "url": "http://www.geocities.jp/ksmjm466/masao.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "feature": [
       "正男100個以上",
@@ -25393,10 +24013,6 @@
       }
     },
     "url": "http://anime.geocities.jp/tyjrw436/masaotanityannnoheya.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -25451,10 +24067,6 @@
       "http://choco2.jp/i.php?id=basyou",
       "http://www.geocities.jp/pnfyx020/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20050330070053,
     "archive": 4
@@ -25466,10 +24078,6 @@
     },
     "webmaster": "ファイヤ－ボ－ル",
     "url": "http://wing2.jp/~hatena/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20071025000526,
     "archive": 1
   },
@@ -25508,11 +24116,11 @@
       "yomi": "まさおひしゆつかん"
     },
     "webmaster": "徳川家光+α",
-    "url": "http://masaomuseum.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#0000FF",
+      "background_color": "#FFEE66"
     },
+    "url": "http://masaomuseum.web.fc2.com/",
     "feature": "素材配布",
     "archive": 0
   },
@@ -25522,10 +24130,6 @@
       "yomi": "まさおひみつきち"
     },
     "url": "http://sky.geocities.jp/narancha17/mjo.index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20081210054219,
     "archive": 1
   },
@@ -25584,10 +24188,6 @@
     },
     "oldname": "K&Nの館",
     "url": "http://www.geocities.jp/aswsd34/TOP.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050328051921,
     "archive": 1
   },
@@ -25647,21 +24247,6 @@
       "to": 2006
     },
     "wayback_time": 20051220083650,
-    "archive": 1
-  },
-  {
-    "site": {
-      "name": "正フラ広場",
-      "yomi": "まさふらひろは"
-    },
-    "oldname": "ケンのページ",
-    "webmaster": "ファン",
-    "url": "http://www.geocities.jp/tako1234sei/",
-    "year": {
-      "from": -1,
-      "to": 2006
-    },
-    "wayback_time": 20050524113828,
     "archive": 1
   },
   {
@@ -25730,11 +24315,11 @@
       "name": "正男部屋",
       "yomi": "まさおへや"
     },
-    "url": "http://masao.kitunebi.com/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#CCCC00",
+      "background_color": "#DAFFFF"
     },
+    "url": "http://masao.kitunebi.com/",
     "archive": 0
   },
   {
@@ -25743,10 +24328,6 @@
       "yomi": "まさおへや"
     },
     "url": "http://www.geocities.jp/mswr9348/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041122122622,
     "archive": 1
   },
@@ -25764,10 +24345,6 @@
       }
     },
     "url": "http://sky.geocities.jp/wakuwakusi/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -25777,10 +24354,6 @@
     },
     "webmaster": "正男マスター",
     "url": "http://www21.atpages.jp/masao50000/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "一画面",
     "wayback_time": 20180227000216,
     "archive": 4
@@ -25791,10 +24364,6 @@
       "yomi": "まさおほけもんのへえし"
     },
     "url": "http://www.geocities.jp/uihkhp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -25813,16 +24382,11 @@
     },
     "url": "http://1283455.web.fc2.com/top.html",
     "oldurl": "http://www.geocities.jp/aki1283455/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "一画面",
       "ストーリー",
       "カービィ系"
     ],
-    "wayback_time": 20081212220115,
     "archive": 0
   },
   {
@@ -25846,7 +24410,7 @@
     },
     "webmaster": "トマトマン",
     "banner": {
-      "image": "masaomania.jpg",
+      "image": "masaomania.bmp",
       "size": {
         "x": 88,
         "y": 31
@@ -25914,10 +24478,6 @@
       }
     },
     "url": "http://masaomakemaster.ifdef.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -25994,10 +24554,6 @@
     "webmaster": "たーぼ",
     "url": "http://www.ta-bo.net/",
     "oldurl": "http://w2.makko.biz/~uematsu/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060105093147,
     "archive": 1
   },
@@ -26028,7 +24584,7 @@
     },
     "webmaster": "MISA",
     "banner": {
-      "image": "masaoland.gif",
+      "image": "masaoland_misa.gif",
       "size": {
         "x": 193,
         "y": 66
@@ -26053,10 +24609,6 @@
     },
     "webmaster": "ミネルバビスチェ",
     "url": "http://mineru48.hp.infoseek.co.jp/masao/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041217145922,
     "archive": 1
   },
@@ -26068,10 +24620,6 @@
     "oldname": "ゲーム帝国",
     "webmaster": "ワシオ",
     "url": "http://2.csx.jp/~wasiyosi/inde.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050208073546,
     "archive": 1
   },
@@ -26132,10 +24680,6 @@
       }
     },
     "url": "http://www65.tok2.com/home2/dark/masaolink/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20041207203113,
     "archive": 1
   },
@@ -26146,7 +24690,7 @@
     },
     "webmaster": "ガイア",
     "banner": {
-      "image": "room.png",
+      "image": "masaoroom_gaia.png",
       "size": {
         "x": 163,
         "y": 83
@@ -26168,7 +24712,7 @@
     },
     "webmaster": "days",
     "banner": {
-      "image": "masaoroom2.gif",
+      "image": "masaoroom_days.gif",
       "size": {
         "x": 163,
         "y": 23
@@ -26253,10 +24797,6 @@
     },
     "webmaster": "モトリ",
     "url": "http://www.geocities.jp/express1990jp/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040904025436,
     "archive": 1
   },
@@ -26267,7 +24807,7 @@
     },
     "webmaster": "Massa",
     "banner": {
-      "image": "rettou.gif",
+      "image": "rettou.bmp",
       "size": {
         "x": 88,
         "y": 32
@@ -26321,11 +24861,11 @@
       "name": "正男連盟",
       "yomi": "まさおれんめい"
     },
-    "url": "http://masaorenmei.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#000000",
+      "background_color": "#00FFFF"
     },
+    "url": "http://masaorenmei.web.fc2.com/",
     "archive": 0
   },
   {
@@ -26342,10 +24882,6 @@
       }
     },
     "url": "http://www.geocities.jp/ganchan724/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "一画面",
       "ストーリー"
@@ -26379,7 +24915,7 @@
     },
     "webmaster": "バーム",
     "banner": {
-      "image": "barm.gif",
+      "image": "masaoworld_barm.bmp",
       "size": {
         "x": 200,
         "y": 50
@@ -26399,7 +24935,7 @@
       "yomi": "まさおわあると"
     },
     "banner": {
-      "image": "masaoworldwjp.gif",
+      "image": "masaoworld_wjp.gif",
       "size": {
         "x": 100,
         "y": 40
@@ -26421,17 +24957,13 @@
     },
     "webmaster": "キラー正男",
     "banner": {
-      "image": "masaoworldkiller.bmp",
+      "image": "masaoworld_killer.bmp",
       "size": {
         "x": 228,
         "y": 76
       }
     },
     "url": "http://anime.geocities.jp/tyjrw436/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -26442,7 +24974,7 @@
     "oldname": "マリオくんのページ",
     "webmaster": "マリオくん",
     "banner": {
-      "image": "masaoworld3.gif",
+      "image": "masaoworld_mariokun.gif",
       "size": {
         "x": 200,
         "y": 40
@@ -26464,7 +24996,7 @@
     },
     "webmaster": "メタル",
     "banner": {
-      "image": "masaoworld.jpg",
+      "image": "masaoworld_metal.bmp",
       "size": {
         "x": 150,
         "y": 40
@@ -26558,10 +25090,6 @@
       }
     },
     "url": "http://www.geocities.jp/akisute132435/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20190330224818,
     "archive": 4
@@ -26623,10 +25151,6 @@
       }
     },
     "url": "http://www.geocities.jp/masagame1993/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050829035232,
     "archive": 1
   },
@@ -26650,6 +25174,21 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20050212232721,
+    "archive": 1
+  },
+  {
+    "site": {
+      "name": "正フラ広場",
+      "yomi": "まさふらひろは"
+    },
+    "oldname": "ケンのページ",
+    "webmaster": "ファン",
+    "url": "http://www.geocities.jp/tako1234sei/",
+    "year": {
+      "from": -1,
+      "to": 2006
+    },
+    "wayback_time": 20050524113828,
     "archive": 1
   },
   {
@@ -26710,10 +25249,6 @@
       }
     },
     "url": "http://cider.jf.land.to/top.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -26731,10 +25266,6 @@
       }
     },
     "url": "http://mahounomori.masa-mune.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20100308052527,
     "archive": 1
   },
@@ -26822,10 +25353,6 @@
     "webmaster": "カレン×りゅう",
     "url": "http://meaningless001.blog76.fc2.com/",
     "oldurl": "http://www.geocities.jp/karen_jet/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20101231045639,
     "archive": 1
   },
@@ -26843,10 +25370,6 @@
       }
     },
     "url": "http://www.abcoroti.com:4800/~yuramurakadobito/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070526010333,
     "archive": 1
   },
@@ -26857,17 +25380,13 @@
     },
     "webmaster": "マッシー",
     "banner": {
-      "image": "massi.gif",
+      "image": "masshi.png",
       "size": {
         "x": 200,
         "y": 40
       }
     },
     "url": "http://www.geocities.jp/kodebiba/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -26886,10 +25405,6 @@
     },
     "url": "http://bomuoman.hp.infoseek.co.jp/",
     "oldurl": "http://www17.tok2.com/home2/bomuoman/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "ストーリー"
@@ -26909,10 +25424,6 @@
     ],
     "webmaster": "サンダーブロスVI世",
     "url": "http://www2.cyberworld.ne.jp/jyunsei/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040205091244,
     "archive": 1
   },
@@ -27054,10 +25565,6 @@
     },
     "webmaster": "オメガ",
     "url": "http://www.geocities.jp/battlegauntlet/marioka-to.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20190329151311,
     "archive": 4
@@ -27069,10 +25576,6 @@
     },
     "oldname": "スーパーマリオ!?のページ",
     "url": "http://mario-c.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070823062844,
     "archive": 1
   },
@@ -27087,10 +25590,6 @@
     ],
     "url": "http://www2.nns.ne.jp/pri/s-shun/masao/index",
     "oldurl": "http://www2.nns.ne.jp/pri/s-shun/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20050405034544,
     "archive": 1
@@ -27102,10 +25601,6 @@
     },
     "webmaster": "銀河のカービィ",
     "url": "http://www.geocities.jp/yuu151sp/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040807010941,
     "archive": 1
   },
@@ -27286,10 +25781,6 @@
       }
     },
     "url": "http://undefinedcreate.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -27299,10 +25790,6 @@
     },
     "webmaster": "みさ",
     "url": "http://user.kkm.ne.jp/haduki-n/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040723024042,
     "archive": 1
   },
@@ -27320,10 +25807,6 @@
       }
     },
     "url": "http://www.kembo.org/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "自動",
     "wayback_time": 20080521003528,
     "archive": 1
@@ -27336,10 +25819,6 @@
     "oldname": "K-TWOのページ",
     "webmaster": "K-TWO",
     "url": "http://k-twos.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050201131221,
     "archive": 1
   },
@@ -27350,10 +25829,6 @@
     },
     "webmaster": "田電",
     "url": "http://www.ogaki-tv.ne.jp/~xingzi/index.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -27408,6 +25883,28 @@
   },
   {
     "site": {
+      "name": "緑色の空間",
+      "yomi": "みとりいろのくうかん"
+    },
+    "oldname": "緑のHIGEのHOMEPAGE",
+    "webmaster": "エラーコード∞",
+    "banner": {
+      "image": "midoriirono.gif",
+      "size": {
+        "x": 112,
+        "y": 76
+      }
+    },
+    "url": "http://www.geocities.jp/luigiesandredyoshies/",
+    "year": {
+      "from": 2007,
+      "to": 2008
+    },
+    "wayback_time": 20190329143614,
+    "archive": 4
+  },
+  {
+    "site": {
       "name": "ミドリのくさはら",
       "yomi": "みとりのくさはら"
     },
@@ -27435,28 +25932,6 @@
   },
   {
     "site": {
-      "name": "緑色の空間",
-      "yomi": "みとりいろのくうかん"
-    },
-    "oldname": "緑のHIGEのHOMEPAGE",
-    "webmaster": "エラーコード∞",
-    "banner": {
-      "image": "midoriirono.gif",
-      "size": {
-        "x": 112,
-        "y": 76
-      }
-    },
-    "url": "http://www.geocities.jp/luigiesandredyoshies/",
-    "year": {
-      "from": 2007,
-      "to": 2008
-    },
-    "wayback_time": 20190329143614,
-    "archive": 4
-  },
-  {
-    "site": {
       "name": "緑の閃光",
       "yomi": "みとりのせんこう"
     },
@@ -27469,10 +25944,6 @@
       }
     },
     "url": "http://j-ynv.net/~uhc2/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "一画面",
@@ -27511,10 +25982,6 @@
       }
     },
     "url": "http://www15.ocn.ne.jp/~monziro/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050318184511,
     "archive": 1
   },
@@ -27532,10 +25999,6 @@
       }
     },
     "url": "http://gakuseisikisha.ninja-mania.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -27700,10 +26163,6 @@
     },
     "webmaster": "梅干",
     "url": "http://umebox.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050926014731,
     "archive": 1
   },
@@ -27714,10 +26173,6 @@
     },
     "webmaster": "十木",
     "url": "http://www.geocities.jp/bessou_bird/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050411000426,
     "archive": 1
   },
@@ -27737,10 +26192,6 @@
     },
     "url": "http://muimui-a.hp.infoseek.co.jp/",
     "oldurl": "http://muimui-338.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050206123915,
     "archive": 1
@@ -27772,6 +26223,10 @@
       "yomi": "むかしのうらにわ"
     },
     "webmaster": "れ。",
+    "banner": {
+      "color": "#0089A1",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://retrogarden.konjiki.jp/",
     "year": {
       "from": 2018,
@@ -27859,10 +26314,6 @@
       }
     },
     "url": "http://www.geocities.jp/hokotatejp/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20090301160042,
     "archive": 1
   },
@@ -27888,10 +26339,6 @@
     "oldname": "縦横無尽なHP",
     "webmaster": "けー寿",
     "url": "http://pokekoro.hp.infoseek.co.jp/inrin.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050529102434,
     "archive": 1
   },
@@ -27901,10 +26348,6 @@
       "yomi": "むたなところはつきりいつてああむた"
     },
     "url": "http://homupi.jp/hutatuna/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20060509074401,
     "archive": 1
   },
@@ -27936,10 +26379,6 @@
       "yomi": "むのくうかん"
     },
     "url": "http://potton1exdeath.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -27957,10 +26396,6 @@
     },
     "url": "http://newmuhoutitai.web.fc2.com/",
     "oldurl": "http://ganmanandaa.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "ストーリー",
@@ -28006,10 +26441,6 @@
       }
     },
     "url": "http://0games.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "一画面",
     "feature": "WWA",
     "archive": 0
@@ -28063,10 +26494,6 @@
       }
     },
     "url": "http://watarunoheya.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050514122207,
     "archive": 1
   },
@@ -28099,6 +26526,10 @@
       "yomi": "めかねのれいしよう"
     },
     "webmaster": "メガネ之霊",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://meganenorei.web.fc2.com/",
     "year": {
       "from": -1,
@@ -28155,10 +26586,6 @@
     },
     "webmaster": "フォルテGS",
     "url": "http://www.geocities.jp/gsxxmt/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050422133423,
     "archive": 1
   },
@@ -28304,28 +26731,6 @@
   },
   {
     "site": {
-      "name": "森の中の喫茶店",
-      "yomi": "もりのなかのきつさてん"
-    },
-    "webmaster": "真鈴",
-    "banner": {
-      "image": "morinonakano.png",
-      "size": {
-        "x": 200,
-        "y": 40
-      }
-    },
-    "url": "http://www.geocities.co.jp/AnimeComic-Cell/3437/ent.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "feature": "WWA",
-    "wayback_time": 20071119101726,
-    "archive": 1
-  },
-  {
-    "site": {
       "name": "森のくまさんホームページ VER.2018",
       "yomi": "もりのくまさんほおむへえし"
     },
@@ -28349,6 +26754,24 @@
   },
   {
     "site": {
+      "name": "森の中の喫茶店",
+      "yomi": "もりのなかのきつさてん"
+    },
+    "webmaster": "真鈴",
+    "banner": {
+      "image": "morinonakano.png",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://www.geocities.co.jp/AnimeComic-Cell/3437/ent.html",
+    "feature": "WWA",
+    "wayback_time": 20071119101726,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "もんぶらんの部屋",
       "yomi": "もんふらんのへや"
     },
@@ -28360,10 +26783,6 @@
       }
     },
     "url": "http://maroonblanc.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051216160819,
     "archive": 1
   },
@@ -28374,7 +26793,7 @@
     },
     "webmaster": "野獣",
     "banner": {
-      "image": "yajuu.gif",
+      "image": "yaju.gif",
       "size": {
         "x": 200,
         "y": 50
@@ -28418,10 +26837,6 @@
     },
     "webmaster": "山777",
     "url": "http://rakki-yama-id.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20050211182621,
     "archive": 1
@@ -28517,7 +26932,7 @@
     },
     "webmaster": "影人",
     "banner": {
-      "image": "yugiohdeck.gif",
+      "image": "yugiohdeck.png",
       "size": {
         "x": 88,
         "y": 31
@@ -28537,10 +26952,6 @@
     },
     "webmaster": "ゆうき",
     "url": "http://f10.aaacafe.ne.jp/~yuukinn/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040126130547,
     "archive": 1
   },
@@ -28558,10 +26969,6 @@
       }
     },
     "url": "http://www.geocities.jp/gonohe75225511/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040905014043,
     "archive": 4
   },
@@ -28571,11 +26978,11 @@
       "yomi": "ゆうくんのへや"
     },
     "webmaster": "Uくん",
-    "url": "http://www7.plala.or.jp/WAKU/uhp/uheya1.htm",
-    "year": {
-      "from": -1,
-      "to": -1
+    "banner": {
+      "color": "#FF8000",
+      "background_color": "#FFFFDD"
     },
+    "url": "http://www7.plala.or.jp/WAKU/uhp/uheya1.htm",
     "kind_masao": [
       "自動",
       "ストーリー"
@@ -28596,10 +27003,6 @@
       }
     },
     "url": "http://www.geocities.jp/syuhei3185/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -28694,7 +27097,7 @@
     },
     "webmaster": "勇帆",
     "banner": {
-      "image": "yuuho.bmp",
+      "image": "yuho.bmp",
       "size": {
         "x": 160,
         "y": 40
@@ -28715,10 +27118,6 @@
     },
     "webmaster": "サツ's",
     "url": "http://www.geocities.jp/tsatsukawa/index2.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "ストーリー"
@@ -28792,10 +27191,6 @@
       }
     },
     "url": "http://kairby.hp.infoseek.co.jp/top.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "wayback_time": 20080131142129,
     "archive": 1
@@ -28807,10 +27202,6 @@
     },
     "webmaster": "えりぃ",
     "url": "http://piroko12.hp.infoseek.co.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20050126031652,
     "archive": 1
   },
@@ -28892,10 +27283,6 @@
     },
     "webmaster": "佳明",
     "url": "http://www37.tok2.com/home/beat/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070830065303,
     "archive": 1
   },
@@ -29076,10 +27463,6 @@
     },
     "webmaster": "よっちゃん",
     "url": "http://www.geocities.jp/yukikent913721/yuki/su-pa-masao.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20040720024505,
     "archive": 1
@@ -29112,10 +27495,6 @@
       }
     },
     "url": "http://ogi.nm.land.to/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051212031952,
     "archive": 1
   },
@@ -29127,10 +27506,6 @@
     "webmaster": "amino",
     "url": "http://yasuto.ddo.jp/~aminox/",
     "oldurl": "http://www.geocities.jp/aminoexe2004/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040930220249,
     "archive": 1
   },
@@ -29181,6 +27556,10 @@
       "yomi": "らいくりいあくとおふいしやるさいとみちくさ"
     },
     "webmaster": "らいくりぃ",
+    "banner": {
+      "color": "#ADD8E6",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://likely.michikusa.jp/",
     "year": {
       "from": 2007,
@@ -29194,10 +27573,6 @@
       "yomi": "らいしんくほおむへえし"
     },
     "url": "http://homepage2.nifty.com/sinfonia/werukamu.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -29274,10 +27649,6 @@
       }
     },
     "url": "http://www.geocities.jp/rkjkt578/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051220085040,
     "archive": 1
   },
@@ -29292,7 +27663,7 @@
     ],
     "webmaster": "Rhines",
     "banner": {
-      "image": "rhines.gif",
+      "image": "rhines.bmp",
       "size": {
         "x": 215,
         "y": 47
@@ -29312,6 +27683,10 @@
       "yomi": "らくせいちゆうかくまいこんとうこうかい"
     },
     "webmaster": "kanakana",
+    "banner": {
+      "color": "#3147C8",
+      "background_color": "#66FF66"
+    },
     "url": "http://maikon.the-ninja.jp/",
     "year": {
       "from": 2007,
@@ -29333,10 +27708,6 @@
       }
     },
     "url": "http://rakuraku.nobody.jp/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "archive": 0
@@ -29524,32 +27895,7 @@
       }
     },
     "url": "http://www.geocities.jp/taka13241324/rikuindex.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
-  },
-  {
-    "site": {
-      "name": "Recreation'S",
-      "yomi": "れくりええしよんす"
-    },
-    "webmaster": "Wrmhcm",
-    "banner": {
-      "image": "recreation.gif",
-      "size": {
-        "x": 198,
-        "y": 56
-      }
-    },
-    "url": "http://hima.mydns.to/Wrmhcm/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
-    "wayback_time": 20050906225555,
-    "archive": 1
   },
   {
     "site": {
@@ -29557,10 +27903,6 @@
       "yomi": "りそうひろは"
     },
     "url": "http://www.dan-d.jp/home/ku024/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20070226062758,
     "archive": 1
@@ -29652,7 +27994,7 @@
     "oldname": "りゅーせいぐん",
     "webmaster": "バムバム",
     "banner": {
-      "image": "ryusei.gif",
+      "image": "ryuseigun.gif",
       "size": {
         "x": 200,
         "y": 100
@@ -29683,7 +28025,7 @@
     },
     "webmaster": "星ゾラ",
     "banner": {
-      "image": "ryuusei.gif",
+      "image": "ryuseinogamebeya.gif",
       "size": {
         "x": 200,
         "y": 50
@@ -29721,10 +28063,6 @@
       }
     },
     "url": "http://iwakoro.hp.infoseek.co.jp/index/index.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20051014214948,
     "archive": 1
   },
@@ -29874,10 +28212,6 @@
       }
     },
     "url": "http://www.geocities.jp/lotte1995248/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20090403210021,
     "archive": 1
   },
@@ -29986,7 +28320,7 @@
     ],
     "webmaster": "Skies",
     "banner": {
-      "image": "nijiiro2.gif",
+      "image": "nijiironokaze.gif",
       "size": {
         "x": 160,
         "y": 50
@@ -30033,10 +28367,6 @@
     },
     "url": "http://ki-apple.hp.infoseek.co.jp/index.htm",
     "oldurl": "http://2nd.geocities.jp/appleki0/index.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "ストーリー"
@@ -30058,12 +28388,25 @@
       }
     },
     "url": "http://zeroworld.dip.jp/~hosiyume/kirby2.htm",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "カービィ系",
     "wayback_time": 20070922235825,
+    "archive": 1
+  },
+  {
+    "site": {
+      "name": "Recreation'S",
+      "yomi": "れくりええしよんす"
+    },
+    "webmaster": "Wrmhcm",
+    "banner": {
+      "image": "recreation.gif",
+      "size": {
+        "x": 198,
+        "y": 56
+      }
+    },
+    "url": "http://hima.mydns.to/Wrmhcm/",
+    "wayback_time": 20050906225555,
     "archive": 1
   },
   {
@@ -30072,6 +28415,10 @@
       "yomi": "れこおうこく"
     },
     "webmaster": "NAMAE Z",
+    "banner": {
+      "color": "#CC00CC",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://www.welsys.com/yosuke/index.bak",
     "year": {
       "from": 2003,
@@ -30153,10 +28500,6 @@
     },
     "webmaster": "暁1世",
     "url": "http://www.geocities.jp/hanngurinngu/RDMN.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 2
   },
   {
@@ -30330,10 +28673,6 @@
     },
     "url": "http://www.geocities.jp/ryousuke_horisawa/",
     "oldurl": "http://www.geocities.co.jp/AnimeComic/5426/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20190330232015,
     "archive": 4
   },
@@ -30351,10 +28690,6 @@
       }
     },
     "url": "http://sky.geocities.jp/teiruzuobu_youth/aozora.html",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "feature": "WWA",
     "wayback_time": 20130420155151,
     "archive": 4
@@ -30416,10 +28751,6 @@
     "webmaster": "ロマサイ",
     "url": "http://m-pe.tv/u/page.php?uid=romasai&id=1",
     "orlurl": "http://romatama.web.fc2.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": [
       "自動",
       "一画面",
@@ -30488,10 +28819,6 @@
       "http://psyco.jp/ytmkai/",
       "http://ytmkais.hp.infoseek.co.jp/"
     ],
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "kind_masao": "ストーリー",
     "wayback_time": 20181023150519,
     "archive": 4
@@ -30564,10 +28891,6 @@
     },
     "webmaster": "わた弟",
     "url": "http://www.geocities.jp/watanabetatu8/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20040615010012,
     "archive": 1
   },
@@ -30606,10 +28929,6 @@
       }
     },
     "url": "http://zyaakuma.ohuda.com/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "archive": 0
   },
   {
@@ -30618,6 +28937,10 @@
       "yomi": "わたるのほおむへえし"
     },
     "webmaster": "wf",
+    "banner": {
+      "color": "#008000",
+      "background_color": "#000000"
+    },
     "url": "http://wfhp.my.coocan.jp/",
     "oldurl": "http://homepage3.nifty.com/WFHP/",
     "year": {
@@ -30662,10 +28985,6 @@
       }
     },
     "url": "http://www.geocities.jp/imorizu0717/",
-    "year": {
-      "from": -1,
-      "to": -1
-    },
     "wayback_time": 20070916010214,
     "archive": 1
   },
