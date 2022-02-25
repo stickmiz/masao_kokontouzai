@@ -48,7 +48,7 @@
     "url": "http://rflabo.web.fc2.com/",
     "year": {
       "from": 2015,
-      "to": 0
+      "to": -1
     },
     "kind_masao": "JS拡張",
     "archive": 3
@@ -270,10 +270,11 @@
     ],
     "year": {
       "from": -1,
-      "to": 0
+      "to": 2020
     },
     "kind_masao": "JS拡張",
-    "archive": 3
+    "wayback_time": 20190407044534,
+    "archive": 4
   },
   {
     "site": {
@@ -614,6 +615,10 @@
       "yomi": "あしやつくまんのめいんへえし"
     },
     "webmaster": "アジャックマン",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#87CEEB"
+    },
     "url": "http://2nd.geocities.jp/ajackman7000/gamecorner.htm",
     "oldurl": "http://www.geocities.jp/g_ajack/",
     "year": {
@@ -1038,6 +1043,10 @@
       "yomi": "あむとらいはあいんありふえふりあ"
     },
     "webmaster": "アリフェフリア",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#EAF4FF"
+    },
     "url": "http://www.geocities.jp/ryo1135jp/",
     "year": {
       "from": 2004,
@@ -1349,6 +1358,10 @@
     },
     "oldname": "何処かの何か",
     "webmaster": "ILLU",
+    "banner": {
+      "color": "#009999",
+      "background_color": "#FFCC88"
+    },
     "url": "http://gensoukikisi.fc2web.com/",
     "wayback_time": 20190222032515,
     "archive": 4
@@ -1969,6 +1982,10 @@
       "yomi": "ういよす"
     },
     "webmaster": "藍夢想",
+    "banner": {
+      "color": "#00FF00",
+      "background_color": "#FF0000"
+    },
     "url": "http://www.geocities.jp/buwsuter/masao/top.htm",
     "year": {
       "from": -2007,
@@ -2151,8 +2168,15 @@
       "yomi": "うおおりあ"
     },
     "webmaster": "Strawberry Fields",
+    "banner": {
+      "color": "#80BFFF",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://aug.usj.to/warrior/",
-    "oldurl": "http://www.geocities.jp/takuro_minamoto/",
+    "oldurl": [
+      "http://warrior.sakura.ne.jp/",
+      "http://www.geocities.jp/takuro_minamoto/"
+     ],
     "wayback_time": 20060711194230,
     "archive": 4
   },
@@ -2172,10 +2196,11 @@
     "url": "http://vosupa.web.fc2.com/",
     "year": {
       "from": 2008,
-      "to": 2017
+      "to": 2021
     },
     "kind_masao": "一画面",
-    "archive": 0
+    "wayback_time": 20191008153917,
+    "archive": 4
   },
   {
     "site": {
@@ -2321,7 +2346,7 @@
     "suburl": "http://ultramedarot.nce.buttobi.net/",
     "year": {
       "from": 2003,
-      "to": 0
+      "to": 2020
     },
     "kind_masao": "ストーリー",
     "feature": [
@@ -2747,7 +2772,7 @@
     "url": "http://masao775.web.fc2.com/",
     "year": {
       "from": 2009,
-      "to": 0
+      "to": 2020
     },
     "kind_masao": [
       "一画面",
@@ -3574,6 +3599,27 @@
   },
   {
     "site": {
+      "name": "オーロラ諸島",
+      "yomi": "おおろらしよとう"
+    },
+    "webmaster": "銀",
+    "banner": {
+      "image": "aurora.gif",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://aurorarchipelago.s223.xrea.com/",
+    "year": {
+      "from": 2021,
+      "to": 0
+    },
+    "kind_masao": "一画面",
+    "archive": 4
+  },
+  {
+    "site": {
       "name": "おぎの部屋",
       "yomi": "おきのへや"
     },
@@ -3740,7 +3786,7 @@
     "url": "http://2ndomotyoboko.konjiki.jp/enter.html",
     "year": {
       "from": 2008,
-      "to": 0
+      "to": 2019
     },
     "feature": "WWA",
     "archive": 0
@@ -3969,6 +4015,21 @@
   },
   {
     "site": {
+      "name": "カービィ戦艦",
+      "yomi": "かあひいせんかん"
+    },
+    "webmaster": "グービィ",
+    "url": "http://gubyi.hp.infoseek.co.jp/top2.html",
+    "year": {
+      "from": -1,
+      "to": -2004
+    },
+    "kind_masao": "カービィ系",
+    "wayback_time": 20040419081126,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "カービィドラマへの入り口",
       "yomi": "かあひいとらまへのいりくち"
     },
@@ -4001,6 +4062,13 @@
       "yomi": "かあひいふろくらむ"
     },
     "webmaster": "カビプロ",
+    "banner": {
+      "image": "kirbyprogram.gif",
+      "size": {
+        "x": 190,
+        "y": 75
+      }
+    },
     "url": "http://d4l8jp.hp.infoseek.co.jp/",
     "oldurl": "http://d418jp.hp.infoseek.co.jp/",
     "year": {
@@ -4497,6 +4565,20 @@
   },
   {
     "site": {
+      "name": "かびかびねっと",
+      "yomi": "かひかひねつと"
+    },
+    "webmaster": "メタ",
+    "url": "http://seiryutei.hp.infoseek.co.jp/",
+    "year": {
+      "from": -1,
+      "to": -2004
+    },
+    "wayback_time": 20040727181723,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "カビの遊び場",
       "yomi": "かひのあそひは"
     },
@@ -4908,7 +4990,6 @@
     },
     "webmaster": "カンチェマン",
     "url": "http://cancheman.web.fc2.com/",
-    "suburl": "http://cancheman.web.fc2.com/",
     "year": {
       "from": 2007,
       "to": -1
@@ -5483,7 +5564,7 @@
     "oldurl": "http://www.geocities.jp/arudoax/",
     "year": {
       "from": 2011,
-      "to": 0
+      "to": 2021
     },
     "kind_masao": "ストーリー",
     "archive": 3
@@ -6079,12 +6160,11 @@
     "oldurl": "http://www.sora-blue.net/~kururin/",
     "year": {
       "from": -1,
-      "to": 2019
+      "to": 0
     },
     "kind_masao": "一画面",
     "work": "うずまきでGO",
-    "wayback_time": 20190817000253,
-    "archive": 4
+    "archive": 3
   },
   {
     "site": {
@@ -6334,6 +6414,10 @@
       "yomi": "けいたのいえ"
     },
     "webmaster": "佳太",
+    "banner": {
+      "color": "#00FFFF",
+      "background_color": "#FFFF00"
+    },
     "url": "http://www.geocities.jp/yosizawa6470/",
     "year": {
       "from": 2004,
@@ -6834,6 +6918,10 @@
     "site": {
       "name": "GAMEステーション",
       "yomi": "けえむすてえしよん"
+    },
+    "banner": {
+      "color": "#FFFF99",
+      "background_color": "#0033FF"
     },
     "url": "http://www.geocities.jp/huronkai/",
     "year": {
@@ -7529,7 +7617,8 @@
       "Kouji and Turtle",
       "Searching Light Fragment"
     ],
-    "archive": 0
+    "wayback_time": 20210509065526,
+    "archive": 1
   },
   {
     "site": {
@@ -7821,6 +7910,10 @@
       "name": "GOGO！！正男",
       "yomi": "こおこおまさお"
     },
+    "banner": {
+      "color": "#FFA500",
+      "background_color": "#F0F8FF"
+    },
     "url": "http://www.geocities.jp/no_moss2000/masao/",
     "year": {
       "from": -2005,
@@ -8074,6 +8167,10 @@
       "yomi": "こつちやなさいと"
     },
     "webmaster": "へぇあ",
+    "banner": {
+      "color": "#000000",
+      "background_color": "#FFFFFF"
+    },
     "url": "http://www.geocities.co.jp/Playtown-Yoyo/9198/",
     "oldurl": "http://members.at.infoseek.co.jp/sakuki_a/top.html",
     "year": {
@@ -9065,6 +9162,10 @@
       "yomi": "さはうさきのへや"
     },
     "webmaster": "鯖ウサギ",
+    "banner": {
+      "color": "#FFFF00",
+      "background_color": "#00FF00"
+    },
     "url": "http://www.geocities.jp/end12341/index2.html",
     "kind_masao": "カービィ系",
     "feature": "WWA",
@@ -10827,7 +10928,7 @@
     "suburl": "http://mikamonux.web.fc2.com/",
     "year": {
       "from": 2009,
-      "to": 0
+      "to": 2020
     },
     "kind_masao": [
       "自動",
@@ -12453,6 +12554,27 @@
   },
   {
     "site": {
+      "name": "すまいるるうむ",
+      "yomi": "すまいるるうむ"
+    },
+    "oldname": "Smile room",
+    "webmaster": "カガク",
+    "banner": {
+      "image": "smileroom.png",
+      "size": {
+        "x": 88,
+        "y": 31
+      }
+    },
+    "url": "http://smileroom.s101.xrea.com/",
+    "year": {
+      "from": 2003,
+      "to": -1
+    },
+    "archive":  0
+  },
+  {
+    "site": {
       "name": "SMASH CABLE",
       "yomi": "すまつしゆけえふる"
     },
@@ -12850,7 +12972,7 @@
     "oldurl": "http://litter.symphonic-net.com/",
     "year": {
       "from": 2010,
-      "to": 0
+      "to": 2019
     },
     "feature": "エディタ",
     "archive": 3
@@ -13633,13 +13755,17 @@
       }
     },
     "url": "https://aoba1192.stars.ne.jp/",
-    "suburl": "http://aoba1192.michikusa.jp/",
+    "suburl": [
+      "https://aoba1192.stars.ne.jp/",
+      "http://aoba1192.michikusa.jp/"
+    ],
     "oldurl": "http://aoba1192.hp.infoseek.co.jp/",
     "year": {
       "from": 2004,
-      "to": 0
+      "to": 2021
     },
-    "archive": 0
+    "wayback_time": 20210130071720,
+    "archive": 4
   },
   {
     "site": {
@@ -13731,7 +13857,7 @@
     "url": "https://dust-storm.net/",
     "year": {
       "from": 2020,
-      "to": 0
+      "to": 2020
     },
     "archive": 3
   },
@@ -14720,7 +14846,7 @@
     "oldurl": "http://www.geocities.jp/dai_hamuko/",
     "year": {
       "from": 2006,
-      "to": 0
+      "to": 2021
     },
     "kind_masao": [
       "自動",
@@ -16067,7 +16193,7 @@
     "oldurl": "http://vicuna.6.ql.bz/",
     "year": {
       "from": 2005,
-      "to": 0
+      "to": -1
     },
     "kind_masao": "ストーリー",
     "feature": "WWA",
@@ -16630,7 +16756,7 @@
     "oldurl": "http://m06t625.kagebo-shi.com/",
     "year": {
       "from": 2007,
-      "to": 0
+      "to": 2018
     },
     "kind_masao": "JS拡張",
     "archive": 3
@@ -17097,7 +17223,7 @@
     ],
     "year": {
       "from": 2002,
-      "to": 2019
+      "to": 0
     },
     "kind_masao": "自動",
     "feature": "WWA",
@@ -18129,7 +18255,7 @@
     ],
     "year": {
       "from": 2004,
-      "to": 0
+      "to": 2020
     },
     "kind_masao": "ストーリー",
     "feature": "WWA",
@@ -19974,7 +20100,7 @@
     "oldurl": "http://www.alpheratz.sakura.ne.jp/boshi/",
     "year": {
       "from": 2019,
-      "to": 0
+      "to": 2021
     },
     "kind_masao": [
       "自動",
@@ -20268,7 +20394,7 @@
     "oldurl": "http://mizu3581.hp.infoseek.co.jp/",
     "year": {
       "from": 2005,
-      "to": 0
+      "to": 2020
     },
     "kind_masao": [
       "自動",
@@ -20558,6 +20684,8 @@
       "name": "星のらせん",
       "yomi": "ほしのらせん"
     },
+    "oldname": "星のカービィBOX",
+    "webmaster": "西風",
     "banner": {
       "image": "hoshinorasen.gif",
       "size": {
@@ -20566,6 +20694,7 @@
       }
     },
     "url": "http://hakkaku.s3p.net/",
+    "oldurl": "http://page.freett.com/syu812/index.html",
     "year": {
       "from": -1,
       "to": 2004
@@ -21058,7 +21187,7 @@
     ],
     "year": {
       "from": 2015,
-      "to": 0
+      "to": 2021
     },
     "kind_masao": [
       "自動",
@@ -22335,7 +22464,8 @@
       "ストーリー"
     ],
     "feature": "正男100個以上",
-    "archive": 0
+    "wayback_time": 20190130143721,
+    "archive": 4
   },
   {
     "site": {
@@ -24029,10 +24159,8 @@
       }
     },
     "url": "http://masaobako.bufsiz.jp/",
-    "suburl": [
-      "http://gokko.no.land.to/",
-      "http://gokko.nobody.jp/"
-    ],
+    "suburl": "http://gokko.no.land.to/",
+    "oldurl": "http://gokko.nobody.jp/",
     "year": {
       "from": 2006,
       "to": 2015
@@ -25030,7 +25158,7 @@
     "url": "http://masaoworldadventure.web.fc2.com/",
     "year": {
       "from": 2009,
-      "to": 0
+      "to": 2020
     },
     "kind_masao": [
       "ストーリー",
