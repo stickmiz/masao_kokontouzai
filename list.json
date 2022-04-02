@@ -2855,6 +2855,20 @@
   },
   {
     "site": {
+      "name": "FFの社",
+      "yomi": "えふえふのやしろ"
+    },
+    "webmaster": "しょうた",
+    "url": "http://members30.cool.ne.jp/~f8/",
+    "year": {
+      "from": -1,
+      "to": -2003
+    },
+    "wayback_time": 20030803194022,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "FD_SOFTware.",
       "yomi": "えふていいそふとうえあ"
     },
@@ -3572,7 +3586,7 @@
     "url": "http://sakata.nobody.jp/",
     "year": {
       "from": -1,
-      "to": 0
+      "to": 2019
     },
     "archive": 0
   },
@@ -3635,6 +3649,21 @@
     "oldurl": "http://www.geocities.jp/frxky171/",
     "wayback_time": 20041128112906,
     "archive": 1
+  },
+  {
+    "site": {
+      "name": "おざぞぉ〜のページ",
+      "yomi": "おさそおのへえし"
+    },
+    "banner": {
+      "image": "ozazo.jpg",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://www.justmystage.com/home/ozazou/",
+    "archive": 2
   },
   {
     "site": {
@@ -6336,6 +6365,15 @@
   },
   {
     "site": {
+      "name": "黒猫達の会議場所",
+      "yomi": "くろねこたちのかいきはしよ"
+    },
+    "webmaster": "黒猫",
+    "url": "http://blackcatandkuroneko.hp.infoseek.co.jp/",
+    "archive": 2
+  },
+  {
+    "site": {
       "name": "Chrono's log",
       "yomi": "くろのすろく"
     },
@@ -7390,6 +7428,7 @@
       "name": "Game Village",
       "yomi": "けえむひれつし"
     },
+    "oldname": "Masao Page DX",
     "webmaster": "masaDX",
     "banner": {
       "image": "gamevillage.gif",
@@ -7399,7 +7438,10 @@
       }
     },
     "url": "http://f38.aaa.livedoor.jp/~hgiehug/",
-    "oldurl": "http://f38.aaacafe.ne.jp/~hgiehug/",
+    "oldurl": [
+      "http://f38.aaacafe.ne.jp/~hgiehug/",
+      "http://hgiehug.hp.infoseek.co.jp/"
+    ],
     "kind_masao": "自動",
     "wayback_time": 20100615033759,
     "archive": 4
@@ -7502,6 +7544,25 @@
   },
   {
     "site": {
+      "name": "GAME LAND",
+      "yomi": "けえむらんと"
+    },
+    "oldname": [
+      "GAME CITY",
+      "GAME TOWN"
+    ],
+    "webmaster": "ラティウス",
+    "url": "http://abekun2.hp.infoseek.co.jp/",
+    "year": {
+      "from": -2003,
+      "to": 2004
+    },
+    "feature": "WWA",
+    "wayback_time": 20040403123614,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "げえむらんど一丁目",
       "yomi": "けえむらんといつちようめ"
     },
@@ -7523,6 +7584,14 @@
     "feature": "WWA",
     "wayback_time": 20080216124616,
     "archive": 1
+  },
+  {
+    "site": {
+      "name": "ゲーム竜",
+      "yomi": "けえむりゆう"
+    },
+    "url": "http://sky.geocities.jp/tsubakiichinose/",
+    "archive": 2
   },
   {
     "site": {
@@ -8102,6 +8171,20 @@
     "feature": "WWA",
     "wayback_time": 20190329155336,
     "archive": 4
+  },
+  {
+    "site": {
+      "name": "ゴジページ",
+      "yomi": "こしへえし"
+    },
+    "webmaster": "ゴギ",
+    "url": "http://homepage2.nifty.com/goji-peeji/",
+    "year": {
+      "from": -1,
+      "to": -2003
+    },
+    "feature": "WWA",
+    "archive": 2
   },
   {
     "site": {
@@ -9230,6 +9313,7 @@
       }
     },
     "url": "http://hw001.gate01.com/khss1/",
+    "oldurl": "http://j0010865.hp.infoseek.co.jp/",
     "year": {
       "from": 2003,
       "to": -1
@@ -11292,6 +11376,7 @@
       }
     },
     "url": "http://www.masaoweb.ifdef.jp/",
+    "oldurl": "http://smx.mydisk.jp/",
     "year": {
       "from": -1,
       "to": 2008
@@ -15723,6 +15808,15 @@
   },
   {
     "site": {
+      "name": "とくのページ",
+      "yomi": "とくのへえし"
+    },
+    "webmaster": "とっくん",
+    "url": "http://members.jcom.home.ne.jp/3355293801/",
+    "archive": 2
+  },
+  {
+    "site": {
       "name": "毒蜜柑",
       "yomi": "とくみかん"
     },
@@ -16234,6 +16328,7 @@
       }
     },
     "url": "http://page.freett.com/donpapa/",
+    "oldurl": "http://members.jcom.home.ne.jp/donpapa/",
     "archive": 2
   },
   {
@@ -20449,6 +20544,28 @@
     "feature": "WWA",
     "wayback_time": 20050529144942,
     "archive": 1
+  },
+  {
+    "site": {
+      "name": "ポケモンランド",
+      "yomi": "ほけもんらんと"
+    },
+    "webmaster": "マサキ",
+    "banner": {
+      "image": "pokemonland.jpeg",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://homepage3.nifty.com/MASAKI/",
+    "year": {
+      "from": 2002,
+      "to": 2003
+    },
+    "kind_masao": "ストーリー",
+    "wayback_time": 20050830200847,
+    "archive": 4
   },
   {
     "site": {
@@ -27451,6 +27568,7 @@
       }
     },
     "url": "http://www.geocities.jp/yoshiki_afraid/",
+    "oldurl": "http://poshiki56.hp.infoseek.co.jp/",
     "year": {
       "from": 2006,
       "to": 2015
