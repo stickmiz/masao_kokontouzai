@@ -976,6 +976,27 @@
   },
   {
     "site": {
+      "name": "亞緋屋(株)",
+      "yomi": "あひやかつこかふ"
+    },
+    "webmaster": "亞緋屋",
+    "banner": {
+      "image": "ahya.gif",
+      "size": {
+        "x": 250,
+        "y": 50
+      }
+    },
+    "url": "http://www.geocities.jp/ahya329m/index1.html",
+    "year": {
+      "from": -1,
+      "to": -2005
+    },
+    "wayback_time": 20050109131422,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "A Future Window",
       "yomi": "あふゆうちやあういんとう"
     },
@@ -4833,6 +4854,7 @@
       }
     },
     "url": "http://www.hpmix.com/home/kamoburi/index.htm",
+    "oldurl": "http://suzuka.cool.ne.jp/kamoburi/masao/kamoburi/kmaonnnohasi.html",
     "wayback_time": 20041211024939,
     "archive": 1
   },
@@ -6860,6 +6882,27 @@
       "to": 2005
     },
     "wayback_time": 20050306045006,
+    "archive": 1
+  },
+  {
+    "site": {
+      "name": "Game City",
+      "yomi": "けえむしてい"
+    },
+    "webmaster": "冷",
+    "banner": {
+      "image": "gamecity.png",
+      "size": {
+        "x": 200,
+        "y": 45
+      }
+    },
+    "url": "http://kei234.hp.infoseek.co.jp/",
+    "year": {
+      "from": 2003,
+      "to": 2005
+    },
+    "wayback_time": 20090920024128,
     "archive": 1
   },
   {
@@ -11573,7 +11616,7 @@
     "oldurl": "http://gms.symphonic-net.com/",
     "year": {
       "from": 2009,
-      "to": 2017
+      "to": 0
     },
     "kind_masao": [
       "自動",
@@ -14691,6 +14734,7 @@
       }
     },
     "url": "http://www.usamimi.info/~masao/",
+    "oldurl": "http://home.owari.ne.jp/~yosh/777/tyouhennmasao.html",
     "year": {
       "from": -2006,
       "to": -2006
@@ -15606,6 +15650,27 @@
     },
     "feature": "WWA",
     "archive": 0
+  },
+  {
+    "site": {
+      "name": "電脳空間 雪音-VIII",
+      "yomi": "てんのうくうかんゆきおとえいと"
+    },
+    "webmaster": "Snowmusic",
+    "banner": {
+      "image": "snowmusic8.gif",
+      "size": {
+        "x": 117,
+        "y": 58
+      }
+    },
+    "url": "http://snowmusic8.hp.infoseek.co.jp/",
+    "year": {
+      "from": -1,
+      "to": -2004
+    },
+    "wayback_time": 20040901182232,
+    "archive": 4
   },
   {
     "site": {
@@ -17748,6 +17813,23 @@
     "feature": "WWA",
     "wayback_time": 20181105023751,
     "archive": 4
+  },
+  {
+    "site": {
+      "name": "馬鹿抹殺帝國",
+      "yomi": "はかまつさつていこく"
+    },
+    "webmaster": "アフォ！",
+    "banner": {
+      "image": "baka.png",
+      "size": {
+        "x": 163,
+        "y": 45
+      }
+    },
+    "url": "https://bakashine.bufsiz.jp/",
+    "kind_masao": "ストーリー",
+    "archive": 0
   },
   {
     "site": {
@@ -26394,6 +26476,7 @@
       }
     },
     "url": "http://www.8986.jp/~yossann/",
+    "oldurl": "http://www.geocities.jp/krxgq830/masao1/",
     "year": {
       "from": 2005,
       "to": 2010
