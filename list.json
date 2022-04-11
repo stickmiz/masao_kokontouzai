@@ -2393,6 +2393,7 @@
     "url": "https://urotaichi.com/",
     "oldurl": [
       "http://urotaichi.web.fc2.com/",
+      "http://nnsv.net/u/",
       "http://www.geocities.jp/urotaichicorporation/",
       "http://urotaichicorporation.rakurakuhp.net/"
     ],
@@ -5200,6 +5201,14 @@
   },
   {
     "site": {
+      "name": "キド博士の研究所",
+      "yomi": "きとはかせのけんきゆうしよ"
+    },
+    "url": "http://www.geocities.jp/sadaiwanami/",
+    "archive": 2
+  },
+  {
+    "site": {
       "name": "ki2toのページ",
       "yomi": "きにとのへえし"
     },
@@ -5626,6 +5635,13 @@
       "yomi": "きよくたたしくおれらしく"
     },
     "webmaster": "梟鸚鵡 栞",
+    "banner": {
+      "image": "kiyoku.png",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
     "url": "http://www.geocities.co.jp/Bookend-Hemingway/3197/",
     "year": {
       "from": 2002,
@@ -6357,6 +6373,7 @@
     },
     "webmaster": "クロス",
     "url": "http://crossgameroom.hp.infoseek.co.jp/",
+    "oldurl": "http://www.geocities.jp/cross2000tilling/",
     "kind_masao": "自動",
     "wayback_time": 20051214220606,
     "archive": 1
@@ -6951,8 +6968,18 @@
       "yomi": "けえむすたあみなる"
     },
     "webmaster": "ゼロス",
+    "banner": {
+      "image": "gamesterminal.gif",
+      "size": {
+        "x": 700,
+        "y": 90
+      }
+    },
     "url": "http://www.games-terminal.com/",
-    "oldurl": "http://www2.hyo-ka.net/~zeros/",
+    "oldurl": [
+      "http://www2.hyo-ka.net/~zeros/",
+      "http://blackmarth.fc2web.com/"
+    ],
     "year": {
       "from": -2002,
       "to": 2003
@@ -13736,6 +13763,7 @@
       "name": "滝壺の扉",
       "yomi": "たきつほのとひら"
     },
+    "oldname": "Wing of door of magic",
     "webmaster": "メアニム",
     "banner": {
       "image": "takitubo.gif",
@@ -17358,7 +17386,10 @@
       }
     },
     "url": "http://kikutako.hp.infoseek.co.jp/index.html",
-    "oldurl": "http://monhan.ddo.jp/",
+    "oldurl": [
+      "http://monhan.ddo.jp/",
+      "http://www11.ocn.ne.jp/~taku/"
+    ],
     "feature": "正男100個以上",
     "wayback_time": 20060107014926,
     "archive": 1
@@ -19166,6 +19197,24 @@
   },
   {
     "site": {
+      "name": "ファクトリー",
+      "yomi": "ふあくとりい"
+    },
+    "oldname": "K&Nの館",
+    "webmaster": "クロ",
+    "banner": {
+      "image": "factory.gif",
+      "size": {
+        "x": 88,
+        "y": 31
+      }
+    },
+    "url": "http://www.geocities.jp/aswsd34/TOP.html",
+    "wayback_time": 20050328051921,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "FastCela",
       "yomi": "ふあすとせえら"
     },
@@ -19273,8 +19322,8 @@
     "banner": {
       "image": "furinkazan.gif",
       "size": {
-        "x": 88,
-        "y": 31
+        "x": 178,
+        "y": 48
       }
     },
     "url": "http://f61.aaa.livedoor.jp/~kazan/",
@@ -19810,6 +19859,11 @@
       }
     },
     "url": "http://tubotubo.fc2web.com/",
+    "oldurl": "http://www2.pf-x.net/~tubotubo/",
+    "year": {
+      "from": -2003,
+      "to": 2004
+    },
     "archive": 0
   },
   {
@@ -22539,6 +22593,16 @@
   },
   {
     "site": {
+      "name": "Masao The Nation",
+      "yomi": "まさおさねいしよん"
+    },
+    "webmaster": "NV",
+    "url": "http://mtn.masao.j-ynv.net/",
+    "wayback_time": 20050312001035,
+    "archive": 1
+  },
+  {
+    "site": {
       "name": "Masao city",
       "yomi": "まさおしてい"
     },
@@ -23645,13 +23709,14 @@
     },
     "webmaster": "たま",
     "banner": {
-      "image": "izumi.png",
+      "image": "izumi.gif",
       "size": {
-        "x": 120,
-        "y": 60
+        "x": 200,
+        "y": 40
       }
     },
     "url": "http://www25.tok2.com/home/masao000/",
+    "oldurl": "http://wing2.jp/~tamaiwasi/",
     "year": {
       "from": 2006,
       "to": -1
@@ -24507,16 +24572,6 @@
     "feature": "正男100個以上",
     "wayback_time": 20181028081042,
     "archive": 4
-  },
-  {
-    "site": {
-      "name": "Masao factory",
-      "yomi": "まさおふあくとりい"
-    },
-    "oldname": "K&Nの館",
-    "url": "http://www.geocities.jp/aswsd34/TOP.html",
-    "wayback_time": 20050328051921,
-    "archive": 1
   },
   {
     "site": {
@@ -26172,13 +26227,14 @@
     ],
     "webmaster": "アスリータ",
     "banner": {
-      "image": "asuri-ta.gif",
+      "image": "gorakuya.png",
       "size": {
-        "x": 102,
-        "y": 42
+        "x": 179,
+        "y": 44
       }
     },
-    "url": "http://www.abcoroti.com:8000/~athhomepage/index.html",
+    "url": "http://www.abcoroti.com:8000/~athhomepage/index.html
+    "oldurl": "http://www.geocities.jp/five5mennasai/",
     "year": {
       "from": 2005,
       "to": 2008
@@ -26888,6 +26944,20 @@
   },
   {
     "site": {
+      "name": "メタリックジャパン",
+      "yomi": "めたりつくしやはん"
+    },
+    "webmaster": "メタルカービィ",
+    "url": "http://www.geocities.jp/metarikku001/",
+    "year": {
+      "from": -1,
+      "to": 2005
+    },
+    "wayback_time": 20050123232428,
+    "archive": 1   
+  },
+  {
+    "site": {
       "name": "Medarot Sozaikan",
       "yomi": "めたろつとそさいかん"
     },
@@ -27258,6 +27328,7 @@
       "name": "遊戯王デッキ収納館",
       "yomi": "ゆうきおうてつきしゆうのうかん"
     },
+    "oldname": "遊戯王カードの街",
     "webmaster": "影人",
     "banner": {
       "image": "yugiohdeck.png",
@@ -27267,6 +27338,7 @@
       }
     },
     "url": "http://kagebito4.web.fc2.com/",
+    "oldurl": "http://kagebito.azarea.jp/",
     "year": {
       "from": -1,
       "to": 2010
@@ -28909,8 +28981,8 @@
     "banner": {
       "image": "tyukyu.gif",
       "size": {
-        "x": 86,
-        "y": 31
+        "x": 200,
+        "y": 50
       }
     },
     "url": "https://lemonkaju.net/",
@@ -29040,7 +29112,7 @@
     "oldurl": "http://rockfannel.web.fc2.com/",
     "year": {
       "from": -1,
-      "to": 0
+      "to": 2019
     },
     "feature": "まさお3",
     "archive": 0
@@ -29108,6 +29180,20 @@
     },
     "wayback_time": 20181102144149,
     "archive": 4
+  },
+  {
+    "site": {
+      "name": "ワーイ君TOWN",
+      "yomi": "わあいくんたうん"
+    },
+    "webmaster": "こぶ",
+    "url": "http://wa-ikun.web-zz.com/wa-itown.htm",
+    "year": {
+      "from": 2004,
+      "to": -1
+    },
+    "wayback_time": 20040604192749,
+    "archive": 1
   },
   {
     "site": {
