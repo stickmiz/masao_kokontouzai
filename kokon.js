@@ -1,4 +1,19 @@
-var list = [];
+const STATE_CANVAS = 'canvas'
+const STATE_EXIST = 'exist'
+const STATE_CLOSED = 'closed'
+const STATE_ARCHIVED = 'archived'
+const STATE_VANISHED = 'vanished'
+const STATE_REMAINED = 'remained'
+const STATE_ARCHIVED_WAYBACK = 'archived_wayback'
+const STATE_ARCHIVED_GEOLOG = 'archived_geolog'
+
+const CLASS_NAME_CANVAS = 'canvas'
+const CLASS_NAME_EXIST = 'exist'
+const CLASS_NAME_CLOSED = 'closed'
+const CLASS_NAME_ARCHIVED = 'archived'
+const CLASS_NAME_VANISHED = 'vanished'
+
+let list = [];
 
 $.ajax({
   type: "GET",
@@ -12,30 +27,30 @@ $.ajax({
 });
 
 function creatTable(mode, order, kind_masao, feature) {
-  var count = 0;
-  var isModeDisplay;
-  var isOrderDisplay;
-  var isKindMasaoDisplay;
-  var isFeatureDisplay;
+  let count = 0;
+  let isModeDisplay;
+  let isOrderDisplay;
+  let isKindMasaoDisplay;
+  let isFeatureDisplay;
   
-  for (var i = 0; i < list.length; i++) {
+  for (let i = 0; i < list.length; i++) {
     switch (mode) {
       case "now":
-        if (list[i].archive == 0 || list[i].archive == 3) {
+        if (list[i].state == STATE_EXIST || list[i].state == STATE_CANVAS) {
           isModeDisplay = true;
         } else {
           isModeDisplay = false;
         }
         break;
       case "canvas":
-        if (list[i].archive == 3) {
+        if (list[i].state == STATE_CANVAS) {
           isModeDisplay = true;
         } else {
           isModeDisplay = false;
         }
         break;
       case "archive":
-        if (list[i].archive == 4) {
+        if (list[i].state == STATE_ARCHIVED || list[i].state == STATE_ARCHIVED_WAYBACK || list[i].state == STATE_ARCHIVED_GEOLOG) {
           isModeDisplay = true;
         } else {
           isModeDisplay = false;
@@ -166,7 +181,7 @@ function creatTable(mode, order, kind_masao, feature) {
 
     if (isModeDisplay == true && isOrderDisplay == true && isKindMasaoDisplay == true && isFeatureDisplay == true) {
       count += 1;
-      masao(list[i].site.name, list[i].oldname, list[i].webmaster, list[i].banner, list[i].url, list[i].year, list[i].work, list[i].archive, list[i].wayback_time, list[i].nobanner);
+      masao(list[i].site.name, list[i].oldname, list[i].webmaster, list[i].banner, list[i].url, list[i].year, list[i].work, list[i].state, list[i].wayback_time, list[i].nobanner);
     } 
   }
   
@@ -178,28 +193,28 @@ function creatTable(mode, order, kind_masao, feature) {
   
 }
 
-function masao(name, subname, man, banner, http, year, work, wayback, wayback_time, nobanner) {
+function masao(name, subname, man, banner, http, year, work, state, wayback_time, nobanner) {
   var tr = document.createElement('tr');
   var td = document.createElement('td');
 
-  if (wayback == 0) {
-    td.className = 'now';
-  } else if (wayback == 1) {
-    td.className = 'closed';
-  } else if (wayback == 2) {
-    td.className = 'vanished';
-  } else if (wayback == 3) {
-    td.className = 'canvas';
-  } else if (wayback == 4) {
-    td.className = 'archived';
+  if (state == STATE_EXIST) {
+    td.className = CLASS_NAME_EXIST;
+  } else if (state == STATE_CLOSED) {
+    td.className = CLASS_NAME_CLOSED;
+  } else if (state == STATE_VANISHED) {
+    td.className = CLASS_NAME_VANISHED;
+  } else if (state == STATE_CANVAS) {
+    td.className = CLASS_NAME_CANVAS;
+  } else if (state == STATE_ARCHIVED || state == STATE_ARCHIVED_WAYBACK || state == STATE_REMAINED) {
+    td.className = CLASS_NAME_ARCHIVED;
   }
-  if (wayback != 2) {
+  if (state != STATE_VANISHED) {
     var a = document.createElement('a');
     var clickname = "古今東西正男/" + name;
     a.onclick = function(){
       ga('send', 'event', 'banner', 'click', clickname);
     };
-    if (wayback == 1 || wayback == 4) {
+    if (state == STATE_CLOSED || state == STATE_ARCHIVED || state == STATE_ARCHIVED_WAYBACK || state == STATE_REMAINED) {
       if (wayback_time === undefined) {
         a.href = "https://web.archive.org/web/" + http;
       } else {
@@ -224,7 +239,7 @@ function masao(name, subname, man, banner, http, year, work, wayback, wayback_ti
     var div = document.createElement('div');
     div.style.color = "#000000";
     div.style.backgroundColor = "#808080";
-    if (wayback == 2) {
+    if (state == STATE_VANISHED) {
       div.className = 'noimage';
       td.appendChild(div);
     } else {
@@ -244,7 +259,7 @@ function masao(name, subname, man, banner, http, year, work, wayback, wayback_ti
       } else {
         div.style.backgroundColor = banner.background_color;
       }
-      if (wayback == 2) {
+      if (state == STATE_VANISHED) {
         div.className = 'noimage';
         td.appendChild(div);
       } else {
@@ -265,7 +280,7 @@ function masao(name, subname, man, banner, http, year, work, wayback, wayback_ti
       img.setAttribute("dataoriginal", "banner/" + banner.image);
       img.setAttribute("src", "banner/unload.png");
       img.alt = name;
-      if (wayback == 2) {
+      if (state == STATE_VANISHED) {
         td.appendChild(img);
       } else {
         a.appendChild(img);

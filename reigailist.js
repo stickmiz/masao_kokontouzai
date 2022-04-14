@@ -1,8 +1,12 @@
-var list = [];
-var anotherlist = [];
-var url = [];
-var k = 0;
-var text = "";
+const STATE_CANVAS = 'canvas'
+const STATE_EXIST = 'exist'
+const STATE_REMAINED = 'remained'
+
+let list = [];
+let anotherlist = [];
+let url = [];
+let k = 0;
+let text = "";
 
 $.ajax({
   type: "GET",
@@ -26,15 +30,14 @@ $.ajax({
   }
 });
 
-
-for (var i = 0; i < list.length; i++) {
-  if (list[i].archive == 0 || list[i].archive == 3) {
+for (let i = 0; i < list.length; i++) {
+  if (list[i].state == STATE_EXIST || list[i].state == STATE_CANVAS || list[i].state == STATE_REMAINED) {
     url[k] = list[i].url;
     k++;
   }
   if (list[i].suburl !== undefined) {
     if (list[i].suburl instanceof Array) {
-      for (var j = 0; j < list[i].suburl.length; j++) {
+      for (let j = 0; j < list[i].suburl.length; j++) {
         url[k] = list[i].suburl[j];
         k++;
       }
@@ -45,7 +48,7 @@ for (var i = 0; i < list.length; i++) {
   }
 }
 
-for (var i = 0; i < anotherlist.length; i++) {
+for (let i = 0; i < anotherlist.length; i++) {
   url[k] = anotherlist[i].url;
   k++;
 }
