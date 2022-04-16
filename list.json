@@ -24037,10 +24037,10 @@
     },
     "webmaster": "takaya",
     "banner": {
-      "image": "pension.gif",
+      "image": "nenkin.gif",
       "size": {
-        "x": 189,
-        "y": 50
+        "x": 192,
+        "y": 72
       }
     },
     "url": "http://takaya.gozaru.jp/",
@@ -24051,6 +24051,28 @@
     },
     "kind_masao": "ストーリー",
     "feature": "素材配布",
+    "wayback_time": 20070629144823,
+    "state": "closed"
+  },
+  {
+    "site": {
+      "name": "正男の年金問題（ミラーサイト）",
+      "yomi": "まさおのねんきんもんたい"
+    },
+    "webmaster": "LemonKaju",
+    "banner": {
+      "image": "pension.gif",
+      "size": {
+        "x": 189,
+        "y": 50
+      }
+    },
+    "url": "http://takaya.gozaru.jp/",
+    "year": {
+      "from": -1,
+      "to": 2016
+    },
+    "kind_masao": "ストーリー",
     "state": "canvas"
   },
   {
@@ -24264,14 +24286,38 @@
         "y": 33
       }
     },
-    "url": "https://masayori.stickmiz.net/",
-    "oldurl": [
-      "https://masayori.iinaa.net/",
-      "http://www2.wbs.ne.jp/~su-pa-/"
-    ],
+    "url": "http://www2.wbs.ne.jp/~su-pa-/",
     "year": {
       "from": 2003,
       "to": 2006
+    },
+    "kind_masao": [
+      "自動",
+      "一画面",
+      "ストーリー"
+    ],
+    "feature": "正男100個以上",
+    "wayback_time": 20080311211505,
+    "state": "archived_wayback"
+  },
+  {
+    "site": {
+      "name": "正男の寄り道（ミラーサイト）",
+      "yomi": "まさおのよりみち"
+    },
+    "webmaster": "棒",
+    "banner": {
+      "image": "masayori_new.png",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "https://masayori.stickmiz.net/",
+    "oldurl": "https://masayori.iinaa.net/",
+    "year": {
+      "from": 2010,
+      "to": 0
     },
     "kind_masao": [
       "自動",
