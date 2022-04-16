@@ -234,7 +234,7 @@
       "WWA"
     ],
     "wayback_time": 20190331014902,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -274,7 +274,7 @@
     },
     "kind_masao": "JS拡張",
     "wayback_time": 20190407044534,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -427,7 +427,7 @@
       "to": 2010
     },
     "wayback_time": 20190329220956,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -509,7 +509,7 @@
     },
     "kind_masao": "一画面",
     "wayback_time": 20181105023401,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -626,7 +626,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20181105031104,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -743,7 +743,7 @@
     "kind_masao": "ストーリー",
     "feature": "素材配布",
     "wayback_time": 20181105024758,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -870,7 +870,7 @@
     "url": "http://page.freett.com/adoribuj/adoribuloom.htm",
     "kind_masao": "ストーリー",
     "wayback_time": 20040629003359,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -911,7 +911,7 @@
     ],
     "feature": "素材配布",
     "wayback_time": 20041104053206,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -1073,7 +1073,7 @@
       "to": 2007
     },
     "wayback_time": 20190331143235,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -1126,7 +1126,7 @@
       "ストーリー"
     ],
     "wayback_time": 20190330222550,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -1165,7 +1165,7 @@
       "to": 2007
     },
     "wayback_time": 20190330234342,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -1186,7 +1186,7 @@
       "to": 2011
     },
     "wayback_time": 20190331141300,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -1208,7 +1208,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20190331142332,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -1322,7 +1322,7 @@
       "スーパー正次郎の冒険"
     ],
     "wayback_time": 20071226155327,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -1383,8 +1383,9 @@
       "background_color": "#FFCC88"
     },
     "url": "http://gensoukikisi.fc2web.com/",
+    "oldurl": "http://members13.tsukaeru.net/illu/",
     "wayback_time": 20190222032515,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -1419,7 +1420,7 @@
       "素材配布"
     ],
     "wayback_time": 20071114210347,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -1501,7 +1502,7 @@
     },
     "kind_masao": "カービィ系",
     "wayback_time": 20181105023941,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -1544,7 +1545,7 @@
     "url": "http://wierosk.hp.infoseek.co.jp/",
     "oldurl": "http://popup3.tok2.com/home2/heiwa/",
     "wayback_time": 20040323083322,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -1580,7 +1581,7 @@
       "to": -2008
     },
     "wayback_time": 20060704224147,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -1636,7 +1637,7 @@
       "to": -1
     },
     "wayback_time": 20181105090140,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -1716,7 +1717,7 @@
     "url": "http://to1.hp.infoseek.co.jp/",
     "feature": "WWA",
     "wayback_time": 20100316153647,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -1813,7 +1814,7 @@
     ],
     "work": "正男伝説",
     "wayback_time": 20190329231856,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -1877,7 +1878,7 @@
       "to": 2009
     },
     "wayback_time": 20181030152727,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -1918,7 +1919,7 @@
       "to": 2004
     },
     "wayback_time": 20181105023920,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -1955,7 +1956,7 @@
     ],
     "kind_masao": "ストーリー",
     "wayback_time": 20130620071219,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -2012,7 +2013,7 @@
       "to": 2008
     },
     "wayback_time": 20190329205204,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -2198,7 +2199,7 @@
       "http://www.geocities.jp/takuro_minamoto/"
      ],
     "wayback_time": 20060711194230,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -2220,7 +2221,7 @@
     },
     "kind_masao": "一画面",
     "wayback_time": 20191008153917,
-    "state": "archived"
+    "state": "remained"
   },
   {
     "site": {
@@ -2313,7 +2314,7 @@
       "to": 2004
     },
     "wayback_time": 20181026151138,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -2346,7 +2347,7 @@
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20190331145646,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -2480,7 +2481,7 @@
       "WWA"
     ],
     "wayback_time": 20041129080927,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -2590,7 +2591,7 @@
     },
     "kind_masao": "自動",
     "wayback_time": 20181105024251,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -2734,7 +2735,7 @@
     "url": "http://xwisp.hp.infoseek.co.jp/index.html",
     "feature": "WWA",
     "wayback_time": 20040806021957,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -2809,7 +2810,7 @@
     "webmaster": "てーきとー",
     "url": "http://nsmenjoy.ifdef.jp/",
     "wayback_time": 20070718092227,
-    "state": "archived"
+    "state": "closed"
   },
   {
     "site": {
@@ -3014,7 +3015,7 @@
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20050212170347,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -3117,7 +3118,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20070225103140,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -3131,7 +3132,7 @@
       "to": 2006
     },
     "wayback_time": 20190324060404,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -3295,7 +3296,7 @@
     },
     "url": "http://www.geocities.jp/metarou21/",
     "wayback_time": 20060208065043,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -3308,7 +3309,7 @@
       "to": 2003
     },
     "wayback_time": 20181105051747,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -3574,8 +3575,8 @@
       "from": -1,
       "to": 2005
     },
-    "wayback_time": 20050413114416,
-    "state": "archived"
+    "wayback_time": 20050306201514,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -3722,7 +3723,7 @@
       "カービィ系"
     ],
     "wayback_time": 20181105105456,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -3772,7 +3773,7 @@
       "to": 2003
     },
     "wayback_time": 20030812082253,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -3818,7 +3819,7 @@
       "to": -2004
     },
     "wayback_time": 20040607151033,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -3865,7 +3866,7 @@
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20181105024008,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -3902,16 +3903,12 @@
     "feature": "正男100個以上",
     "work": "スーパー金次郎",
     "wayback_time": 20190330095924,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
       "name": "俺他メモランダム",
       "yomi": "おれほかめもらんたむ"
-    },
-    "banner": {
-      "color": "#000000",
-      "background_color": "#FFCC66"
     },
     "banner": {
       "color": "#00A7A4",
@@ -4182,7 +4179,7 @@
       "to": 2007
     },
     "wayback_time": 20181105023524,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4212,7 +4209,7 @@
       "to": 2006
     },
     "wayback_time": 20181105172152,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4404,7 +4401,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105023945,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4435,7 +4432,7 @@
       "カービィ系"
     ],
     "wayback_time": 20181105024050,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4484,7 +4481,7 @@
       "カービィ系"
     ],
     "wayback_time": 20181105023909,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4505,7 +4502,7 @@
       "to": 2006
     },
     "wayback_time": 20041015055418,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4552,7 +4549,7 @@
       "to": 2005
     },
     "wayback_time": 20181105090034,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4567,7 +4564,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20041102025309,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4659,7 +4656,7 @@
       "to": -2007
     },
     "wayback_time": 20190329141000,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4685,7 +4682,7 @@
     },
     "kind_masao": "カービィ系",
     "wayback_time": 20080113053940,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4700,7 +4697,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20190330222539,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -4721,7 +4718,7 @@
       "to": 2009
     },
     "wayback_time": 20190127164339,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4786,7 +4783,7 @@
       "to": 2004
     },
     "wayback_time": 20040227085055,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -4942,8 +4939,11 @@
       "name": "かりんとう2009",
       "yomi": "かりんとうにせんきゆう"
     },
-    "url": "http://www.geocities.jp/pokettomonnsuta2008/",
-    "oldurl": "http://www.geocities.jp/karinntou2007/",
+    "url": "http://www.geocities.jp/karinntou_2009/index.html",
+    "oldurl": [
+      "http://www.geocities.jp/pokettomonnsuta2008/",
+      "http://www.geocities.jp/karinntou2007/"
+    ],
     "year": {
       "from": 2007,
       "to": 2009
@@ -4952,8 +4952,8 @@
       "ストーリー",
       "カービィ系"
     ],
-    "wayback_time": 20181105024814,
-    "state": "archived"
+    "wayback_time": 20181105050515,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -5131,7 +5131,7 @@
       "まおー最強伝説"
     ],
     "wayback_time": 20190330031114,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -5152,7 +5152,7 @@
     },
     "wayback_time": 20190330222549,
     "feature": "WWA",
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -5272,7 +5272,7 @@
     },
     "url": "http://www.geocities.jp/enbonbonshio/",
     "wayback_time": 20181105023520,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -5388,7 +5388,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20050207120056,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -5413,7 +5413,7 @@
     "kind_masao": "ストーリー",
     "feature": "正男100個以上",
     "wayback_time": 20080325162010,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -5442,7 +5442,7 @@
       "JS拡張"
     ],
     "wayback_time": 20200310003408,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -5460,7 +5460,7 @@
     "url": "http://www010.upp.so-net.ne.jp/tomirimi/",
     "kind_masao": "ストーリー",
     "wayback_time": 20050415084840,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -5483,7 +5483,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20190202154240,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -5560,7 +5560,7 @@
     "kind_masao": "自動",
     "feature": "WWA",
     "wayback_time": 20181030115914,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -5735,7 +5735,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20181105023858,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -5759,7 +5759,7 @@
       "to": 2008
     },
     "wayback_time": 20181105023431,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -5998,7 +5998,7 @@
     "kind_masao": "ストーリー",
     "feature": "正男100個以上",
     "wayback_time": 20091213192343,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -6119,7 +6119,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20110908074944,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -6284,7 +6284,7 @@
     },
     "kind_masao": "一画面",
     "wayback_time": 20181109142158,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -6458,7 +6458,7 @@
       "to": 2011
     },
     "wayback_time": 20181105023400,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -6498,7 +6498,7 @@
     },
     "feature": "正男100個以上",
     "wayback_time": 20190113124025,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -6546,7 +6546,7 @@
       "to": 2003
     },
     "wayback_time": 20181105072744,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -6587,7 +6587,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20190331005823,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -6635,7 +6635,7 @@
     "url": "http://www.geocities.jp/tumetaihono/",
     "kind_masao": "ストーリー",
     "wayback_time": 20040407114208,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -6725,7 +6725,7 @@
     },
     "kind_masao": "カービィ系",
     "wayback_time": 20181105023405,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -6837,7 +6837,7 @@
       "to": 2003
     },
     "wayback_time": 20181105051552,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -6874,7 +6874,7 @@
       "to": 2007
     },
     "wayback_time": 20181105023748,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -7037,7 +7037,7 @@
       "カービィ"
     ],
     "wayback_time": 20190331142026,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -7219,7 +7219,7 @@
     "kind_masao": "自動",
     "feature": "WWA",
     "wayback_time": 20190331143628,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -7241,7 +7241,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20041227104736,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -7306,7 +7306,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20050525020727,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -7366,7 +7366,7 @@
       "素材配布"
     ],
     "wayback_time": 20080421093842,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -7378,7 +7378,7 @@
     "kind_masao": "カービィ系",
     "feature": "WWA",
     "wayback_time": 20050424020337,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -7467,7 +7467,7 @@
       "WWA"
     ],
     "wayback_time": 20190330222547,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -7510,7 +7510,7 @@
     ],
     "kind_masao": "自動",
     "wayback_time": 20100615033759,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -7532,7 +7532,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20041213161840,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -7878,7 +7878,7 @@
     },
     "url": "http://www1.tst.ne.jp/miko/gen/",
     "wayback_time": 20051108072229,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -7900,7 +7900,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20050204104736,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8000,7 +8000,7 @@
       "to": 2004
     },
     "wayback_time": 20181105062412,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8042,7 +8042,7 @@
   },
   {
     "site": {
-      "name": "GOGO！！正男",
+      "name": "GOGO!!正男",
       "yomi": "こおこおまさお"
     },
     "banner": {
@@ -8055,7 +8055,7 @@
       "to": -2005
     },
     "wayback_time": 20050511191816,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8172,7 +8172,7 @@
     },
     "feature": "素材配布",
     "wayback_time": 20050406094310,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8193,7 +8193,7 @@
       "to": 2008
     },
     "wayback_time": 20181105023938,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8236,7 +8236,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20190329155336,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8327,7 +8327,7 @@
       "to": 2010
     },
     "wayback_time": 20060616182941,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8341,7 +8341,7 @@
       "to": 2006
     },
     "wayback_time": 20181105024447,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8385,7 +8385,7 @@
     "kind_masao": "ストーリー",
     "feature": "正男100個以上",
     "wayback_time": 20181004133049,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -8447,7 +8447,7 @@
       "WWA"
     ],
     "wayback_time": 20190326142301,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8475,7 +8475,7 @@
     "kind_masao": "カービィ系",
     "feature": "WWA",
     "wayback_time": 20050213023452,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8537,7 +8537,7 @@
       "to": 2003
     },
     "wayback_time": 20181105080134,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8594,7 +8594,7 @@
     "webmaster": "つっち",
     "url": "http://www.geocities.jp/tsucchifine2002jp/",
     "wayback_time": 20050815010823,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8625,7 +8625,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20190117221447,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8640,7 +8640,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105023501,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8695,7 +8695,7 @@
     },
     "kind_masao": "カービィ系",
     "wayback_time": 20181105153646,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8720,7 +8720,7 @@
       "to": 2009
     },
     "wayback_time": 20190320201543,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -8784,7 +8784,7 @@
       "to": 2006
     },
     "wayback_time": 20190330065610,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8812,7 +8812,7 @@
     "kind_masao": "ストーリー",
     "feature": "素材配布",
     "wayback_time": 20181108140011,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -8905,7 +8905,7 @@
       "to": 2004
     },
     "wayback_time": 20181105051833,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8928,7 +8928,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20140209125141,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -8971,7 +8971,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181002132331,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9116,7 +9116,7 @@
     },
     "url": "http://sweety.jp/satoutakao/",
     "wayback_time": 20060502005836,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9260,7 +9260,7 @@
       "to": 2005
     },
     "wayback_time": 20181105024810,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9319,7 +9319,7 @@
     "kind_masao": "カービィ系",
     "feature": "WWA",
     "wayback_time": 20080211173944,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9353,7 +9353,7 @@
       "to": 2004
     },
     "wayback_time": 20181105024259,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9479,7 +9479,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20060206035821,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9501,7 +9501,7 @@
     },
     "kind_masao": "一画面",
     "wayback_time": 20190330235448,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9673,7 +9673,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105024918,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9736,7 +9736,7 @@
     },
     "kind_masao": "カービィ系",
     "wayback_time": 20181105024646,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9788,7 +9788,7 @@
       "一画面"
     ],
     "wayback_time": 20200308153615,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9801,7 +9801,7 @@
       "to": 2003
     },
     "wayback_time": 20181105073708,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9829,7 +9829,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20181105054604,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9938,7 +9938,7 @@
     },
     "url": "http://www.geocities.co.jp/Playtown-Bishop/6402/",
     "wayback_time": 20040914204051,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -10038,7 +10038,7 @@
       "to": 2006
     },
     "wayback_time": 20181019141327,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -10236,7 +10236,7 @@
       "to": 2003
     },
     "wayback_time": 20181105023447,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -10250,7 +10250,7 @@
       "to": 2006
     },
     "wayback_time": 20181105071731,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -10289,7 +10289,7 @@
       "to": 2007
     },
     "wayback_time": 20181105023825,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -10338,7 +10338,7 @@
       "浩二の反乱"
     ],
     "wayback_time": 20181105072901,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -10356,7 +10356,7 @@
     "url": "http://www12.ocn.ne.jp/~potohiro/",
     "kind_masao": "ストーリー",
     "wayback_time": 20040131064639,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -10457,7 +10457,7 @@
     },
     "kind_masao": "自動",
     "wayback_time": 20181020154928,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -10509,7 +10509,7 @@
       "to": 2006
     },
     "wayback_time": 20190113091244,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -10597,7 +10597,7 @@
       "to": -2006
     },
     "wayback_time": 20060208032240,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -10824,7 +10824,7 @@
     "url": "http://f17.aaa.livedoor.jp/~takasoft/",
     "oldurl": "http://www.geocities.jp/takafm2000/",
     "wayback_time": 20071120213126,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -11134,7 +11134,7 @@
       "WWA"
     ],
     "wayback_time": 20190331144648,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -11245,7 +11245,7 @@
     ],
     "feature": "WWA",
     "wayback_time": 20190331003715,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -11301,7 +11301,7 @@
       "正男100個以上",
       "WWA"
     ],
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -11425,7 +11425,7 @@
       "アースの復讐"
     ],
     "wayback_time": 20050406155450,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -11573,7 +11573,7 @@
     "kind_masao": "ストーリー",
     "feature": "素材配布",
     "wayback_time": 20090313002611,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -11715,7 +11715,7 @@
     "url": "http://masaostock.hp.infoseek.co.jp/",
     "kind_masao": "カービィ系",
     "wayback_time": 20071215203656,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -11725,7 +11725,7 @@
     "url": "http://www.okiniiri.com/masao/",
     "kind_masao": "カービィ系",
     "wayback_time": 20150220225519,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -11748,7 +11748,7 @@
       "to": 2008
     },
     "wayback_time": 20060421152043,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -11930,7 +11930,7 @@
       "WWA"
     ],
     "wayback_time": 20071024103213,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -11968,7 +11968,7 @@
       "to": 2004
     },
     "wayback_time": 20181105041121,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12044,7 +12044,7 @@
       "WWA"
     ],
     "wayback_time": 20181105024204,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12113,7 +12113,7 @@
       "素材配布"
     ],
     "wayback_time": 20071113035103,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12175,7 +12175,7 @@
     "url": "http://sky.geocities.jp/akatuki1akatuki2akatuki3/index.htm",
     "feature": "WWA",
     "wayback_time": 20080612195153,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12197,7 +12197,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181005155928,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12286,7 +12286,7 @@
       "to": 2005
     },
     "wayback_time": 20050208062908,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12324,7 +12324,7 @@
     "kind_masao": "カービィ系",
     "feature": "WWA",
     "wayback_time": 20050209180239,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12347,7 +12347,7 @@
     "kind_masao": "ストーリー",
     "feature": "素材配布",
     "wayback_time": 20060724043917,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12436,7 +12436,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20190330224454,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -12451,7 +12451,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20181105034611,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12477,7 +12477,7 @@
       "http://www.geocities.co.jp/SiliconValley/2720/"
     ],
     "wayback_time": 20060306203611,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12491,7 +12491,7 @@
       "to": 2004
     },
     "wayback_time": 20181105065152,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12508,7 +12508,7 @@
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20181105034441,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12531,7 +12531,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181029120943,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12665,7 +12665,7 @@
       "カービィ系"
     ],
     "wayback_time": 20181105023505,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12699,7 +12699,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20190301223244,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12720,7 +12720,7 @@
       "from": 2003,
       "to": -1
     },
-    "archive":  0
+    "state": "exist"
   },
   {
     "site": {
@@ -12746,7 +12746,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20060516094351,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12815,7 +12815,7 @@
       "to": 2009
     },
     "wayback_time": 20181105034656,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12891,7 +12891,7 @@
     },
     "kind_masao": "カービィ系",
     "wayback_time": 20181105050032,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12912,7 +12912,7 @@
       "to": 2005
     },
     "wayback_time": 20181125074344,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -12969,7 +12969,7 @@
     },
     "url": "http://www.geocities.jp/suntyan3/",
     "wayback_time": 20190325154340,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13024,7 +13024,7 @@
       "素材配布"
     ],
     "wayback_time": 20180226132707,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13067,7 +13067,7 @@
       "to": 2010
     },
     "wayback_time": 20200810083041,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13080,7 +13080,7 @@
       "to": 2011
     },
     "wayback_time": 20190331142323,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -13091,7 +13091,7 @@
     "url": "http://www.geocities.jp/celeryyyy/",
     "kind_masao": "自動",
     "wayback_time": 20190330234705,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13145,7 +13145,7 @@
       "to": 2008
     },
     "wayback_time": 20190330114950,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -13394,7 +13394,7 @@
       "to": 2009
     },
     "wayback_time": 20181105023455,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13442,7 +13442,7 @@
       "to": 2014
     },
     "wayback_time": 20190330064322,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13453,7 +13453,7 @@
     "url": "http://www2.cty-net.ne.jp/~tomatsu/",
     "kind_masao": "ストーリー",
     "wayback_time": 20070818215853,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13535,7 +13535,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105023735,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13570,7 +13570,7 @@
       "to": 2010
     },
     "wayback_time": 20180226235026,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13591,7 +13591,7 @@
       "to": 2004
     },
     "wayback_time": 20181105053358,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13685,7 +13685,7 @@
       "to": 2008
     },
     "wayback_time": 20080202183210,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13732,7 +13732,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181003131436,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13807,7 +13807,7 @@
       "WINTER&SUNSHINE"
     ],
     "wayback_time": 20040924180133,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13840,7 +13840,7 @@
     "feature": "正男100個以上",
     "work": "メカザワGO!GO!",
     "wayback_time": 20040722073243,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13865,7 +13865,7 @@
       "to": 2005
     },
     "wayback_time": 20181024025048,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13884,7 +13884,7 @@
     "url": "http://yanabou.hp.infoseek.co.jp/index.html",
     "kind_masao": "ストーリー",
     "wayback_time": 20061114123200,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -13905,17 +13905,14 @@
       }
     },
     "url": "https://aoba1192.stars.ne.jp/",
-    "suburl": [
-      "https://aoba1192.stars.ne.jp/",
-      "http://aoba1192.michikusa.jp/"
-    ],
+    "suburl": "http://aoba1192.michikusa.jp/",
     "oldurl": "http://aoba1192.hp.infoseek.co.jp/",
     "year": {
       "from": 2004,
       "to": 2021
     },
     "wayback_time": 20210130071720,
-    "state": "archived"
+    "state": "remained"
   },
   {
     "site": {
@@ -14302,7 +14299,7 @@
       "マサオカート"
     ],
     "wayback_time": 20140718073021,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -14417,7 +14414,7 @@
     },
     "kind_masao": "一画面",
     "wayback_time": 20190330224537,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -14465,7 +14462,7 @@
     },
     "url": "http://madougu.hp.infoseek.co.jp/",
     "wayback_time": 20050331044140,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -14601,7 +14598,7 @@
     "kind_masao": "ストーリー",
     "feature": "正男100個以上",
     "wayback_time": 20190331133758,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -14642,7 +14639,7 @@
     },
     "kind_masao": "カービィ系",
     "wayback_time": 20190127093759,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -14687,7 +14684,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20190330062521,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -14833,8 +14830,8 @@
       "from": 2003,
       "to": 2005
     },
-    "wayback_time": 20190330033326,
-    "state": "archived"
+    "wayback_time": 20051219033459,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -14848,7 +14845,7 @@
       "to": 2011
     },
     "wayback_time": 20190331145437,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -14914,7 +14911,7 @@
     "url": "http://tatsuro12.zero-yen.com/game.html",
     "oldurl": "http://www.geocities.jp/tatsuro0987/",
     "wayback_time": 20181030111558,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -15093,7 +15090,7 @@
       "素材配布"
     ],
     "wayback_time": 20190330142326,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -15152,7 +15149,7 @@
       "to": 2005
     },
     "wayback_time": 20181105023512,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -15238,7 +15235,7 @@
       "to": -2004
     },
     "wayback_time": 20031122010210,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -15260,7 +15257,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20110730131414,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -15285,7 +15282,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20060505135437,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -15401,7 +15398,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105034152,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -15427,7 +15424,6 @@
       "yomi": "てつとうとけえむなんてもありのへや"
     },
     "webmaster": "ひかり302号",
-    "webmaster": "TT氏",
     "banner": {
       "color": "#000000",
       "background_color": "#FFFFDD"
@@ -15480,7 +15476,7 @@
       "to": 2006
     },
     "wayback_time": 20181105034312,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -15550,7 +15546,7 @@
       "普通ザトシ"
     ],
     "wayback_time": 20190331144526,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -15608,7 +15604,7 @@
       "to": 2007
     },
     "wayback_time": 20181122160041,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -15692,7 +15688,7 @@
       "to": -2004
     },
     "wayback_time": 20040901182232,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -15768,7 +15764,7 @@
       "ストーリー"
     ],
     "wayback_time": 20181029134250,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -15882,7 +15878,7 @@
       "to": 2005
     },
     "wayback_time": 20060531124055,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -15977,7 +15973,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105023515,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16097,7 +16093,7 @@
       "to": 2006
     },
     "wayback_time": 20181106200908,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16111,7 +16107,7 @@
       "to": 2006
     },
     "wayback_time": 20190126122244,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16215,7 +16211,7 @@
     "kind_masao": "ストーリー",
     "feature": "素材配布",
     "wayback_time": 20181107192114,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16236,7 +16232,7 @@
       "to": 2005
     },
     "wayback_time": 20181105023723,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16258,7 +16254,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105144722,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16354,7 +16350,7 @@
     },
     "kind_masao": "自動",
     "wayback_time": 20181105024728,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16472,7 +16468,7 @@
     },
     "kind_masao": "自動",
     "wayback_time": 20181105024015,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16486,7 +16482,7 @@
       "to": 2009
     },
     "wayback_time": 20181105104754,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16507,7 +16503,7 @@
       "to": 2006
     },
     "wayback_time": 20190329033516,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16554,7 +16550,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20191215072134,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16575,7 +16571,7 @@
       "to": 2012
     },
     "wayback_time": 20190330011550,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16589,7 +16585,7 @@
       "to": 2004
     },
     "wayback_time": 20181105041606,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16624,7 +16620,7 @@
       "to": 2005
     },
     "wayback_time": 20181105095146,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16648,7 +16644,7 @@
     "webmaster": "7755334",
     "url": "http://www.geocities.jp/yuma2ch/",
     "wayback_time": 20181105024814,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16704,7 +16700,7 @@
       "to": 2006
     },
     "wayback_time": 20181105062902,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16803,7 +16799,7 @@
       "to": 2006
     },
     "wayback_time": 20181027070659,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16892,7 +16888,7 @@
     "kind_masao": "カービィ系",
     "feature": "WWA",
     "wayback_time": 20190330234333,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -16915,7 +16911,7 @@
     },
     "url": "http://www.geocities.jp/beta1090/newmasao.htm",
     "wayback_time": 20181118105905,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17023,7 +17019,7 @@
       "ストーリー"
     ],
     "wayback_time": 20190330234853,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17040,7 +17036,7 @@
     },
     "url": "http://nobausagi.hp.infoseek.co.jp/",
     "wayback_time": 20050323213335,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17105,7 +17101,7 @@
     "url": "http://xsgm.hp.infoseek.co.jp/INDEX.HTM",
     "feature": "WWA",
     "wayback_time": 20050322083751,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17278,7 +17274,7 @@
       "to": -1
     },
     "wayback_time": 20060827210625,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17426,7 +17422,7 @@
       "to": -2005
     },
     "wayback_time": 20190325134234,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17503,7 +17499,7 @@
       "to": 2004
     },
     "wayback_time": 20181105041630,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17589,7 +17585,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105023811,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17612,7 +17608,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20190321131748,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17726,7 +17722,7 @@
     "kind_masao": "カービィ系",
     "feature": "WWA",
     "wayback_time": 20181105023541,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17814,7 +17810,7 @@
     "url": "http://www.geocities.jp/ramiaravuresu/",
     "kind_masao": "ストーリー",
     "wayback_time": 20080611114637,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17837,7 +17833,7 @@
     "kind_masao": "自動",
     "feature": "WWA",
     "wayback_time": 20181105023751,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17867,7 +17863,7 @@
       "to": 2011
     },
     "wayback_time": 20190331123436,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17992,7 +17988,7 @@
       "to": 2007
     },
     "wayback_time": 20181105023656,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -18183,7 +18179,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181125091801,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -18200,7 +18196,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20101008025931,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -18241,7 +18237,7 @@
       "to": 2011
     },
     "wayback_time": 20181105024144,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -18333,14 +18329,14 @@
         "y": 40
       }
     },
-    "url": "http://www.geocities.co.jp/Playtown-Rook/7189/",
-    "oldurl": "http://www.geocities.jp/pawaligh/",
+    "url": "http://www.geocities.jp/pawaligh/",
+    "oldurl": "http://www.geocities.co.jp/Playtown-Rook/7189/",
     "year": {
       "from": 2004,
       "to": 2004
     },
-    "wayback_time": 20181105093819,
-    "state": "archived"
+    "wayback_time": 20181105024309,
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -18404,7 +18400,7 @@
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20190331134324,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -18503,7 +18499,7 @@
       "to": 2004
     },
     "wayback_time": 20181105024648,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -18525,7 +18521,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20190331143023,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -18694,7 +18690,7 @@
       "to": 2007
     },
     "wayback_time": 20181105024711,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -18768,7 +18764,7 @@
       "to": 2003
     },
     "wayback_time": 20190203051107,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -18854,7 +18850,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20050403203433,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -18930,7 +18926,7 @@
       "to": 2005
     },
     "wayback_time": 20190330041050,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -19010,7 +19006,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105023739,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -19080,7 +19076,7 @@
       "WWA"
     ],
     "wayback_time": 20190120080010,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -19226,7 +19222,7 @@
       "to": 2006
     },
     "wayback_time": 20190312151245,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -19434,7 +19430,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105212413,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -19465,7 +19461,7 @@
       "to": 2004
     },
     "wayback_time": 20181105023958,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -19490,7 +19486,7 @@
       "カービィ系"
     ],
     "wayback_time": 20190330225902,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -19526,7 +19522,7 @@
       "to": 2009
     },
     "wayback_time": 20181003155719,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -19677,7 +19673,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20190330222538,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -19710,7 +19706,7 @@
     },
     "feature": "正男100個以上",
     "wayback_time": 20050307072139,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -19756,7 +19752,7 @@
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20101007124249,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -19771,7 +19767,7 @@
       "to": 2004
     },
     "wayback_time": 20040510015723,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -19967,7 +19963,7 @@
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20190329214710,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -20091,7 +20087,7 @@
     "wayback_time": 20051211215529,
     "kind_masao": "カービィ系",
     "feature": "WWA",
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20151,7 +20147,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20181105024128,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20230,7 +20226,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20181105051056,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20358,7 +20354,7 @@
     "url": "http://finito-web.com/syranntixya/",
     "suburl": "http://syranntixya.finito-web.com/",
     "wayback_time": 20031212115515,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20401,7 +20397,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20110325142322,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20472,7 +20468,7 @@
       "to": 2020
     },
     "wayback_time": 20191001143742,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20543,7 +20539,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20060716162152,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20570,7 +20566,7 @@
     ],
     "feature": "素材配布",
     "wayback_time": 20190326212950,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20597,7 +20593,7 @@
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20050313194914,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20693,7 +20689,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20050830200847,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20860,7 +20856,7 @@
     },
     "kind_masao": "カービィ系",
     "wayback_time": 20040518034951,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20906,7 +20902,7 @@
     "kind_masao": "ストーリー",
     "feature": "正男100個以上",
     "wayback_time": 20181204153917,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -20972,7 +20968,7 @@
       "WWA"
     ],
     "wayback_time": 20040616060146,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21115,7 +21111,7 @@
     },
     "kind_masao": "カービィ系",
     "wayback_time": 20181105024723,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21225,7 +21221,7 @@
     "url": "http://www.geocities.jp/takka212/masao.htm",
     "kind_masao": "SASUKE系",
     "wayback_time": 20181111103359,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21357,7 +21353,7 @@
       "ストーリー"
     ],
     "wayback_time": 20120504030858,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21392,7 +21388,7 @@
       "to": 2006
     },
     "wayback_time": 20181106205752,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21410,7 +21406,7 @@
       "カービィ系"
     ],
     "wayback_time": 20150609015336,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21503,7 +21499,7 @@
       "一画面"
     ],
     "wayback_time": 20190331143631,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21552,7 +21548,7 @@
       "to": 2004
     },
     "wayback_time": 20181102124547,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21573,7 +21569,7 @@
       "to": -2004
     },
     "wayback_time": 20181105152035,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21587,7 +21583,7 @@
       "to": 2005
     },
     "wayback_time": 20190324093150,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21769,7 +21765,7 @@
       "to": 2005
     },
     "wayback_time": 20181105023357,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21802,7 +21798,7 @@
     "kind_masao": "ストーリー",
     "feature": "正男100個以上",
     "wayback_time": 20190331142459,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21864,7 +21860,7 @@
     ],
     "feature": "素材配布",
     "wayback_time": 20181111043457,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21971,7 +21967,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20181029154104,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21992,7 +21988,7 @@
       "to": 2008
     },
     "wayback_time": 20190201104111,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -22006,7 +22002,7 @@
     },
     "kind_masao": "一画面",
     "wayback_time": 20181013170323,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -22124,7 +22120,7 @@
       "to": 2006
     },
     "wayback_time": 20181105023754,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -22202,7 +22198,7 @@
       "ストーリー"
     ],
     "wayback_time": 20050424062115,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -22295,7 +22291,7 @@
     },
     "kind_masao": "自動",
     "wayback_time": 20181105024123,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -22320,7 +22316,7 @@
       "WWA"
     ],
     "wayback_time": 20181109072347,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -22334,7 +22330,7 @@
       "to": 2005
     },
     "wayback_time": 20190324050221,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -22406,7 +22402,7 @@
       "to": 2014
     },
     "wayback_time": 20160912101958,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -22518,7 +22514,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20150304101639,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -22719,8 +22715,7 @@
       "ストーリー"
     ],
     "feature": "正男100個以上",
-    "wayback_time": 20190130143721,
-    "state": "archived"
+    "state": "exist"
   },
   {
     "site": {
@@ -22741,7 +22736,7 @@
       "to": 2004
     },
     "wayback_time": 20190320201533,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -23007,7 +23002,7 @@
       "to": 2005
     },
     "wayback_time": 20190330233539,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -23117,7 +23112,7 @@
       "to": 2005
     },
     "wayback_time": 20181105075832,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -23139,7 +23134,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105063941,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -23265,7 +23260,7 @@
       "to": 2010
     },
     "wayback_time": 20190331143627,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -23311,7 +23306,7 @@
     },
     "kind_masao": "JS拡張",
     "wayback_time": 20181105024643,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -23377,7 +23372,7 @@
     ],
     "work": "スーパー敏男",
     "wayback_time": 20190330041855,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -23498,7 +23493,7 @@
       "to": 2006
     },
     "wayback_time": 20181105023315,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -23522,7 +23517,7 @@
       "to": 2003
     },
     "wayback_time": 20181105040753,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -23744,7 +23739,7 @@
       "素材配布"
     ],
     "wayback_time": 20090804051344,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -23873,7 +23868,7 @@
       "ストーリー"
     ],
     "wayback_time": 20150104100752,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -23899,7 +23894,7 @@
     ],
     "feature": "素材配布",
     "wayback_time": 20050308184731,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -23998,7 +23993,7 @@
       "長編4 Menace by the Bloody Scorpion"
     ],
     "wayback_time": 20110812090522,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -24155,7 +24150,7 @@
     },
     "kind_masao": "カービィ系",
     "wayback_time": 20190330134832,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -24233,7 +24228,7 @@
     "url": "http://www.rak1.jp/one/user/masaonomori/",
     "oldurl": "http://www.hamq.jp/i.cfm?i=19900709",
     "wayback_time": 20071215132028,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -24310,7 +24305,7 @@
       "WWA"
     ],
     "wayback_time": 20181119132709,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -24383,7 +24378,7 @@
       "to": 2011
     },
     "wayback_time": 20181119021638,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -24453,7 +24448,7 @@
     ],
     "feature": "WWA",
     "wayback_time": 20050330070053,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -24492,7 +24487,7 @@
       "逆走君"
     ],
     "wayback_time": 20190330152155,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -24563,7 +24558,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20181028081042,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -24656,7 +24651,7 @@
       "to": 2006
     },
     "wayback_time": 20190321052131,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -24730,7 +24725,7 @@
     "url": "http://www21.atpages.jp/masao50000/",
     "kind_masao": "一画面",
     "wayback_time": 20180227000216,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -24821,7 +24816,7 @@
       "to": 2007
     },
     "wayback_time": 20060623060301,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -24876,7 +24871,7 @@
     "kind_masao": "ストーリー",
     "feature": "素材配布",
     "wayback_time": 20040928170734,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -25077,7 +25072,7 @@
     },
     "kind_masao": "自動",
     "wayback_time": 20190323101514,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -25110,7 +25105,7 @@
       "to": 2004
     },
     "wayback_time": 20190330225918,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -25198,7 +25193,7 @@
     ],
     "feature": "素材配布",
     "wayback_time": 20181105024415,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -25280,7 +25275,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20181105023902,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -25301,7 +25296,7 @@
       "to": 2004
     },
     "wayback_time": 20040815044353,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -25322,7 +25317,7 @@
     },
     "kind_masao": "自動",
     "wayback_time": 20181105024224,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -25386,7 +25381,7 @@
       "一画面"
     ],
     "wayback_time": 20070227231335,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -25434,7 +25429,7 @@
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20181105023902,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -25466,7 +25461,7 @@
     "url": "http://www.geocities.jp/akisute132435/",
     "kind_masao": "ストーリー",
     "wayback_time": 20190330224818,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -25607,7 +25602,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105024348,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -25941,7 +25936,7 @@
     "url": "http://www.geocities.jp/battlegauntlet/marioka-to.html",
     "kind_masao": "自動",
     "wayback_time": 20190329151311,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -26001,7 +25996,7 @@
       "ストーリー"
     ],
     "wayback_time": 20181105024230,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -26057,7 +26052,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181105024745,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -26080,7 +26075,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20190331130313,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -26276,7 +26271,7 @@
       "to": 2008
     },
     "wayback_time": 20190329143614,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -26341,7 +26336,7 @@
       "to": 2005
     },
     "wayback_time": 20181021132217,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -26465,7 +26460,7 @@
       "to": 2004
     },
     "wayback_time": 20040209184144,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -26508,7 +26503,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20190324073753,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -26747,7 +26742,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20190330014228,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -26894,7 +26889,7 @@
       "to": 2006
     },
     "wayback_time": 20190216131642,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -26967,7 +26962,7 @@
       "to": -2009
     },
     "wayback_time": 20090209213505,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27014,7 +27009,7 @@
       "to": 2006
     },
     "wayback_time": 20190326163851,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -27051,7 +27046,7 @@
       "to": 2006
     },
     "wayback_time": 20181105023730,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27065,7 +27060,7 @@
     },
     "wayback_time": 20181105023828,
     "kind_masao": "カービィ系",
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27080,7 +27075,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20181108150900,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -27218,7 +27213,7 @@
     },
     "feature": "WWA",
     "wayback_time": 20181105064422,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27288,7 +27283,7 @@
     },
     "feature": "素材配布",
     "wayback_time": 20190330122859,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27311,7 +27306,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20150317145328,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27360,7 +27355,7 @@
     },
     "url": "http://www.geocities.jp/gonohe75225511/",
     "wayback_time": 20040905014043,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27424,7 +27419,7 @@
       "WWA"
     ],
     "wayback_time": 20040903031007,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27499,7 +27494,7 @@
       "to": 2005
     },
     "wayback_time": 20181105023852,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27551,7 +27546,7 @@
       "to": 2005
     },
     "wayback_time": 20050126011509,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27614,7 +27609,7 @@
       "to": 2006
     },
     "wayback_time": 20190326163110,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -27649,7 +27644,7 @@
     },
     "kind_masao": "自動",
     "wayback_time": 20190324050605,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27696,7 +27691,7 @@
     },
     "kind_masao": "ストーリー",
     "wayback_time": 20040716191949,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27726,7 +27721,7 @@
       "ナックルブラスト"
     ],
     "wayback_time": 20190330234036,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -27777,7 +27772,7 @@
     },
     "kind_masao": "自動",
     "wayback_time": 20181105024236,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27918,7 +27913,7 @@
       "to": -2006
     },
     "wayback_time": 20051222053333,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27939,7 +27934,7 @@
       "to": -2009
     },
     "wayback_time": 20090528030112,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -27991,7 +27986,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20040409090252,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -28024,7 +28019,7 @@
       "ストーリー"
     ],
     "wayback_time": 20181105024424,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -28066,7 +28061,7 @@
       "to": -2005
     },
     "wayback_time": 20050420015934,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -28168,7 +28163,7 @@
     "kind_masao": "ストーリー",
     "feature": "WWA",
     "wayback_time": 20181105024316,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -28196,7 +28191,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20190331143630,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -28210,7 +28205,7 @@
       "to": 2009
     },
     "wayback_time": 20181105024333,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -28250,7 +28245,7 @@
       "一画面"
     ],
     "wayback_time": 20181105024304,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -28375,7 +28370,7 @@
       "ストーリー"
     ],
     "wayback_time": 20181119032744,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -28438,7 +28433,7 @@
       "素材配布"
     ],
     "wayback_time": 20190330043716,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -28565,7 +28560,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20090316201212,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -28587,7 +28582,7 @@
       "to": 2006
     },
     "wayback_time": 20050826015736,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -28661,7 +28656,7 @@
       "to": 2009
     },
     "wayback_time": 20190201104112,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -28882,7 +28877,7 @@
     "kind_masao": "ストーリー",
     "work": "正男VSペトモン \"ペトモン大反乱\"",
     "wayback_time": 20181105024348,
-    "state": "archived"
+    "state": "archived_geolog"
   },
   {
     "site": {
@@ -28959,7 +28954,7 @@
     ],
     "feature": "正男100個以上",
     "wayback_time": 20181105024157,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -29008,7 +29003,7 @@
       "to": -2007
     },
     "wayback_time": 20181105024722,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -29032,7 +29027,7 @@
     "kind_masao": "ストーリー",
     "work": "ねずみの大冒険",
     "wayback_time": 20190927090123,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -29047,7 +29042,7 @@
     },
     "wayback_time": 20160912101331,
     "work": "地球防衛軍FX",
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -29065,7 +29060,7 @@
     "url": "http://www.geocities.jp/ryousuke_horisawa/",
     "oldurl": "http://www.geocities.co.jp/AnimeComic/5426/",
     "wayback_time": 20190330232015,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -29083,7 +29078,7 @@
     "url": "http://sky.geocities.jp/teiruzuobu_youth/aozora.html",
     "feature": "WWA",
     "wayback_time": 20130420155151,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -29141,7 +29136,7 @@
     "oldname": "ロマサオ！", 
     "webmaster": "ロマサイ",
     "url": "http://m-pe.tv/u/page.php?uid=romasai&id=1",
-    "orlurl": "http://romatama.web.fc2.com/",
+    "oldurl": "http://romatama.web.fc2.com/",
     "kind_masao": [
       "自動",
       "一画面",
@@ -29169,7 +29164,7 @@
       "to": 2006
     },
     "wayback_time": 20181102144149,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -29226,7 +29221,7 @@
     ],
     "kind_masao": "ストーリー",
     "wayback_time": 20181023150519,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -29374,7 +29369,7 @@
     },
     "kind_masao": "SASUKE系",
     "wayback_time": 20190331001847,
-    "state": "archived"
+    "state": "archived_wayback"
   },
   {
     "site": {

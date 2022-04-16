@@ -16,9 +16,9 @@ const CLASS_NAME_VANISHED = 'vanished'
 let list = [];
 
 $.ajax({
-  type: "GET",
-  url: "list.json",
-  dataType: "json",
+  type: 'GET',
+  url: 'list.json',
+  dataType: 'json',
   async: false,
   cache: false,
   success: function(json) {
@@ -35,21 +35,21 @@ function creatTable(mode, order, kind_masao, feature) {
   
   for (let i = 0; i < list.length; i++) {
     switch (mode) {
-      case "now":
+      case 'now':
         if (list[i].state == STATE_EXIST || list[i].state == STATE_CANVAS) {
           isModeDisplay = true;
         } else {
           isModeDisplay = false;
         }
         break;
-      case "canvas":
+      case 'canvas':
         if (list[i].state == STATE_CANVAS) {
           isModeDisplay = true;
         } else {
           isModeDisplay = false;
         }
         break;
-      case "archive":
+      case 'archive':
         if (list[i].state == STATE_ARCHIVED || list[i].state == STATE_ARCHIVED_WAYBACK || list[i].state == STATE_ARCHIVED_GEOLOG) {
           isModeDisplay = true;
         } else {
@@ -62,71 +62,71 @@ function creatTable(mode, order, kind_masao, feature) {
     }
     
     switch (order) {
-      case "a":
-        if (list[i].site.yomi.charAt(0) >= "あ" && list[i].site.yomi.charAt(0) <= "お") {
+      case 'a':
+        if (list[i].site.yomi.charAt(0) >= 'あ' && list[i].site.yomi.charAt(0) <= 'お') {
           isOrderDisplay = true;
         } else {
           isOrderDisplay = false;
         }
         break;
-      case "k":
-        if (list[i].site.yomi.charAt(0) >= "か" && list[i].site.yomi.charAt(0) <= "こ") {
+      case 'k':
+        if (list[i].site.yomi.charAt(0) >= 'か' && list[i].site.yomi.charAt(0) <= 'こ') {
           isOrderDisplay = true;
         } else {
           isOrderDisplay = false;
         }
         break;
-      case "s":
-        if (list[i].site.yomi.charAt(0) >= "さ" && list[i].site.yomi.charAt(0) <= "そ") {
+      case 's':
+        if (list[i].site.yomi.charAt(0) >= 'さ' && list[i].site.yomi.charAt(0) <= 'そ') {
           isOrderDisplay = true;
         } else {
           isOrderDisplay = false;
         }
         break;
-      case "t":
-        if (list[i].site.yomi.charAt(0) >= "た" && list[i].site.yomi.charAt(0) <= "と") {
+      case 't':
+        if (list[i].site.yomi.charAt(0) >= 'た' && list[i].site.yomi.charAt(0) <= 'と') {
           isOrderDisplay = true;
         } else {
           isOrderDisplay = false;
         }
         break;
-      case "n":
-        if (list[i].site.yomi.charAt(0) >= "な" && list[i].site.yomi.charAt(0) <= "の") {
+      case 'n':
+        if (list[i].site.yomi.charAt(0) >= 'な' && list[i].site.yomi.charAt(0) <= 'の') {
           isOrderDisplay = true;
         } else {
           isOrderDisplay = false;
         }
         break;
-      case "h":
-        if (list[i].site.yomi.charAt(0) >= "は" && list[i].site.yomi.charAt(0) <= "ほ") {
+      case 'h':
+        if (list[i].site.yomi.charAt(0) >= 'は' && list[i].site.yomi.charAt(0) <= 'ほ') {
           isOrderDisplay = true;
         } else {
           isOrderDisplay = false;
         }
         break;
-      case "m":
-        if (list[i].site.yomi.charAt(0) >= "ま" && list[i].site.yomi.charAt(0) <= "も") {
+      case 'm':
+        if (list[i].site.yomi.charAt(0) >= 'ま' && list[i].site.yomi.charAt(0) <= 'も') {
           isOrderDisplay = true;
         } else {
           isOrderDisplay = false;
         }
         break;
-      case "y":
-        if (list[i].site.yomi.charAt(0) >= "や" && list[i].site.yomi.charAt(0) <= "よ") {
+      case 'y':
+        if (list[i].site.yomi.charAt(0) >= 'や' && list[i].site.yomi.charAt(0) <= 'よ') {
           isOrderDisplay = true;
         } else {
           isOrderDisplay = false;
         }
         break;
-      case "r":
-        if (list[i].site.yomi.charAt(0) >= "ら" && list[i].site.yomi.charAt(0) <= "ろ") {
+      case 'r':
+        if (list[i].site.yomi.charAt(0) >= 'ら' && list[i].site.yomi.charAt(0) <= 'ろ') {
           isOrderDisplay = true;
         } else {
           isOrderDisplay = false;
         }
         break;
-      case "w":
-        if (list[i].site.yomi.charAt(0) >= "わ" && list[i].site.yomi.charAt(0) <= "ん") {
+      case 'w':
+        if (list[i].site.yomi.charAt(0) >= 'わ' && list[i].site.yomi.charAt(0) <= 'ん') {
           isOrderDisplay = true;
         } else {
           isOrderDisplay = false;
@@ -137,7 +137,7 @@ function creatTable(mode, order, kind_masao, feature) {
         break;
     }
 
-    if (kind_masao == "all" || kind_masao == 0) {
+    if (kind_masao == 'all' || kind_masao == 0) {
       isKindMasaoDisplay = true;
     } else {
       if (list[i].kind_masao instanceof Array) {
@@ -158,7 +158,7 @@ function creatTable(mode, order, kind_masao, feature) {
       }
     }
 
-    if (feature == "all" || feature == 0) {
+    if (feature == 'all' || feature == 0) {
       isFeatureDisplay = true;
     } else {
       if (list[i].feature instanceof Array) {
@@ -185,12 +185,11 @@ function creatTable(mode, order, kind_masao, feature) {
     } 
   }
   
-  $("#display_site_num").append("<p>現在、表示している正男サイトの数は<strong>" + count + "</strong>です。</p>");
-  $("img").lazyload({
+  $('#display_site_num').append('<p>現在、表示している正男サイトの数は<strong>' + count + '</strong>です。</p>');
+  $('img').lazyload({
       effect : 'fadeIn',
       effectspeed : 500
   });
-  
 }
 
 function masao(name, subname, man, banner, http, year, work, state, wayback_time, nobanner) {
@@ -211,18 +210,18 @@ function masao(name, subname, man, banner, http, year, work, state, wayback_time
 
   let a_banner = document.createElement('a');
   if (state != STATE_VANISHED) {
-    let clickname = "古今東西正男/" + name;
+    let clickname = '古今東西正男/' + name;
     a_banner.onclick = function(){
       ga('send', 'event', 'banner', 'click', clickname);
     };
     if (state == STATE_CLOSED || state == STATE_ARCHIVED || state == STATE_ARCHIVED_WAYBACK || state == STATE_REMAINED) {
       if (wayback_time === undefined) {
-        a_banner.href = "https://web.archive.org/web/" + http;
+        a_banner.href = 'https://web.archive.org/web/' + http;
       } else {
-        a_banner.href = "https://web.archive.org/web/" + wayback_time + "/" + http;
+        a_banner.href = 'https://web.archive.org/web/' + wayback_time + '/' + http;
       }
     } else if (state == STATE_ARCHIVED_GEOLOG) {
-      a_banner.href = "https://geolog.mydns.jp/" + http.replace('https://', '');
+      a_banner.href = 'https://geolog.mydns.jp/' + http.replace('http://', '');
     } else {
       a_banner.href = http;
     }
@@ -240,8 +239,8 @@ function masao(name, subname, man, banner, http, year, work, state, wayback_time
   
   if (banner === undefined) {
     let div_nobanner = document.createElement('div');
-    div_nobanner.style.color = "#000000";
-    div_nobanner.style.backgroundColor = "#808080";
+    div_nobanner.style.color = '#000000';
+    div_nobanner.style.backgroundColor = '#808080';
     if (state == STATE_VANISHED) {
       div_nobanner.className = 'noimage';
       td_banner.appendChild(div_nobanner);
@@ -253,12 +252,12 @@ function masao(name, subname, man, banner, http, year, work, state, wayback_time
     if (banner.image === undefined) {
       let div_nobanner = document.createElement('div');
       if (banner.color === undefined) {
-        div_nobanner.style.color = "#000000";
+        div_nobanner.style.color = '#000000';
       } else {
         div_nobanner.style.color = banner.color;
       }
       if (banner.background_color === undefined) {
-        div_nobanner.style.backgroundColor = "#808080";
+        div_nobanner.style.backgroundColor = '#808080';
       } else {
         div_nobanner.style.backgroundColor = banner.background_color;
       }
@@ -274,14 +273,14 @@ function masao(name, subname, man, banner, http, year, work, state, wayback_time
       if (banner.size.x > 200) {
         let hi = banner.size.x / 200;
         let h = banner.size.y / hi;
-        img_banner.setAttribute("width", 200);
-        img_banner.setAttribute("height", h);
+        img_banner.setAttribute('width', 200);
+        img_banner.setAttribute('height', h);
       } else {
-        img_banner.setAttribute("width", banner.size.x);
-        img_banner.setAttribute("height", banner.size.y);
+        img_banner.setAttribute('width', banner.size.x);
+        img_banner.setAttribute('height', banner.size.y);
       }
-      img_banner.setAttribute("dataoriginal", "banner/" + banner.image);
-      img_banner.setAttribute("src", "banner/unload.png");
+      img_banner.setAttribute('dataoriginal', 'banner/' + banner.image);
+      img_banner.setAttribute('src', 'banner/unload.png');
       img_banner.alt = name;
       if (state == STATE_VANISHED) {
         td_banner.appendChild(img_banner);
@@ -327,7 +326,7 @@ function masao(name, subname, man, banner, http, year, work, state, wayback_time
   if (man !== undefined) {
     text_manager = document.createTextNode(man);
   } else {
-    text_manager = document.createTextNode("？");
+    text_manager = document.createTextNode('？');
   }
   td_manager.appendChild(text_manager);
   tr.appendChild(td_manager);
@@ -338,27 +337,27 @@ function masao(name, subname, man, banner, http, year, work, state, wayback_time
   let text_period;
 
   if (year === undefined) {
-    tempFrom = "？";
-    tempTo = "？";
+    tempFrom = '？';
+    tempTo = '？';
   } else {
     if (year.from === undefined) {
-      tempFrom = "？";
+      tempFrom = '？';
     } else { 
       if (year.from == -1) {
-        tempFrom = "？";
+        tempFrom = '？';
       } else if (year.from < 0) {
-        tempFrom = -year.from + "？";
+        tempFrom = -year.from + '？';
       } else {
         tempFrom = year.from;
       }
     }
     if (year.to === undefined) {
-      tempTo = "？";
+      tempTo = '？';
     } else { 
       if (year.to == -1) {
-        tempTo = "？";
+        tempTo = '？';
       } else if (year.to < 0) {
-        tempTo = -year.to + "？";
+        tempTo = -year.to + '？';
       } else {
         tempTo = year.to;
       }
@@ -366,11 +365,11 @@ function masao(name, subname, man, banner, http, year, work, state, wayback_time
   }
   
   if (tempTo === 0) {
-    text_period = document.createTextNode(tempFrom + "～");
+    text_period = document.createTextNode(tempFrom + '～');
   } else if (tempFrom == tempTo) {
     text_period = document.createTextNode(tempFrom);
   } else {
-    text_period = document.createTextNode(tempFrom + "～" + tempTo);
+    text_period = document.createTextNode(tempFrom + '～' + tempTo);
   }
   td_period.appendChild(text_period);
   tr.appendChild(td_period);
@@ -391,9 +390,9 @@ function reCreateTable(mode, order, kind_masao, feature) {
 function clickRadio() {
   reCreateTable(form_mode.radio_mode.value, form_order.radio_order.value, form_kind_masao.radio_kind_masao.value, form_feature.radio_feature.value);
 }
-    
+
 $(function () {
-  $("#all_site_num").append("<p>現在の正男サイトの総数は<strong>" + list.length + "</strong>です。</p>");
+  $('#all_site_num').append('<p>現在の正男サイトの総数は<strong>' + list.length + '</strong>です。</p>');
   let kokon_nakami = document.getElementById('kokon_nakami');
   creatTable(0, 0, 0, 0);   
 });
