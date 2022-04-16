@@ -50,7 +50,7 @@ function creatTable(mode, order, kind_masao, feature) {
         }
         break;
       case 'archive':
-        if (list[i].state == STATE_ARCHIVED || list[i].state == STATE_ARCHIVED_WAYBACK || list[i].state == STATE_ARCHIVED_GEOLOG) {
+        if (list[i].state == STATE_ARCHIVED || list[i].state == STATE_ARCHIVED_WAYBACK || list[i].state == STATE_ARCHIVED_GEOLOG || list[i].state == STATE_REMAINED) {
           isModeDisplay = true;
         } else {
           isModeDisplay = false;
