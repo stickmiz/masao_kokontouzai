@@ -141,7 +141,7 @@ function creatTable(mode, order, kind_masao, feature) {
       isKindMasaoDisplay = true;
     } else {
       if (list[i].kind_masao instanceof Array) {
-        for (var j = 0; j < list[i].kind_masao.length; j++) {
+        for (let j = 0; j < list[i].kind_masao.length; j++) {
           if (kind_masao == list[i].kind_masao[j]) {
             isKindMasaoDisplay = true;
             break;
@@ -162,7 +162,7 @@ function creatTable(mode, order, kind_masao, feature) {
       isFeatureDisplay = true;
     } else {
       if (list[i].feature instanceof Array) {
-        for (var j = 0; j < list[i].feature.length; j++) {
+        for (let j = 0; j < list[i].feature.length; j++) {
           if (feature == list[i].feature[j]) {
             isFeatureDisplay = true;
             break;
@@ -194,145 +194,149 @@ function creatTable(mode, order, kind_masao, feature) {
 }
 
 function masao(name, subname, man, banner, http, year, work, state, wayback_time, nobanner) {
-  var tr = document.createElement('tr');
-  var td = document.createElement('td');
+  let tr = document.createElement('tr');
+  let td_banner = document.createElement('td');
 
   if (state == STATE_EXIST) {
-    td.className = CLASS_NAME_EXIST;
+    td_banner.className = CLASS_NAME_EXIST;
   } else if (state == STATE_CLOSED) {
-    td.className = CLASS_NAME_CLOSED;
+    td_banner.className = CLASS_NAME_CLOSED;
   } else if (state == STATE_VANISHED) {
-    td.className = CLASS_NAME_VANISHED;
+    td_banner.className = CLASS_NAME_VANISHED;
   } else if (state == STATE_CANVAS) {
-    td.className = CLASS_NAME_CANVAS;
-  } else if (state == STATE_ARCHIVED || state == STATE_ARCHIVED_WAYBACK || state == STATE_REMAINED) {
-    td.className = CLASS_NAME_ARCHIVED;
+    td_banner.className = CLASS_NAME_CANVAS;
+  } else if (state == STATE_ARCHIVED || state == STATE_ARCHIVED_WAYBACK || state == STATE_ARCHIVED_GEOLOG || state == STATE_REMAINED) {
+    td_banner.className = CLASS_NAME_ARCHIVED;
   }
+
+  let a_banner = document.createElement('a');
   if (state != STATE_VANISHED) {
-    var a = document.createElement('a');
-    var clickname = "古今東西正男/" + name;
-    a.onclick = function(){
+    let clickname = "古今東西正男/" + name;
+    a_banner.onclick = function(){
       ga('send', 'event', 'banner', 'click', clickname);
     };
     if (state == STATE_CLOSED || state == STATE_ARCHIVED || state == STATE_ARCHIVED_WAYBACK || state == STATE_REMAINED) {
       if (wayback_time === undefined) {
-        a.href = "https://web.archive.org/web/" + http;
+        a_banner.href = "https://web.archive.org/web/" + http;
       } else {
-        a.href = "https://web.archive.org/web/" + wayback_time + "/" + http;
+        a_banner.href = "https://web.archive.org/web/" + wayback_time + "/" + http;
       }
+    } else if (state == STATE_ARCHIVED_GEOLOG) {
+      a_banner.href = "https://geolog.mydns.jp/" + http.replace('https://', '');
     } else {
-      a.href = http;
+      a_banner.href = http;
     }
-    a.target = '_blank';
+    a_banner.target = '_blank';
     if (banner === undefined) {
-      a.className = 'noimage';
+      a_banner.className = 'noimage';
     } else {
       if (banner.image === undefined) {
-        a.className = 'noimage';
+        a_banner.className = 'noimage';
       } else {
-        a.className = 'image';
+        a_banner.className = 'image';
       }
     }
   }
   
   if (banner === undefined) {
-    var div = document.createElement('div');
-    div.style.color = "#000000";
-    div.style.backgroundColor = "#808080";
+    let div_nobanner = document.createElement('div');
+    div_nobanner.style.color = "#000000";
+    div_nobanner.style.backgroundColor = "#808080";
     if (state == STATE_VANISHED) {
-      div.className = 'noimage';
-      td.appendChild(div);
+      div_nobanner.className = 'noimage';
+      td_banner.appendChild(div_nobanner);
     } else {
-      a.appendChild(div);
-      td.appendChild(a);
+      a_banner.appendChild(div_nobanner);
+      td_banner.appendChild(a_banner);
     }
   } else {
     if (banner.image === undefined) {
-      var div = document.createElement('div');
+      let div_nobanner = document.createElement('div');
       if (banner.color === undefined) {
-        div.style.color = "#000000";
+        div_nobanner.style.color = "#000000";
       } else {
-        div.style.color = banner.color;
+        div_nobanner.style.color = banner.color;
       }
       if (banner.background_color === undefined) {
-        div.style.backgroundColor = "#808080";
+        div_nobanner.style.backgroundColor = "#808080";
       } else {
-        div.style.backgroundColor = banner.background_color;
+        div_nobanner.style.backgroundColor = banner.background_color;
       }
       if (state == STATE_VANISHED) {
-        div.className = 'noimage';
-        td.appendChild(div);
+        div_nobanner.className = 'noimage';
+        td_banner.appendChild(div_nobanner);
       } else {
-        a.appendChild(div);
-        td.appendChild(a);
+        a_banner.appendChild(div_nobanner);
+        td_banner.appendChild(a_banner);
       }
     } else {
-      var img = document.createElement('img');
+      let img_banner = document.createElement('img');
       if (banner.size.x > 200) {
-        var hi = banner.size.x / 200;
-        var h = banner.size.y / hi;
-        img.setAttribute("width", 200);
-        img.setAttribute("height", h);
+        let hi = banner.size.x / 200;
+        let h = banner.size.y / hi;
+        img_banner.setAttribute("width", 200);
+        img_banner.setAttribute("height", h);
       } else {
-        img.setAttribute("width", banner.size.x);
-        img.setAttribute("height", banner.size.y);
+        img_banner.setAttribute("width", banner.size.x);
+        img_banner.setAttribute("height", banner.size.y);
       }
-      img.setAttribute("dataoriginal", "banner/" + banner.image);
-      img.setAttribute("src", "banner/unload.png");
-      img.alt = name;
+      img_banner.setAttribute("dataoriginal", "banner/" + banner.image);
+      img_banner.setAttribute("src", "banner/unload.png");
+      img_banner.alt = name;
       if (state == STATE_VANISHED) {
-        td.appendChild(img);
+        td_banner.appendChild(img_banner);
       } else {
-        a.appendChild(img);
-        td.appendChild(a);
+        a_banner.appendChild(img_banner);
+        td_banner.appendChild(a_banner);
       }
     }
   }
-  tr.appendChild(td);
+  tr.appendChild(td_banner);
   
-  var td = document.createElement('td');
-  var div = document.createElement('div');
-  var em = document.createElement('em');
-  var text = document.createTextNode(name);
-  em.appendChild(text);
-  div.appendChild(em);
+  let td_site_name = document.createElement('td');
+  let em_site_name_main = document.createElement('em');
+  let text_site_name_main = document.createTextNode(name);
+  em_site_name_main.appendChild(text_site_name_main);
+  td_site_name.appendChild(em_site_name_main);
 
   if (subname !== undefined) {
-    var span = document.createElement('span');
-    span.className = 'old';
     if (subname instanceof Array) {
-      for (var i = 0; i < subname.length; i++) {
-        var br = document.createElement('br');
-        span.appendChild(br);
-        var text = document.createTextNode(subname[i]);
-        span.appendChild(text);
+      for (let i = 0; i < subname.length; i++) {
+        let br = document.createElement('br');
+        td_site_name.appendChild(br);
+        let span_site_name_sub = document.createElement('span');
+        span_site_name_sub.className = 'old';
+        let text_site_name_sub = document.createTextNode(subname[i]);
+        span_site_name_sub.appendChild(text_site_name_sub);
+        td_site_name.appendChild(span_site_name_sub);
       }
     } else {
-      var br = document.createElement('br');
-      span.appendChild(br);
-      var text = document.createTextNode(subname);
-      span.appendChild(text);
+      let br = document.createElement('br');
+      td_site_name.appendChild(br);
+      let span_site_name_sub = document.createElement('span');
+      span_site_name_sub.className = 'old';
+      let text_site_name_sub = document.createTextNode(subname);
+      span_site_name_sub.appendChild(text_site_name_sub);
+      td_site_name.appendChild(span_site_name_sub);
     }
-    div.appendChild(span);
   }
+  tr.appendChild(td_site_name);
   
-  td.appendChild(div);
-  tr.appendChild(td);
-  
-  var td = document.createElement('td');
-  
+  let td_manager = document.createElement('td');
+  let text_manager;
   if (man !== undefined) {
-    var text = document.createTextNode(man);
+    text_manager = document.createTextNode(man);
   } else {
-    var text = document.createTextNode("？");
+    text_manager = document.createTextNode("？");
   }
-  td.appendChild(text);
-  tr.appendChild(td);
+  td_manager.appendChild(text_manager);
+  tr.appendChild(td_manager);
   
-  var td = document.createElement('td');
-  var tempFrom;
-  var tempTo;
-  
+  let td_period = document.createElement('td');
+  let tempFrom;
+  let tempTo;
+  let text_period;
+
   if (year === undefined) {
     tempFrom = "？";
     tempTo = "？";
@@ -362,16 +366,14 @@ function masao(name, subname, man, banner, http, year, work, state, wayback_time
   }
   
   if (tempTo === 0) {
-    var text = document.createTextNode(tempFrom + "～");
-    td.appendChild(text);
+    text_period = document.createTextNode(tempFrom + "～");
   } else if (tempFrom == tempTo) {
-    var text = document.createTextNode(tempFrom);
-    td.appendChild(text);
+    text_period = document.createTextNode(tempFrom);
   } else {
-    var text = document.createTextNode(tempFrom + "～" + tempTo);
-    td.appendChild(text);
+    text_period = document.createTextNode(tempFrom + "～" + tempTo);
   }
-  tr.appendChild(td);
+  td_period.appendChild(text_period);
+  tr.appendChild(td_period);
   
   kokon_nakami.appendChild(tr);
 }
@@ -392,6 +394,6 @@ function clickRadio() {
     
 $(function () {
   $("#all_site_num").append("<p>現在の正男サイトの総数は<strong>" + list.length + "</strong>です。</p>");
-  var kokon_nakami = document.getElementById('kokon_nakami');
+  let kokon_nakami = document.getElementById('kokon_nakami');
   creatTable(0, 0, 0, 0);   
 });
