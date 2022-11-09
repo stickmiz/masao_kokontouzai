@@ -55,6 +55,22 @@
   },
   {
     "site": {
+      "name": "R・G・B...",
+      "yomi": "ああるしいひい"
+    },
+    "webmaster": "Hissuj",
+    "banner": {
+      "image": "rgb.png",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://1st.geocities.jp/hissuj/start.html",
+    "state": "closed"
+  },
+  {
+    "site": {
       "name": "アーるのゲームランド",
       "yomi": "ああるのけえむらんと"
     },
@@ -871,6 +887,28 @@
     "kind_masao": "ストーリー",
     "wayback_time": 20040629003359,
     "state": "archived_wayback"
+  },
+  {
+    "site": {
+      "name": "Another Worlds",
+      "yomi": "あなさあわあるす"
+    },
+    "webmaster": "谺",
+    "banner": {
+      "image": "anotherworlds.jpg",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://plaza.rakuten.co.jp/yo6si9/",
+    "oldurl": "http://chibeso.hp.infoseek.co.jp/",
+    "year": {
+      "from": 2003,
+      "to": -2007
+    },
+    "wayback_time": 20070322075807,
+    "state": "closed"
   },
   {
     "site": {
@@ -2248,7 +2286,8 @@
     },
     "url": "http://w3.oroti.net/~kinako4/",
     "suburl": "http://lonelyrabbit.michikusa.jp/index2.html",
-    "state": "exist"
+    "wayback_time": 20200810073256,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -2315,6 +2354,23 @@
     },
     "wayback_time": 20181026151138,
     "state": "archived_wayback"
+  },
+  {
+    "site": {
+      "name": "裏技博物館",
+      "yomi": "うらわさはくふつかん"
+    },
+    "webmaster": "46エモン",
+    "banner": {
+      "image": "urawazahakubutsukan.gif",
+      "size": {
+        "x": 152,
+        "y": 45
+      }
+    },
+    "url": "http://urawaza46.hp.infoseek.co.jp/46/topu.html",
+    "wayback_time": 20090204004615,
+    "state": "closed"
   },
   {
     "site": {
@@ -2780,6 +2836,19 @@
   },
   {
     "site": {
+      "name": "江童電子報",
+      "yomi": "えとうてんしほう"
+    },
+    "webmaster": "鱈井元衡",
+    "url": "http://tarawi.starfree.jp/",
+    "year": {
+      "from": 2022,
+      "to": 0
+    },
+    "state": "canvas"
+  },
+  {
+    "site": {
       "name": "Energy ball",
       "yomi": "えなしいほおる"
     },
@@ -2794,13 +2863,14 @@
     "url": "http://masao775.web.fc2.com/",
     "year": {
       "from": 2009,
-      "to": 2020
+      "to": 2022
     },
     "kind_masao": [
       "一画面",
       "SASUKE系"
     ],
-    "state": "canvas"
+    "wayback_time": 20210222032329,
+    "state": "closed"
   },
   {
     "site": {
@@ -5979,6 +6049,20 @@
   },
   {
     "site": {
+      "name": "クラッシュ改造正男",
+      "yomi": "くらつしゆかいそうまさお"
+    },
+    "webmaster": "電光石火",
+    "url": "http://www.geocities.jp/crash_factory1/denkosekka/",
+    "year": {
+      "from": -2008,
+      "to": -1
+    },
+    "wayback_time": 20081030005549,
+    "state": "closed"
+  },
+  {
+    "site": {
       "name": "クラッシュと正男とそのほかと・・・",
       "yomi": "くらつしゆとまさおとそのほかと"
     },
@@ -6052,11 +6136,90 @@
       }
     },
     "url": "http://www.crashaikou.net/",
+    "oldurl": "http://crash531.hp.infoseek.co.jp/",
     "year": {
       "from": 2003,
       "to": 2018
     },
     "state": "exist"
+  },
+  {
+    "site": {
+      "name": "クラッシュバンディクータウン",
+      "yomi": "くらつしゆはんていくうたうん"
+    },
+    "webmaster": "たクラッシュ",
+    "banner": {
+      "image": "crashtown.gif",
+      "size": {
+        "x": 200,
+        "y": 49
+      }
+    },
+    "url": "http://1st.geocities.jp/ta_crash/crashtown.html",
+    "year": {
+      "from": -1,
+      "to": 2008
+    },
+    "wayback_time": 20080526055359,
+    "state": "closed"
+  },
+  {
+    "site": {
+      "name": "クラッシュバンディクーハウス",
+      "yomi": "くらつしゆはんていくうはうす"
+    },
+    "webmaster": "CURA",
+    "banner": {
+      "image": "crashhouse.png",
+      "size": {
+        "x": 200,
+        "y": 100
+      }
+    },
+    "url": "http://crashhouse.curahome.net/",
+    "year": {
+      "from": 2004,
+      "to": 2013
+    },
+    "feature": "正男100個以上",
+    "wayback_time": 20111228013701,
+    "state": "closed"
+  },
+  {
+    "site": {
+      "name": "クラッシュバンディクーファイト",
+      "yomi": "くらつしゆはんていくうふあいと"
+    },
+    "webmaster": "さ〜しょ",
+    "banner": {
+      "image": "crashfight.png",
+      "size": {
+        "x": 200,
+        "y": 40
+      }
+    },
+    "url": "http://crashbandicootfight.web.fc2.com/",
+    "oldurl": [
+      "http://www.geocities.jp/crash_fight1/",
+      "http://www.geocities.jp/masao_fight/"
+    ],
+    "year": {
+      "from": 2005,
+      "to": 2007
+    },
+    "wayback_time": 20111228013701,
+    "state": "closed"
+  },
+  {
+    "site": {
+      "name": "クラッシュバンディクーファンサイト",
+      "yomi": "くらつしゆはんていくうふあんさいと"
+    },
+    "webmaster": "くろべぇ",
+    "url": "http://www.geocities.jp/chirbo10/indx.html",
+    "wayback_time": 20050421095343,
+    "state": "closed"
   },
   {
     "site": {
@@ -6525,7 +6688,8 @@
       "to": 2013
     },
     "kind_masao": "自動",
-    "state": "exist"
+    "wayback_time": 20190720115426,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -6760,7 +6924,8 @@
       "自動",
       "ストーリー"
     ],
-    "state": "exist"
+    "wayback_time": 20200815152019,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -7794,7 +7959,8 @@
       }
     },
     "url": "http://www.valley.ne.jp/~mi/index.htm",
-    "state": "exist"
+    "wayback_time": 20200429032647,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9000,9 +9166,10 @@
     "feature": "正男100個以上",
     "year": {
       "from": 2005,
-      "to": 0
+      "to": 2019
     },
-    "state": "canvas"
+    "wayback_time": 20220417123426,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -9404,7 +9571,8 @@
       "to": 2008
     },
     "feature": "WWA",
-    "state": "exist"
+    "wayback_time": 20190528074105,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -10948,8 +11116,8 @@
       }
     },
     "url": "http://tyage2.web.fc2.com/",
-    "suburl": "http://w3.oroti.net/~tyage/",
     "oldurl": [
+      "http://w3.oroti.net/~tyage/",
       "http://tyage.a.orn.jp/",
       "http://www.rak2.jp/tyage/"
     ],
@@ -11885,7 +12053,8 @@
       "SASUKE系"
     ],
     "feature": "正男100個以上",
-    "state": "exist"
+    "wayback_time": 20130124210224,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -11898,6 +12067,16 @@
     },
     "url": "http://indigohorizon.kachoufuugetu.net/world1-1.html",
     "state": "exist"
+  },
+  {
+    "site": {
+      "name": "SUPERMARIO愛好会",
+      "yomi": "すうはあまりおあいこうかい"
+    },
+    "webmaster": "s/c/m",
+    "url": "http://www.geocities.jp/ehteui_727/",
+    "state": "vanished",
+    "explanation": "https://web.archive.org/web/20071218071109/http://www.geocities.jp/jimmyakiti/rinnku.htm に正男が存在した旨の記述あり"
   },
   {
     "site": {
@@ -14004,7 +14183,7 @@
     "url": "https://dust-storm.net/",
     "year": {
       "from": 2020,
-      "to": 2020
+      "to": 0
     },
     "state": "canvas"
   },
@@ -15375,7 +15554,8 @@
       }
     },
     "url": "http://w3.oroti.net/~seisaku/",
-    "state": "exist"
+    "wayback_time": 20200810080536,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -16937,7 +17117,8 @@
       "to": 2018
     },
     "kind_masao": "JS拡張",
-    "state": "canvas"
+    "wayback_time": 20210422014516,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17360,7 +17541,8 @@
       "from": -2006,
       "to": -2006
     },
-    "state": "exist"
+    "wayback_time": 20200815161515,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -17404,7 +17586,7 @@
     ],
     "year": {
       "from": 2002,
-      "to": 0
+      "to": 2021
     },
     "kind_masao": "自動",
     "feature": "WWA",
@@ -18143,7 +18325,8 @@
       "正男100個以上",
       "エディタ"
     ],
-    "state": "exist"
+    "wayback_time": 20211026173536,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -19991,7 +20174,7 @@
     "kind_masao": "ストーリー",
     "feature": "正男100個以上",
     "wayback_time": 20050306081543,
-    "state": "remained"
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -21222,6 +21405,23 @@
     "kind_masao": "SASUKE系",
     "wayback_time": 20181111103359,
     "state": "archived_wayback"
+  },
+  {
+    "site": {
+      "name": "BONZOマンション",
+      "yomi": "ほんそまんしよん"
+    },
+    "webmaster": "BONZO",
+    "banner": {
+      "image": "bonzo.png",
+      "size": {
+        "x": 200,
+        "y": 100
+      }
+    },
+    "url": "http://1st.geocities.jp/bonzo429/bonzo1st.html",
+    "wayback_time": 20080609065953,
+    "state": "closed"
   },
   {
     "site": {
@@ -22913,10 +23113,11 @@
     "url": "http://masao3.starfree.jp/",
     "year": {
       "from": 2018,
-      "to": 0
+      "to": 2022
     },
     "feature": "まさお3",
-    "state": "exist"
+    "wayback_time": 20201201121523,
+    "state": "closed"
   },
   {
     "site": {
@@ -24317,7 +24518,7 @@
     "oldurl": "https://masayori.iinaa.net/",
     "year": {
       "from": 2010,
-      "to": 0
+      "to": 2021
     },
     "kind_masao": [
       "自動",
@@ -26530,7 +26731,7 @@
     ],
     "year": {
       "from": 2002,
-      "to": 0
+      "to": -1
     },
     "feature": "素材配布",
     "work": "ブレイズ君の冒険",
@@ -26647,7 +26848,7 @@
     "url": "http://retrogarden.konjiki.jp/",
     "year": {
       "from": 2018,
-      "to": 2018
+      "to": 0
     },
     "kind_masao": "ストーリー",
     "state": "canvas"
@@ -27506,7 +27707,8 @@
       "from": 2007,
       "to": -1
     },
-    "state": "exist"
+    "wayback_time": 20200810094843,
+    "state": "archived_wayback"
   },
   {
     "site": {
@@ -28877,7 +29079,7 @@
     "oldurl": "http://www.geocities.jp/free_masaoworld/top.html",
     "year": {
       "from": 2005,
-      "to": 0
+      "to": 2021
     },
     "kind_masao": "一画面",
     "state": "canvas"
